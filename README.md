@@ -9,7 +9,7 @@ Included in this repository is a Python script that scrapes the [DDaT website](h
 An already generated JSON file is included in this repository, but if you want to generate your own, you can run the following command:
 
 ```bash
-python3 /scrape/getSkills.py
+python3 scrape/getSkills.py
 ```
 
 ## Running the template generator

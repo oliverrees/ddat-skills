@@ -27,7 +27,7 @@ export const ConfigureRole = ({ processedData }: ConfigureRoleProps) => {
     <>
       <div className="text-2xl font-bold">DDaT Template Generator</div>
       <p className="mt-2">
-        Generate a job descriptions and interview scoring sheets based on the{" "}
+        Generate job descriptions and interview scoring sheets based on the{" "}
         <Link
           href="https://www.gov.uk/government/collections/digital-data-and-technology-profession-capability-framework"
           className="underline"
