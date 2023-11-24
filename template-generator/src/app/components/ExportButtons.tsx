@@ -10,17 +10,17 @@ export const ExportButtons = ({
   selectedSeniority,
   role,
 }: ExportButtonsProps) => {
-  const csvData = [["Skill", "Rating (1-5)"]];
+  const csvData = [["Skill", "Rating (1-5)", "Notes"]];
 
   relevantSkills.forEach((skill: any, index: number) => {
     const subSkills =
       skill.levels[Object.keys(skill.levels)[selectedSeniority]];
     if (subSkills.length === 0) return;
-    index > 0 && csvData.push(["", ""]);
-    csvData.push([skill.title, ""]);
+    index > 0 && csvData.push(["", "", ""]);
+    csvData.push([skill.title, "", ""]);
     subSkills.map((level: any) => {
       level = level.charAt(0).toUpperCase() + level.slice(1);
-      csvData.push([level, "0"]);
+      csvData.push([level, "0", ""]);
     });
   });
 
