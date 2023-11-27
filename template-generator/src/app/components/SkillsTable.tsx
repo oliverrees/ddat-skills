@@ -45,10 +45,10 @@ export default function SkillsTable({
             <table className="min-w-full divide-y divide-gray-300  w-full">
               <thead>
                 <tr>
-                  <th scope="col" className="relative px-7 sm:w-12 sm:px-6">
+                  <th scope="col" className="relative px-7 sm:w-12 sm:px-6 hidden">
                     <input
                       type="checkbox"
-                      className="absolute left-4 top-1/2 -mt-2 h-4 w-4 rounded border-gray-300 text-blue-600 focus:ring-blue-600"
+                      className="absolute hidden left-4 top-1/2 -mt-2 h-4 w-4 rounded border-gray-300 text-blue-600 focus:ring-blue-600"
                       checked={checked}
                       onChange={toggleAll}
                     />
@@ -73,13 +73,13 @@ export default function SkillsTable({
               <tbody className="divide-y divide-gray-200 bg-white">
                 {attributes.map((attribute: any, index: number) => (
                   <tr key={index}>
-                    <td className="relative px-7 sm:w-12 sm:px-6">
+                    <td className="relative px-7 sm:w-12 sm:px-6 hidden">
                       {selectedAttributes.includes(attribute) && (
                         <div className="absolute inset-y-0 left-0 w-0.5 bg-blue-600" />
                       )}
                       <input
                         type="checkbox"
-                        className="absolute left-4 top-1/2 -mt-2 h-4 w-4 rounded border-gray-300 text-blue-600 focus:ring-blue-600"
+                        className="absolute hidden left-4 top-1/2 -mt-2 h-4 w-4 rounded border-gray-300 text-blue-600 focus:ring-blue-600"
                         value={attribute}
                         checked={selectedAttributes.includes(attribute)}
                         onChange={(e) =>
