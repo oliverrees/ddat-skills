@@ -438,6 +438,37 @@
     ]
   },
   {
+    "title": "Business architecture",
+    "description": "Business architecture involves using industry standards to develop integrated views of an organisation that help implement organisational strategy and solve complex problems",
+    "levels": {
+      "Awareness": [
+        "show an awareness of business architecture frameworks, principles and techniques",
+        "support the application of frameworks to business change in an organisation, under guidance"
+      ],
+      "Working": [
+        "help support the adoption of business architecture",
+        "clearly communicate business architecture frameworks, principles, and techniques",
+        "support the production of a multidimensional view of your organisation",
+        "assess the impact of strategies on the organisation, highlighting risks and issues"
+      ],
+      "Practitioner": [
+        "apply and develop business architecture frameworks, principles and techniques in your organisation",
+        "advise and guide the organisation to inform the implementation of its strategy",
+        "share the value of business architecture with the organisation",
+        "produce clear multidimensional views of your organisation to support decision making"
+      ],
+      "Expert": [
+        "simplify complex business architecture frameworks into clear actions",
+        "develop business architecture maturity in your organisation, such as through a community of practice",
+        "lead or guide others in using best practice for business architecture, such as industry standards",
+        "identify strategic misalignment within the organisation and make recommendations for improvement"
+      ]
+    },
+    "roleRequired": [
+      "Business architect"
+    ]
+  },
+  {
     "title": "Business modelling",
     "description": "Business modelling involves documenting how your business operates and intends to achieve its goals.",
     "levels": {
@@ -771,6 +802,7 @@
       ]
     },
     "roleRequired": [
+      "Business architect",
       "Frontend developer",
       "Accessibility specialist"
     ]
@@ -932,6 +964,7 @@
       "Expert": []
     },
     "roleRequired": [
+      "Business architect",
       "Accessibility specialist"
     ]
   },
@@ -2387,6 +2420,7 @@
       ]
     },
     "roleRequired": [
+      "Business architect",
       "Enterprise architect",
       "Technical architect"
     ]
@@ -2465,6 +2499,7 @@
       ]
     },
     "roleRequired": [
+      "Business architect",
       "Business analyst"
     ]
   },
@@ -3278,6 +3313,7 @@
       ]
     },
     "roleRequired": [
+      "Business architect",
       "Data ethicist",
       "Data governance manager",
       "Content strategist",
@@ -3410,6 +3446,7 @@
       ]
     },
     "roleRequired": [
+      "Business architect",
       "Enterprise architect"
     ]
   },
@@ -3483,6 +3520,7 @@
       ]
     },
     "roleRequired": [
+      "Business architect",
       "Data architect",
       "Data governance manager",
       "Business relationship manager",
