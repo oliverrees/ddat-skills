@@ -208,7 +208,7 @@ export const ExportButtons = ({
 
 
     await workbook.xlsx.writeBuffer()
-  .then((buffer: any)  => saveAs(new Blob([buffer]), `${Date.now()}_feedback.xlsx`))
+  .then((buffer: any)  => saveAs(new Blob([buffer]), `${role}_Job_Description.xlsx`))
   .catch((err : any) => {console.log('Error writing excel export', err)})
   }
 
