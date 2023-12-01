@@ -12,7 +12,7 @@ const reformattedJson = inputJson.map(obj => {
     const skills = potentialArray.filter(key => obj[key] !== "" && obj[key] !== undefined && obj[key] !== null)
     const skillLevels = skills.map(key => obj[key])
     const skillNames = skills.map(key => previousSkills[key])
-    const skillObjects = skillNames.map((skill, index) => ({ "skill": skill, "level": skillLevels[index] }))
+    const skillObjects = skillNames.map((skill, index) => ({ "skill": skill, "level": skillLevels[index], "id" : skill.replace(/\s/g, '-').toLowerCase() }))
     obj["ddatSkills"] = skillObjects
 
     // Delete potentialArray fields
@@ -35,7 +35,24 @@ const reformattedJson = inputJson.map(obj => {
     const sfiaSkills = sfiaArray.filter(key => obj[key] !== "" && obj[key] !== undefined && obj[key] !== null)
     
     
-    obj["sfiaSkills"] = sfiaSkills.map(key => obj[key])
+    obj["sfiaSkills"] = sfiaSkills.map(key => {
+      const newSkills = {
+        "AUTY" : "Autonomy",
+        "INFL" : "Influence",
+        "COMP" : "Complexity",
+        "BUSS" : "Business Skills",
+        "KNGE" : "Knowledge"
+      }
+      const skill = obj[key].split("(")[0].trim()
+      const descriptiveSkill = newSkills[skill]
+      
+      const item = {
+        "skill": descriptiveSkill,
+        "level": obj[key].split("(")[1].split(")")[0], 
+        "id": obj[key].replace(/\s/g, '-').toLowerCase()
+      }
+      return item
+    })
 
     // Delete sfiaArray fields
     delete obj["FIELD24"];
@@ -55,15 +72,15 @@ const reformattedJson = inputJson.map(obj => {
 
     const ddatParentDescription = previousSkills["FIELD20"]
     obj["ddatParentDescription"] = ddatParentDescription
-    delete obj["FIELD20"];
 
     const ddatParentTitle = previousSkills["FIELD2"]
     obj["ddatParentTitle"] = ddatParentTitle
 
 
     const ddatDesc = obj["FIELD20"]
-    obj["ddatDesc"] = ddatDesc
+    obj["ddatDescription"] = ddatDesc
     delete obj["FIELD22"];
+    delete obj["FIELD20"];
 
     delete obj["FIELD2"];
     delete obj["FIELD17"];
