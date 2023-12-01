@@ -53,9 +53,13 @@ const reformattedJson = inputJson.map(obj => {
     obj["sfiaResponisbility"] = respon
     delete obj["FIELD22"];
 
-    const ddatParent = previousSkills["FIELD20"]
-    obj["ddatParent"] = ddatParent
+    const ddatParentDescription = previousSkills["FIELD20"]
+    obj["ddatParentDescription"] = ddatParentDescription
     delete obj["FIELD20"];
+
+    const ddatParentTitle = previousSkills["FIELD2"]
+    obj["ddatParentTitle"] = ddatParentTitle
+
 
     const ddatDesc = obj["FIELD20"]
     obj["ddatDesc"] = ddatDesc
@@ -89,7 +93,8 @@ const reformattedJson = inputJson.map(obj => {
   //   delete obj["FIELD21"];
   // }
   return obj;
-}).filter(obj => obj["ddatParent"] != null)
+}).filter(obj => obj["ddatParentTitle"] != null)
+
 
 // Write reformatted JSON to output file
 const outputFilePath = 'output.json';

@@ -3,19 +3,25 @@ import { useState } from "react";
 import { CheckIcon, ChevronUpDownIcon } from "@heroicons/react/20/solid";
 import { Combobox } from "@headlessui/react";
 import { classNames } from "../lib/classNames";
+import { Role } from "../types/sfia";
 
 interface RoleSelectorProps {
   onSelectRole: (roleSelected: string) => void;
   selectedRole: string;
-  uniqueRoles: any;
+  roles: Role[];
 }
 
-export default function Example({
-  uniqueRoles,
+export default function RoleSelector({
+  roles,
   selectedRole,
   onSelectRole,
 }: RoleSelectorProps) {
   const [query, setQuery] = useState("");
+  
+  const uniqueRoles = roles
+    .map((role: any) => role.ddatParentTitle)
+    .filter((value: any, index: any, self: any) => self.indexOf(value) === index);
+
 
   const filteredRoles =
     query === ""
@@ -32,7 +38,7 @@ export default function Example({
       onChange={(role) => onSelectRole(role)}
     >
       <Combobox.Label className="block text-sm font-medium leading-6 text-gray-900">
-        Select a Role
+        Select a role
       </Combobox.Label>
       <div className="relative mt-2">
         <Combobox.Input

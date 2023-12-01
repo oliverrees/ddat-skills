@@ -6,52 +6,62 @@ import SenioritySelector from "./SenioritySelector";
 import SkillsTable from "./SkillsTable";
 import { ExportButtons } from "./ExportButtons";
 import Link from "next/link";
+import { Role } from "../types/sfia";
+import { KeyStats } from "./KeyStats";
 
 interface ConfigureRoleProps {
-  processedData: any;
+  data: Role[];
 }
 
-export const ConfigureRole = ({ processedData }: ConfigureRoleProps) => {
-  const [role, setRole] = useState("");
-  const [selectedSeniority, setSelectedSeniority] = useState<any>({
-    id: 0,
-    name: "Junior",
-  });
-  const { uniqueRoles, skillsByRole } = processedData;
-
-  const relevantSkills = role
-    ? skillsByRole.filter((skill: any) => skill.role === role)[0].skills
-    : null;
+export const ConfigureRole = ({ data }: ConfigureRoleProps) => {
+  const [selectedRole, setSelectedRole] = useState("");
+  
+  const [selectedSeniority, setSelectedSeniority] = useState<any>("");
+  const [relevantRoles, setRelevantRoles] = useState<Role[] | null>(null);
+  
+  const roleDetail = data.find((role: Role) => role.title === selectedSeniority) || null;
+  console.log(roleDetail)
 
   return (
     <>
-      <div className="text-2xl font-bold">DDaT Template Generator</div>
+      <div className="text-2xl font-bold">DDaT/SFIA Template Generator</div>
       <p className="mt-2">
-        Generate job descriptions and interview scoring sheets based on the{" "}
+        Generate job descriptions based on the{" "}
         <Link
           href="https://www.gov.uk/government/collections/digital-data-and-technology-profession-capability-framework"
           className="underline"
           target="_blank"
         >
           DDaT capability framework
+        </Link> and the <Link
+          href="https://www.sfia-online.org/en/framework/sfia-7"
+          className="underline"
+          target="_blank"
+        >
+          SFIA skills and competency framework
         </Link>
       </p>
       <div className="flex gap-4 mt-6 w-full border-t pt-6">
         <RoleSelector
-          uniqueRoles={uniqueRoles}
-          selectedRole={role}
+          roles={data}
+          selectedRole={selectedRole}
           onSelectRole={(roleSelected: string) => {
-            setRole(roleSelected);
+            setSelectedRole(roleSelected);
+            const relevantRoles = data.filter((role: Role) => role.ddatParentTitle === roleSelected);
+            setRelevantRoles(relevantRoles)
+            setSelectedSeniority(relevantRoles[0].title);
           }}
         />
-        {role && (
+        {selectedRole && (
           <SenioritySelector
+          relevantRoles={relevantRoles}
             selectedSeniority={selectedSeniority}
             onSelectSeniority={(level: string) => setSelectedSeniority(level)}
           />
         )}
       </div>
-      {relevantSkills && (
+      <KeyStats roleDetail={roleDetail} />
+      {/* {relevantSkills && (
         <>
           <ExportButtons
             role={role}
@@ -66,7 +76,7 @@ export const ConfigureRole = ({ processedData }: ConfigureRoleProps) => {
             />
           ))}
         </>
-      )}
+      )} */}
     </>
   );
 };

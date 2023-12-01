@@ -3,22 +3,17 @@ import { ConfigureRole } from "./components/ConfigureRole";
 import { Container } from "./components/Container";
 import { processData } from "./lib/processData";
 import Link from "next/link";
+import SFIA_DDAT from "../data/sfia-ddat.json";
 
-const getData = async () => {
-  const res = await fetch(
-    "https://raw.githubusercontent.com/oliverrees/ddat-skills/main/skills.json"
-  );
-  const data = await res.json();
-  return data;
-};
+
 
 export default async function Home() {
-  const data = await getData();
-  const processedData = processData(data);
+  const data = SFIA_DDAT;
+  
 
   return (
     <Container>
-      <ConfigureRole processedData={processedData} />
+      <ConfigureRole data={data} />
       <div>
         <Link
           href="https://github.com/oliverrees/ddat-skills/tree/main"

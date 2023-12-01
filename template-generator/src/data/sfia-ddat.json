@@ -42,13 +42,7 @@
         "level": "Awareness"
       }
     ],
-    "sfiaSkills": [
-      "AUTY(1)",
-      "INFL(1)",
-      "COMP(1)",
-      "KNGE(1)",
-      "BUSS(1)"
-    ],
+    "sfiaSkills": ["AUTY(1)", "INFL(1)", "COMP(1)", "KNGE(1)", "BUSS(1)"],
     "title": "Associate analyst",
     "sfiaResponisbility": 1,
     "ddatParentDescription": "A data analyst collects, organises and studies data to provide business insight. In this role, you will:\n\n• apply tools and techniques for data analysis and data visualisation (including the use of business information tools)\n• identify, collect and migrate data to and from a range of systems\n• manage, clean, abstract and aggregate data alongside a range of analytical studies on that data\n• manipulate and link different data sets\n• summarise and present data and conclusions in the most appropriate format for users",
@@ -97,13 +91,7 @@
         "level": "Working"
       }
     ],
-    "sfiaSkills": [
-      "AUTY(3)",
-      "INFL(3)",
-      "COMP(3)",
-      "KNGE(3)",
-      "BUSS(3)"
-    ],
+    "sfiaSkills": ["AUTY(3)", "INFL(3)", "COMP(3)", "KNGE(3)", "BUSS(3)"],
     "title": "Data analyst",
     "sfiaResponisbility": 3,
     "ddatParentDescription": "A data analyst collects, organises and studies data to provide business insight. In this role, you will:\n\n• apply tools and techniques for data analysis and data visualisation (including the use of business information tools)\n• identify, collect and migrate data to and from a range of systems\n• manage, clean, abstract and aggregate data alongside a range of analytical studies on that data\n• manipulate and link different data sets\n• summarise and present data and conclusions in the most appropriate format for users",
@@ -152,13 +140,7 @@
         "level": "Practitioner"
       }
     ],
-    "sfiaSkills": [
-      "AUTY(4)",
-      "INFL(4)",
-      "COMP(4)",
-      "KNGE(4)",
-      "BUSS(4)"
-    ],
+    "sfiaSkills": ["AUTY(4)", "INFL(4)", "COMP(4)", "KNGE(4)", "BUSS(4)"],
     "title": "Senior data analyst",
     "sfiaResponisbility": 4,
     "ddatParentDescription": "A data analyst collects, organises and studies data to provide business insight. In this role, you will:\n\n• apply tools and techniques for data analysis and data visualisation (including the use of business information tools)\n• identify, collect and migrate data to and from a range of systems\n• manage, clean, abstract and aggregate data alongside a range of analytical studies on that data\n• manipulate and link different data sets\n• summarise and present data and conclusions in the most appropriate format for users",
@@ -207,13 +189,7 @@
         "level": "Expert"
       }
     ],
-    "sfiaSkills": [
-      "AUTY(5)",
-      "INFL(5)",
-      "COMP(5)",
-      "KNGE(5)",
-      "BUSS(5)"
-    ],
+    "sfiaSkills": ["AUTY(5)", "INFL(5)", "COMP(5)", "KNGE(5)", "BUSS(5)"],
     "title": "Principal data analyst",
     "sfiaResponisbility": 5,
     "ddatParentDescription": "A data analyst collects, organises and studies data to provide business insight. In this role, you will:\n\n• apply tools and techniques for data analysis and data visualisation (including the use of business information tools)\n• identify, collect and migrate data to and from a range of systems\n• manage, clean, abstract and aggregate data alongside a range of analytical studies on that data\n• manipulate and link different data sets\n• summarise and present data and conclusions in the most appropriate format for users",
@@ -266,13 +242,7 @@
         "level": "Awareness"
       }
     ],
-    "sfiaSkills": [
-      "AUTY(3)",
-      "INFL(3)",
-      "COMP(3)",
-      "KNGE(3)",
-      "BUSS(3)"
-    ],
+    "sfiaSkills": ["AUTY(3)", "INFL(3)", "COMP(3)", "KNGE(3)", "BUSS(3)"],
     "title": "Data engineer",
     "sfiaResponisbility": 3,
     "ddatParentDescription": "A data engineer develops and constructs data products and services and integrates them into systems and business processes.",
@@ -325,13 +295,7 @@
         "level": "Working"
       }
     ],
-    "sfiaSkills": [
-      "AUTY(4)",
-      "INFL(4)",
-      "COMP(4)",
-      "KNGE(4)",
-      "BUSS(4)"
-    ],
+    "sfiaSkills": ["AUTY(4)", "INFL(4)", "COMP(4)", "KNGE(4)", "BUSS(4)"],
     "title": "Senior data engineer",
     "sfiaResponisbility": 4,
     "ddatParentDescription": "A data engineer develops and constructs data products and services and integrates them into systems and business processes.",
@@ -384,13 +348,7 @@
         "level": "Working"
       }
     ],
-    "sfiaSkills": [
-      "AUTY(5)",
-      "INFL(5)",
-      "COMP(5)",
-      "KNGE(5)",
-      "BUSS(5)"
-    ],
+    "sfiaSkills": ["AUTY(5)", "INFL(5)", "COMP(5)", "KNGE(5)", "BUSS(5)"],
     "title": "Lead data engineer",
     "sfiaResponisbility": 5,
     "ddatParentDescription": "A data engineer develops and constructs data products and services and integrates them into systems and business processes.",
@@ -443,13 +401,7 @@
         "level": "Working"
       }
     ],
-    "sfiaSkills": [
-      "AUTY(6)",
-      "INFL(6)",
-      "COMP(6)",
-      "KNGE(6)",
-      "BUSS(6)"
-    ],
+    "sfiaSkills": ["AUTY(6)", "INFL(6)", "COMP(6)", "KNGE(6)", "BUSS(6)"],
     "title": "Head of data engineering",
     "sfiaResponisbility": 6,
     "ddatParentDescription": "A data engineer develops and constructs data products and services and integrates them into systems and business processes.",
@@ -486,13 +438,7 @@
         "level": "Awareness"
       }
     ],
-    "sfiaSkills": [
-      "AUTY(1)",
-      "INFL(1)",
-      "COMP(1)",
-      "KNGE(1)",
-      "BUSS(1)"
-    ],
+    "sfiaSkills": ["AUTY(1)", "INFL(1)", "COMP(1)", "KNGE(1)", "BUSS(1)"],
     "title": "Trainee data scientist",
     "sfiaResponisbility": 1,
     "ddatParentDescription": "A data scientist identifies complex business problems while leveraging data value. In this role, as part of a multidisciplinary team, you will work with data architects, data engineers, analysts and others.",
@@ -529,13 +475,7 @@
         "level": "Working"
       }
     ],
-    "sfiaSkills": [
-      "AUTY(3)",
-      "INFL(3)",
-      "COMP(3)",
-      "KNGE(3)",
-      "BUSS(3)"
-    ],
+    "sfiaSkills": ["AUTY(3)", "INFL(3)", "COMP(3)", "KNGE(3)", "BUSS(3)"],
     "title": "Junior data scientist",
     "sfiaResponisbility": 3,
     "ddatParentDescription": "A data scientist identifies complex business problems while leveraging data value. In this role, as part of a multidisciplinary team, you will work with data architects, data engineers, analysts and others.",
@@ -572,13 +512,7 @@
         "level": "Practitioner"
       }
     ],
-    "sfiaSkills": [
-      "AUTY(4)",
-      "INFL(4)",
-      "COMP(5)",
-      "KNGE(4)",
-      "BUSS(4)"
-    ],
+    "sfiaSkills": ["AUTY(4)", "INFL(4)", "COMP(5)", "KNGE(4)", "BUSS(4)"],
     "title": "Data scientist",
     "sfiaResponisbility": 4,
     "ddatParentDescription": "A data scientist identifies complex business problems while leveraging data value. In this role, as part of a multidisciplinary team, you will work with data architects, data engineers, analysts and others.",
@@ -615,13 +549,7 @@
         "level": "Expert"
       }
     ],
-    "sfiaSkills": [
-      "AUTY(5)",
-      "INFL(5)",
-      "COMP(6)",
-      "KNGE(6)",
-      "BUSS(5)"
-    ],
+    "sfiaSkills": ["AUTY(5)", "INFL(5)", "COMP(6)", "KNGE(6)", "BUSS(5)"],
     "title": "Senior data scientist",
     "sfiaResponisbility": 5,
     "ddatParentDescription": "A data scientist identifies complex business problems while leveraging data value. In this role, as part of a multidisciplinary team, you will work with data architects, data engineers, analysts and others.",
@@ -658,13 +586,7 @@
         "level": "Practitioner"
       }
     ],
-    "sfiaSkills": [
-      "AUTY(6)",
-      "INFL(6)",
-      "COMP(5)",
-      "KNGE(5)",
-      "BUSS(6)"
-    ],
+    "sfiaSkills": ["AUTY(6)", "INFL(6)", "COMP(5)", "KNGE(5)", "BUSS(6)"],
     "title": "Head of data science",
     "sfiaResponisbility": 6,
     "ddatParentDescription": "A data scientist identifies complex business problems while leveraging data value. In this role, as part of a multidisciplinary team, you will work with data architects, data engineers, analysts and others.",
@@ -705,13 +627,7 @@
         "level": "Awareness"
       }
     ],
-    "sfiaSkills": [
-      "AUTY(2)",
-      "INFL(2)",
-      "COMP(2)",
-      "KNGE(3)",
-      "BUSS(2)"
-    ],
+    "sfiaSkills": ["AUTY(2)", "INFL(2)", "COMP(2)", "KNGE(3)", "BUSS(2)"],
     "title": "Associate performance analyst",
     "sfiaResponisbility": 2,
     "ddatParentDescription": "A performance analyst conducts analysis. In this role, you will develop performance measurement frameworks - key performance indicators (KPIs), goals, user needs and benefits - and analyse the performance of a service or product against these, adapting your approach and framework appropriately and in line with any changes.",
@@ -752,13 +668,7 @@
         "level": "Working"
       }
     ],
-    "sfiaSkills": [
-      "AUTY(3)",
-      "INFL(3)",
-      "COMP(3)",
-      "KNGE(3)",
-      "BUSS(3)"
-    ],
+    "sfiaSkills": ["AUTY(3)", "INFL(3)", "COMP(3)", "KNGE(3)", "BUSS(3)"],
     "title": "Performance analyst",
     "sfiaResponisbility": 3,
     "ddatParentDescription": "A performance analyst conducts analysis. In this role, you will develop performance measurement frameworks - key performance indicators (KPIs), goals, user needs and benefits - and analyse the performance of a service or product against these, adapting your approach and framework appropriately and in line with any changes.",
@@ -799,13 +709,7 @@
         "level": "Practitioner"
       }
     ],
-    "sfiaSkills": [
-      "AUTY(4)",
-      "INFL(4)",
-      "COMP(4)",
-      "KNGE(4)",
-      "BUSS(4)"
-    ],
+    "sfiaSkills": ["AUTY(4)", "INFL(4)", "COMP(4)", "KNGE(4)", "BUSS(4)"],
     "title": "Senior performance analyst",
     "sfiaResponisbility": 4,
     "ddatParentDescription": "A performance analyst conducts analysis. In this role, you will develop performance measurement frameworks - key performance indicators (KPIs), goals, user needs and benefits - and analyse the performance of a service or product against these, adapting your approach and framework appropriately and in line with any changes.",
@@ -846,13 +750,7 @@
         "level": "Expert"
       }
     ],
-    "sfiaSkills": [
-      "AUTY(5)",
-      "INFL(5)",
-      "COMP(5)",
-      "KNGE(5)",
-      "BUSS(5)"
-    ],
+    "sfiaSkills": ["AUTY(5)", "INFL(5)", "COMP(5)", "KNGE(5)", "BUSS(5)"],
     "title": "Lead performance analyst",
     "sfiaResponisbility": 5,
     "ddatParentDescription": "A performance analyst conducts analysis. In this role, you will develop performance measurement frameworks - key performance indicators (KPIs), goals, user needs and benefits - and analyse the performance of a service or product against these, adapting your approach and framework appropriately and in line with any changes.",
@@ -893,13 +791,7 @@
         "level": "Expert"
       }
     ],
-    "sfiaSkills": [
-      "AUTY(6)",
-      "INFL(6)",
-      "COMP(6)",
-      "KNGE(6)",
-      "BUSS(6)"
-    ],
+    "sfiaSkills": ["AUTY(6)", "INFL(6)", "COMP(6)", "KNGE(6)", "BUSS(6)"],
     "title": "Head of performance analysis",
     "sfiaResponisbility": 6,
     "ddatParentDescription": "A performance analyst conducts analysis. In this role, you will develop performance measurement frameworks - key performance indicators (KPIs), goals, user needs and benefits - and analyse the performance of a service or product against these, adapting your approach and framework appropriately and in line with any changes.",
@@ -924,13 +816,7 @@
         "level": "Awareness"
       }
     ],
-    "sfiaSkills": [
-      "AUTY(2)",
-      "INFL(2)",
-      "COMP(2)",
-      "KNGE(2)",
-      "BUSS(2)"
-    ],
+    "sfiaSkills": ["AUTY(2)", "INFL(2)", "COMP(2)", "KNGE(2)", "BUSS(2)"],
     "title": "Associate application operations engineer",
     "sfiaResponisbility": 2,
     "ddatParentDescription": "An application operations engineer supports, manages and maintains a single application or a suite of applications.",
@@ -991,13 +877,7 @@
         "level": "Working"
       }
     ],
-    "sfiaSkills": [
-      "AUTY(3)",
-      "INFL(3)",
-      "COMP(3)",
-      "KNGE(3)",
-      "BUSS(3)"
-    ],
+    "sfiaSkills": ["AUTY(3)", "INFL(3)", "COMP(3)", "KNGE(3)", "BUSS(3)"],
     "title": "Application operations engineer",
     "sfiaResponisbility": 3,
     "ddatParentDescription": "An application operations engineer supports, manages and maintains a single application or a suite of applications.",
@@ -1058,13 +938,7 @@
         "level": "Working"
       }
     ],
-    "sfiaSkills": [
-      "AUTY(4)",
-      "INFL(4)",
-      "COMP(4)",
-      "KNGE(4)",
-      "BUSS(4)"
-    ],
+    "sfiaSkills": ["AUTY(4)", "INFL(4)", "COMP(4)", "KNGE(4)", "BUSS(4)"],
     "title": "Senior application operations engineer",
     "sfiaResponisbility": 4,
     "ddatParentDescription": "An application operations engineer supports, manages and maintains a single application or a suite of applications.",
@@ -1125,13 +999,7 @@
         "level": "Practitioner"
       }
     ],
-    "sfiaSkills": [
-      "AUTY(5)",
-      "INFL(5)",
-      "COMP(5)",
-      "KNGE(5)",
-      "BUSS(5)"
-    ],
+    "sfiaSkills": ["AUTY(5)", "INFL(5)", "COMP(5)", "KNGE(5)", "BUSS(5)"],
     "title": "Lead application operations engineer",
     "sfiaResponisbility": 5,
     "ddatParentDescription": "An application operations engineer supports, manages and maintains a single application or a suite of applications.",
@@ -1192,13 +1060,7 @@
         "level": "Practitioner"
       }
     ],
-    "sfiaSkills": [
-      "AUTY(6)",
-      "INFL(6)",
-      "COMP(5)",
-      "KNGE(6)",
-      "BUSS(6)"
-    ],
+    "sfiaSkills": ["AUTY(6)", "INFL(6)", "COMP(5)", "KNGE(6)", "BUSS(6)"],
     "title": "Principal application operations engineer",
     "sfiaResponisbility": 6,
     "ddatParentDescription": "An application operations engineer supports, manages and maintains a single application or a suite of applications.",
@@ -1251,13 +1113,7 @@
         "level": "Working"
       }
     ],
-    "sfiaSkills": [
-      "AUTY(4)",
-      "INFL(4)",
-      "COMP(4)",
-      "KNGE(4)",
-      "BUSS(4)"
-    ],
+    "sfiaSkills": ["AUTY(4)", "INFL(4)", "COMP(4)", "KNGE(4)", "BUSS(4)"],
     "title": "Business relationship manager",
     "sfiaResponisbility": 4,
     "ddatParentDescription": "A business relationship manager is responsible for acting as the liaison between the business and a selected customer group within a department to understand the operational and developmental needs of the business.",
@@ -1310,13 +1166,7 @@
         "level": "Practitioner"
       }
     ],
-    "sfiaSkills": [
-      "AUTY(5)",
-      "INFL(5)",
-      "COMP(5)",
-      "KNGE(5)",
-      "BUSS(5)"
-    ],
+    "sfiaSkills": ["AUTY(5)", "INFL(5)", "COMP(5)", "KNGE(5)", "BUSS(5)"],
     "title": "Senior business relationship manager",
     "sfiaResponisbility": 5,
     "ddatParentDescription": "A business relationship manager is responsible for acting as the liaison between the business and a selected customer group within a department to understand the operational and developmental needs of the business.",
@@ -1369,13 +1219,7 @@
         "level": "Expert"
       }
     ],
-    "sfiaSkills": [
-      "AUTY(6)",
-      "INFL(6)",
-      "COMP(6)",
-      "KNGE(6)",
-      "BUSS(6)"
-    ],
+    "sfiaSkills": ["AUTY(6)", "INFL(6)", "COMP(6)", "KNGE(6)", "BUSS(6)"],
     "title": "Lead business relationship manager",
     "sfiaResponisbility": 6,
     "ddatParentDescription": "A business relationship manager is responsible for acting as the liaison between the business and a selected customer group within a department to understand the operational and developmental needs of the business.",
@@ -1436,13 +1280,7 @@
         "level": "Awareness"
       }
     ],
-    "sfiaSkills": [
-      "AUTY(3)",
-      "INFL(3)",
-      "COMP(3)",
-      "KNGE(3)",
-      "BUSS(3)"
-    ],
+    "sfiaSkills": ["AUTY(3)", "INFL(3)", "COMP(3)", "KNGE(3)", "BUSS(3)"],
     "title": "Configuration analyst",
     "sfiaResponisbility": 3,
     "ddatParentDescription": "Change and release managers lead the change advisory board, ensuring adequate risk assessment and scheduling of technical changes and releases. In this role, you also own the configuration management database and the access, security, configuration of change activities and release procedures.",
@@ -1503,13 +1341,7 @@
         "level": "Awareness"
       }
     ],
-    "sfiaSkills": [
-      "AUTY(4)",
-      "INFL(4)",
-      "COMP(4)",
-      "KNGE(4)",
-      "BUSS(4)"
-    ],
+    "sfiaSkills": ["AUTY(4)", "INFL(4)", "COMP(4)", "KNGE(4)", "BUSS(4)"],
     "title": "Change and release analyst",
     "sfiaResponisbility": 4,
     "ddatParentDescription": "Change and release managers lead the change advisory board, ensuring adequate risk assessment and scheduling of technical changes and releases. In this role, you also own the configuration management database and the access, security, configuration of change activities and release procedures.",
@@ -1570,13 +1402,7 @@
         "level": "Working"
       }
     ],
-    "sfiaSkills": [
-      "AUTY(5)",
-      "INFL(5)",
-      "COMP(5)",
-      "KNGE(5)",
-      "BUSS(5)"
-    ],
+    "sfiaSkills": ["AUTY(5)", "INFL(5)", "COMP(5)", "KNGE(5)", "BUSS(5)"],
     "title": "Change and release manager",
     "sfiaResponisbility": 5,
     "ddatParentDescription": "Change and release managers lead the change advisory board, ensuring adequate risk assessment and scheduling of technical changes and releases. In this role, you also own the configuration management database and the access, security, configuration of change activities and release procedures.",
@@ -1637,13 +1463,7 @@
         "level": "Working"
       }
     ],
-    "sfiaSkills": [
-      "AUTY(3)",
-      "INFL(3)",
-      "COMP(3)",
-      "KNGE(3)",
-      "BUSS(3)"
-    ],
+    "sfiaSkills": ["AUTY(3)", "INFL(3)", "COMP(3)", "KNGE(3)", "BUSS(3)"],
     "title": "Operations analyst",
     "sfiaResponisbility": 3,
     "ddatParentDescription": "Command and control centre managers proactively monitor live services and performance trends to identify potential problems or areas for improvement that can then be investigated.",
@@ -1704,13 +1524,7 @@
         "level": "Working"
       }
     ],
-    "sfiaSkills": [
-      "AUTY(4)",
-      "INFL(4)",
-      "COMP(4)",
-      "KNGE(4)",
-      "BUSS(4)"
-    ],
+    "sfiaSkills": ["AUTY(4)", "INFL(4)", "COMP(4)", "KNGE(4)", "BUSS(4)"],
     "title": "Senior operations analyst",
     "sfiaResponisbility": 4,
     "ddatParentDescription": "Command and control centre managers proactively monitor live services and performance trends to identify potential problems or areas for improvement that can then be investigated.",
@@ -1771,13 +1585,7 @@
         "level": "Practitioner"
       }
     ],
-    "sfiaSkills": [
-      "AUTY(5)",
-      "INFL(5)",
-      "COMP(5)",
-      "KNGE(5)",
-      "BUSS(5)"
-    ],
+    "sfiaSkills": ["AUTY(5)", "INFL(5)", "COMP(5)", "KNGE(5)", "BUSS(5)"],
     "title": "Operational control manager",
     "sfiaResponisbility": 5,
     "ddatParentDescription": "Command and control centre managers proactively monitor live services and performance trends to identify potential problems or areas for improvement that can then be investigated.",
@@ -1834,13 +1642,7 @@
         "level": "Expert"
       }
     ],
-    "sfiaSkills": [
-      "AUTY(6)",
-      "INFL(6)",
-      "COMP(6)",
-      "KNGE(6)",
-      "BUSS(6)"
-    ],
+    "sfiaSkills": ["AUTY(6)", "INFL(6)", "COMP(6)", "KNGE(6)", "BUSS(6)"],
     "title": "Head of command and control",
     "sfiaResponisbility": 6,
     "ddatParentDescription": "Command and control centre managers proactively monitor live services and performance trends to identify potential problems or areas for improvement that can then be investigated.",
@@ -1869,13 +1671,7 @@
         "level": "Awareness"
       }
     ],
-    "sfiaSkills": [
-      "AUTY(2)",
-      "INFL(2)",
-      "COMP(2)",
-      "KNGE(2)",
-      "BUSS(2)"
-    ],
+    "sfiaSkills": ["AUTY(2)", "INFL(2)", "COMP(2)", "KNGE(2)", "BUSS(2)"],
     "title": "Associate end user computing engineer",
     "sfiaResponisbility": 2,
     "ddatParentDescription": "An end user computing engineer is responsible for managing the product life cycle of all service-raised incidents (incident control) and all service requests (request control), requiring the use of knowledge management. In this role, you will also be responsible for informing customers on progress and advising on workarounds where necessary, as well as the support and maintenance of end user services.",
@@ -1936,13 +1732,7 @@
         "level": "Working"
       }
     ],
-    "sfiaSkills": [
-      "AUTY(3)",
-      "INFL(3)",
-      "COMP(3)",
-      "KNGE(3)",
-      "BUSS(3)"
-    ],
+    "sfiaSkills": ["AUTY(3)", "INFL(3)", "COMP(3)", "KNGE(3)", "BUSS(3)"],
     "title": "End user computing engineer",
     "sfiaResponisbility": 3,
     "ddatParentDescription": "An end user computing engineer is responsible for managing the product life cycle of all service-raised incidents (incident control) and all service requests (request control), requiring the use of knowledge management. In this role, you will also be responsible for informing customers on progress and advising on workarounds where necessary, as well as the support and maintenance of end user services.",
@@ -2003,13 +1793,7 @@
         "level": "Working"
       }
     ],
-    "sfiaSkills": [
-      "AUTY(4)",
-      "INFL(4)",
-      "COMP(4)",
-      "KNGE(4)",
-      "BUSS(4)"
-    ],
+    "sfiaSkills": ["AUTY(4)", "INFL(4)", "COMP(4)", "KNGE(4)", "BUSS(4)"],
     "title": "Senior end user computing engineer",
     "sfiaResponisbility": 4,
     "ddatParentDescription": "An end user computing engineer is responsible for managing the product life cycle of all service-raised incidents (incident control) and all service requests (request control), requiring the use of knowledge management. In this role, you will also be responsible for informing customers on progress and advising on workarounds where necessary, as well as the support and maintenance of end user services.",
@@ -2070,13 +1854,7 @@
         "level": "Practitioner"
       }
     ],
-    "sfiaSkills": [
-      "AUTY(5)",
-      "INFL(5)",
-      "COMP(5)",
-      "KNGE(5)",
-      "BUSS(5)"
-    ],
+    "sfiaSkills": ["AUTY(5)", "INFL(5)", "COMP(5)", "KNGE(5)", "BUSS(5)"],
     "title": "Lead end user computing engineer",
     "sfiaResponisbility": 5,
     "ddatParentDescription": "An end user computing engineer is responsible for managing the product life cycle of all service-raised incidents (incident control) and all service requests (request control), requiring the use of knowledge management. In this role, you will also be responsible for informing customers on progress and advising on workarounds where necessary, as well as the support and maintenance of end user services.",
@@ -2133,13 +1911,7 @@
         "level": "Expert"
       }
     ],
-    "sfiaSkills": [
-      "AUTY(6)",
-      "INFL(6)",
-      "COMP(6)",
-      "KNGE(6)",
-      "BUSS(6)"
-    ],
+    "sfiaSkills": ["AUTY(6)", "INFL(6)", "COMP(6)", "KNGE(6)", "BUSS(6)"],
     "title": "Principal end user computing engineer",
     "sfiaResponisbility": 6,
     "ddatParentDescription": "An end user computing engineer is responsible for managing the product life cycle of all service-raised incidents (incident control) and all service requests (request control), requiring the use of knowledge management. In this role, you will also be responsible for informing customers on progress and advising on workarounds where necessary, as well as the support and maintenance of end user services.",
@@ -2164,13 +1936,7 @@
         "level": "Awareness"
       }
     ],
-    "sfiaSkills": [
-      "AUTY(2)",
-      "INFL(2)",
-      "COMP(2)",
-      "KNGE(2)",
-      "BUSS(2)"
-    ],
+    "sfiaSkills": ["AUTY(2)", "INFL(2)", "COMP(2)", "KNGE(2)", "BUSS(2)"],
     "title": "Associate infrastructure operations engineer",
     "sfiaResponisbility": 2,
     "ddatParentDescription": "An infrastructure operations engineer supports, manages and maintains the core infrastructure that underpins production services.",
@@ -2231,13 +1997,7 @@
         "level": "Awareness"
       }
     ],
-    "sfiaSkills": [
-      "AUTY(3)",
-      "INFL(3)",
-      "COMP(3)",
-      "KNGE(3)",
-      "BUSS(3)"
-    ],
+    "sfiaSkills": ["AUTY(3)", "INFL(3)", "COMP(3)", "KNGE(3)", "BUSS(3)"],
     "title": "Infrastructure operations engineer",
     "sfiaResponisbility": 3,
     "ddatParentDescription": "An infrastructure operations engineer supports, manages and maintains the core infrastructure that underpins production services.",
@@ -2298,13 +2058,7 @@
         "level": "Awareness"
       }
     ],
-    "sfiaSkills": [
-      "AUTY(4)",
-      "INFL(4)",
-      "COMP(4)",
-      "KNGE(4)",
-      "BUSS(4)"
-    ],
+    "sfiaSkills": ["AUTY(4)", "INFL(4)", "COMP(4)", "KNGE(4)", "BUSS(4)"],
     "title": "Senior infrastructure operations engineer",
     "sfiaResponisbility": 4,
     "ddatParentDescription": "An infrastructure operations engineer supports, manages and maintains the core infrastructure that underpins production services.",
@@ -2365,13 +2119,7 @@
         "level": "Working"
       }
     ],
-    "sfiaSkills": [
-      "AUTY(5)",
-      "INFL(5)",
-      "COMP(5)",
-      "KNGE(5)",
-      "BUSS(5)"
-    ],
+    "sfiaSkills": ["AUTY(5)", "INFL(5)", "COMP(5)", "KNGE(5)", "BUSS(5)"],
     "title": "Lead infrastructure operations engineer",
     "sfiaResponisbility": 5,
     "ddatParentDescription": "An infrastructure operations engineer supports, manages and maintains the core infrastructure that underpins production services.",
@@ -2432,13 +2180,7 @@
         "level": "Practitioner"
       }
     ],
-    "sfiaSkills": [
-      "AUTY(6)",
-      "INFL(6)",
-      "COMP(6)",
-      "KNGE(6)",
-      "BUSS(6)"
-    ],
+    "sfiaSkills": ["AUTY(6)", "INFL(6)", "COMP(6)", "KNGE(6)", "BUSS(6)"],
     "title": "Principal infrastructure operations engineer",
     "sfiaResponisbility": 6,
     "ddatParentDescription": "An infrastructure operations engineer supports, manages and maintains the core infrastructure that underpins production services.",
@@ -2499,13 +2241,7 @@
         "level": "Working"
       }
     ],
-    "sfiaSkills": [
-      "AUTY(4)",
-      "INFL(4)",
-      "COMP(4)",
-      "KNGE(4)",
-      "BUSS(4)"
-    ],
+    "sfiaSkills": ["AUTY(4)", "INFL(4)", "COMP(4)", "KNGE(4)", "BUSS(4)"],
     "title": "Incident manager",
     "sfiaResponisbility": 4,
     "ddatParentDescription": "Incident managers aim to restore normal service operation as quickly as possible and minimise any adverse effect on business operations. This makes sure that the best possible levels of service quality and availability are returned and maintained.",
@@ -2566,13 +2302,7 @@
         "level": "Practitioner"
       }
     ],
-    "sfiaSkills": [
-      "AUTY(5)",
-      "INFL(5)",
-      "COMP(4)",
-      "KNGE(4)",
-      "BUSS(5)"
-    ],
+    "sfiaSkills": ["AUTY(5)", "INFL(5)", "COMP(4)", "KNGE(4)", "BUSS(5)"],
     "title": "Major incident manager",
     "sfiaResponisbility": 5,
     "ddatParentDescription": "Incident managers aim to restore normal service operation as quickly as possible and minimise any adverse effect on business operations. This makes sure that the best possible levels of service quality and availability are returned and maintained.",
@@ -2625,13 +2355,7 @@
         "level": "Working"
       }
     ],
-    "sfiaSkills": [
-      "AUTY(3)",
-      "INFL(3)",
-      "COMP(3)",
-      "KNGE(3)",
-      "BUSS(3)"
-    ],
+    "sfiaSkills": ["AUTY(3)", "INFL(3)", "COMP(3)", "KNGE(3)", "BUSS(3)"],
     "title": "IT service analyst",
     "sfiaResponisbility": 3,
     "ddatParentDescription": "IT service managers are responsible for managing the service delivery of information and communications technology (ICT) services and working with teams from IT service operations.",
@@ -2684,13 +2408,7 @@
         "level": "Working"
       }
     ],
-    "sfiaSkills": [
-      "AUTY(4)",
-      "INFL(4)",
-      "COMP(4)",
-      "KNGE(4)",
-      "BUSS(4)"
-    ],
+    "sfiaSkills": ["AUTY(4)", "INFL(4)", "COMP(4)", "KNGE(4)", "BUSS(4)"],
     "title": "IT service manager",
     "sfiaResponisbility": 4,
     "ddatParentDescription": "IT service managers are responsible for managing the service delivery of information and communications technology (ICT) services and working with teams from IT service operations.",
@@ -2743,13 +2461,7 @@
         "level": "Practitioner"
       }
     ],
-    "sfiaSkills": [
-      "AUTY(5)",
-      "INFL(5)",
-      "COMP(5)",
-      "KNGE(5)",
-      "BUSS(5)"
-    ],
+    "sfiaSkills": ["AUTY(5)", "INFL(5)", "COMP(5)", "KNGE(5)", "BUSS(5)"],
     "title": "Senior IT service manager",
     "sfiaResponisbility": 5,
     "ddatParentDescription": "IT service managers are responsible for managing the service delivery of information and communications technology (ICT) services and working with teams from IT service operations.",
@@ -2798,13 +2510,7 @@
         "level": "Expert"
       }
     ],
-    "sfiaSkills": [
-      "AUTY(6)",
-      "INFL(6)",
-      "COMP(6)",
-      "KNGE(6)",
-      "BUSS(6)"
-    ],
+    "sfiaSkills": ["AUTY(6)", "INFL(6)", "COMP(6)", "KNGE(6)", "BUSS(6)"],
     "title": "Head of IT service management",
     "sfiaResponisbility": 6,
     "ddatParentDescription": "IT service managers are responsible for managing the service delivery of information and communications technology (ICT) services and working with teams from IT service operations.",
@@ -2865,13 +2571,7 @@
         "level": "Working"
       }
     ],
-    "sfiaSkills": [
-      "AUTY(3)",
-      "INFL(3)",
-      "COMP(3)",
-      "KNGE(3)",
-      "BUSS(3)"
-    ],
+    "sfiaSkills": ["AUTY(3)", "INFL(3)", "COMP(3)", "KNGE(3)", "BUSS(3)"],
     "title": "Problem analyst",
     "sfiaResponisbility": 3,
     "ddatParentDescription": "Problem managers aim to resolve and control the root causes of incidents caused by errors within the IT infrastructure. In this role, you will be expected to work to prevent the recurrence of these incidents.",
@@ -2932,13 +2632,7 @@
         "level": "Working"
       }
     ],
-    "sfiaSkills": [
-      "AUTY(5)",
-      "INFL(5)",
-      "COMP(5)",
-      "KNGE(5)",
-      "BUSS(5)"
-    ],
+    "sfiaSkills": ["AUTY(5)", "INFL(5)", "COMP(5)", "KNGE(5)", "BUSS(5)"],
     "title": "Problem manager",
     "sfiaResponisbility": 5,
     "ddatParentDescription": "Problem managers aim to resolve and control the root causes of incidents caused by errors within the IT infrastructure. In this role, you will be expected to work to prevent the recurrence of these incidents.",
@@ -2979,13 +2673,7 @@
         "level": "Awareness"
       }
     ],
-    "sfiaSkills": [
-      "AUTY(2)",
-      "INFL(2)",
-      "COMP(2)",
-      "KNGE(2)",
-      "BUSS(2)"
-    ],
+    "sfiaSkills": ["AUTY(2)", "INFL(2)", "COMP(2)", "KNGE(2)", "BUSS(2)"],
     "title": "Service desk analyst",
     "sfiaResponisbility": 2,
     "ddatParentDescription": "A service desk manager is responsible for managing the first- and second-line technical support for all departmental IT applications and services across sites, including end-user computing. This includes multi-function devices and specialised IT equipment.\n\nIn this role, you will also be responsible for ensuring support for existing and emerging information and communications technology (ICT) services, including providing technical advice to project teams.",
@@ -3034,13 +2722,7 @@
         "level": "Practitioner"
       }
     ],
-    "sfiaSkills": [
-      "AUTY(4)",
-      "INFL(4)",
-      "COMP(4)",
-      "KNGE(4)",
-      "BUSS(4)"
-    ],
+    "sfiaSkills": ["AUTY(4)", "INFL(4)", "COMP(4)", "KNGE(4)", "BUSS(4)"],
     "title": "Service desk manager",
     "sfiaResponisbility": 4,
     "ddatParentDescription": "A service desk manager is responsible for managing the first- and second-line technical support for all departmental IT applications and services across sites, including end-user computing. This includes multi-function devices and specialised IT equipment.\n\nIn this role, you will also be responsible for ensuring support for existing and emerging information and communications technology (ICT) services, including providing technical advice to project teams.",
@@ -3089,13 +2771,7 @@
         "level": "Working"
       }
     ],
-    "sfiaSkills": [
-      "AUTY(3)",
-      "INFL(3)",
-      "COMP(3)",
-      "KNGE(3)",
-      "BUSS(3)"
-    ],
+    "sfiaSkills": ["AUTY(3)", "INFL(3)", "COMP(3)", "KNGE(3)", "BUSS(3)"],
     "title": "Senior service desk analyst",
     "sfiaResponisbility": 3,
     "ddatParentDescription": "A service desk manager is responsible for managing the first- and second-line technical support for all departmental IT applications and services across sites, including end-user computing. This includes multi-function devices and specialised IT equipment.\n\nIn this role, you will also be responsible for ensuring support for existing and emerging information and communications technology (ICT) services, including providing technical advice to project teams.",
@@ -3144,13 +2820,7 @@
         "level": "Expert"
       }
     ],
-    "sfiaSkills": [
-      "AUTY(5)",
-      "INFL(5)",
-      "COMP(5)",
-      "KNGE(5)",
-      "BUSS(5)"
-    ],
+    "sfiaSkills": ["AUTY(5)", "INFL(5)", "COMP(5)", "KNGE(5)", "BUSS(5)"],
     "title": "Head of service desk",
     "sfiaResponisbility": 5,
     "ddatParentDescription": "A service desk manager is responsible for managing the first- and second-line technical support for all departmental IT applications and services across sites, including end-user computing. This includes multi-function devices and specialised IT equipment.\n\nIn this role, you will also be responsible for ensuring support for existing and emerging information and communications technology (ICT) services, including providing technical advice to project teams.",
@@ -3211,13 +2881,7 @@
         "level": "Working"
       }
     ],
-    "sfiaSkills": [
-      "AUTY(3)",
-      "INFL(3)",
-      "COMP(3)",
-      "KNGE(3)",
-      "BUSS(3)"
-    ],
+    "sfiaSkills": ["AUTY(3)", "INFL(3)", "COMP(3)", "KNGE(3)", "BUSS(3)"],
     "title": "Service acceptance analyst",
     "sfiaResponisbility": 3,
     "ddatParentDescription": "IT service transition managers provide overall planning for service transitions and coordinate the required resources. In this role, you will be expected to control the product life cycle of all changes, enabling beneficial changes to be made with minimum disruption to IT services.",
@@ -3278,13 +2942,7 @@
         "level": "Working"
       }
     ],
-    "sfiaSkills": [
-      "AUTY(3)",
-      "INFL(3)",
-      "COMP(3)",
-      "KNGE(3)",
-      "BUSS(3)"
-    ],
+    "sfiaSkills": ["AUTY(3)", "INFL(3)", "COMP(3)", "KNGE(3)", "BUSS(3)"],
     "title": "Service readiness analyst",
     "sfiaResponisbility": 3,
     "ddatParentDescription": "IT service transition managers provide overall planning for service transitions and coordinate the required resources. In this role, you will be expected to control the product life cycle of all changes, enabling beneficial changes to be made with minimum disruption to IT services.",
@@ -3345,13 +3003,7 @@
         "level": "Working"
       }
     ],
-    "sfiaSkills": [
-      "AUTY(4)",
-      "INFL(4)",
-      "COMP(4)",
-      "KNGE(4)",
-      "BUSS(4)"
-    ],
+    "sfiaSkills": ["AUTY(4)", "INFL(4)", "COMP(4)", "KNGE(4)", "BUSS(4)"],
     "title": "Service transition manager",
     "sfiaResponisbility": 4,
     "ddatParentDescription": "IT service transition managers provide overall planning for service transitions and coordinate the required resources. In this role, you will be expected to control the product life cycle of all changes, enabling beneficial changes to be made with minimum disruption to IT services.",
@@ -3408,13 +3060,7 @@
         "level": "Practitioner"
       }
     ],
-    "sfiaSkills": [
-      "AUTY(5)",
-      "INFL(5)",
-      "COMP(5)",
-      "KNGE(5)",
-      "BUSS(5)"
-    ],
+    "sfiaSkills": ["AUTY(5)", "INFL(5)", "COMP(5)", "KNGE(5)", "BUSS(5)"],
     "title": "Lead service transition manager",
     "sfiaResponisbility": 5,
     "ddatParentDescription": "IT service transition managers provide overall planning for service transitions and coordinate the required resources. In this role, you will be expected to control the product life cycle of all changes, enabling beneficial changes to be made with minimum disruption to IT services.",
@@ -3475,13 +3121,7 @@
         "level": "Awareness"
       }
     ],
-    "sfiaSkills": [
-      "AUTY(2)",
-      "INFL(2)",
-      "COMP(3)",
-      "KNGE(2)",
-      "BUSS(3)"
-    ],
+    "sfiaSkills": ["AUTY(2)", "INFL(2)", "COMP(3)", "KNGE(2)", "BUSS(3)"],
     "title": "Junior business analyst",
     "sfiaResponisbility": 2,
     "ddatParentDescription": "Business analysts understand and analyse user and business needs.",
@@ -3542,13 +3182,7 @@
         "level": "Working"
       }
     ],
-    "sfiaSkills": [
-      "AUTY(3)",
-      "INFL(3)",
-      "COMP(3)",
-      "KNGE(4)",
-      "BUSS(4)"
-    ],
+    "sfiaSkills": ["AUTY(3)", "INFL(3)", "COMP(3)", "KNGE(4)", "BUSS(4)"],
     "title": "Business analyst",
     "sfiaResponisbility": 3,
     "ddatParentDescription": "Business analysts understand and analyse user and business needs.",
@@ -3609,13 +3243,7 @@
         "level": "Practitioner"
       }
     ],
-    "sfiaSkills": [
-      "AUTY(4)",
-      "INFL(4)",
-      "COMP(5)",
-      "KNGE(5)",
-      "BUSS(4)"
-    ],
+    "sfiaSkills": ["AUTY(4)", "INFL(4)", "COMP(5)", "KNGE(5)", "BUSS(4)"],
     "title": "Senior business analyst",
     "sfiaResponisbility": 4,
     "ddatParentDescription": "Business analysts understand and analyse user and business needs.",
@@ -3676,13 +3304,7 @@
         "level": "Expert"
       }
     ],
-    "sfiaSkills": [
-      "AUTY(5)",
-      "INFL(5)",
-      "COMP(5)",
-      "KNGE(6)",
-      "BUSS(6)"
-    ],
+    "sfiaSkills": ["AUTY(5)", "INFL(5)", "COMP(5)", "KNGE(6)", "BUSS(6)"],
     "title": "Principal business analyst",
     "sfiaResponisbility": 5,
     "ddatParentDescription": "Business analysts understand and analyse user and business needs.",
@@ -3727,13 +3349,7 @@
         "level": "Awareness"
       }
     ],
-    "sfiaSkills": [
-      "AUTY(4)",
-      "INFL(4)",
-      "COMP(4)",
-      "KNGE(4)",
-      "BUSS(4)"
-    ],
+    "sfiaSkills": ["AUTY(4)", "INFL(4)", "COMP(4)", "KNGE(4)", "BUSS(4)"],
     "title": "Associate delivery manager",
     "sfiaResponisbility": 4,
     "ddatParentDescription": "A delivery manager is accountable for the delivery of products and services.",
@@ -3778,13 +3394,7 @@
         "level": "Working"
       }
     ],
-    "sfiaSkills": [
-      "AUTY(5)",
-      "INFL(5)",
-      "COMP(5)",
-      "KNGE(5)",
-      "BUSS(5)"
-    ],
+    "sfiaSkills": ["AUTY(5)", "INFL(5)", "COMP(5)", "KNGE(5)", "BUSS(5)"],
     "title": "Delivery manager",
     "sfiaResponisbility": 5,
     "ddatParentDescription": "A delivery manager is accountable for the delivery of products and services.",
@@ -3829,13 +3439,7 @@
         "level": "Practitioner"
       }
     ],
-    "sfiaSkills": [
-      "AUTY(6)",
-      "INFL(6)",
-      "COMP(6)",
-      "KNGE(6)",
-      "BUSS(6)"
-    ],
+    "sfiaSkills": ["AUTY(6)", "INFL(6)", "COMP(6)", "KNGE(6)", "BUSS(6)"],
     "title": "Senior delivery manager",
     "sfiaResponisbility": 6,
     "ddatParentDescription": "A delivery manager is accountable for the delivery of products and services.",
@@ -3880,13 +3484,7 @@
         "level": "Expert"
       }
     ],
-    "sfiaSkills": [
-      "AUTY(7)",
-      "INFL(6)",
-      "COMP(6)",
-      "KNGE(6)",
-      "BUSS(7)"
-    ],
+    "sfiaSkills": ["AUTY(7)", "INFL(6)", "COMP(6)", "KNGE(6)", "BUSS(7)"],
     "title": "Head of (agile) delivery management",
     "sfiaResponisbility": 7,
     "ddatParentDescription": "A delivery manager is accountable for the delivery of products and services.",
@@ -3935,13 +3533,7 @@
         "level": "Working"
       }
     ],
-    "sfiaSkills": [
-      "AUTY(2)",
-      "INFL(3)",
-      "COMP(3)",
-      "KNGE(3)",
-      "BUSS(3)"
-    ],
+    "sfiaSkills": ["AUTY(2)", "INFL(3)", "COMP(3)", "KNGE(3)", "BUSS(3)"],
     "title": "Associate product manager",
     "sfiaResponisbility": 3,
     "ddatParentDescription": "A product manager is responsible for the quality of their products. In this role, you will be expected to use your knowledge of user needs and business goals to frame problems and set priorities for your delivery teams.",
@@ -3990,13 +3582,7 @@
         "level": "Practitioner"
       }
     ],
-    "sfiaSkills": [
-      "AUTY(3)",
-      "INFL(4)",
-      "COMP(4)",
-      "KNGE(4)",
-      "BUSS(4)"
-    ],
+    "sfiaSkills": ["AUTY(3)", "INFL(4)", "COMP(4)", "KNGE(4)", "BUSS(4)"],
     "title": "Product manager",
     "sfiaResponisbility": 4,
     "ddatParentDescription": "A product manager is responsible for the quality of their products. In this role, you will be expected to use your knowledge of user needs and business goals to frame problems and set priorities for your delivery teams.",
@@ -4045,13 +3631,7 @@
         "level": "Expert"
       }
     ],
-    "sfiaSkills": [
-      "AUTY(4)",
-      "INFL(5)",
-      "COMP(5)",
-      "KNGE(5)",
-      "BUSS(5)"
-    ],
+    "sfiaSkills": ["AUTY(4)", "INFL(5)", "COMP(5)", "KNGE(5)", "BUSS(5)"],
     "title": "Senior product manager",
     "sfiaResponisbility": 5,
     "ddatParentDescription": "A product manager is responsible for the quality of their products. In this role, you will be expected to use your knowledge of user needs and business goals to frame problems and set priorities for your delivery teams.",
@@ -4100,13 +3680,7 @@
         "level": "Expert"
       }
     ],
-    "sfiaSkills": [
-      "AUTY(5)",
-      "INFL(6)",
-      "COMP(6)",
-      "KNGE(6)",
-      "BUSS(6)"
-    ],
+    "sfiaSkills": ["AUTY(5)", "INFL(6)", "COMP(6)", "KNGE(6)", "BUSS(6)"],
     "title": "Lead product manager",
     "sfiaResponisbility": 6,
     "ddatParentDescription": "A product manager is responsible for the quality of their products. In this role, you will be expected to use your knowledge of user needs and business goals to frame problems and set priorities for your delivery teams.",
@@ -4155,13 +3729,7 @@
         "level": "Expert"
       }
     ],
-    "sfiaSkills": [
-      "AUTY(6)",
-      "INFL(6)",
-      "COMP(6)",
-      "KNGE(6)",
-      "BUSS(6)"
-    ],
+    "sfiaSkills": ["AUTY(6)", "INFL(6)", "COMP(6)", "KNGE(6)", "BUSS(6)"],
     "title": "Head of product",
     "sfiaResponisbility": 6,
     "ddatParentDescription": "A product manager is responsible for the quality of their products. In this role, you will be expected to use your knowledge of user needs and business goals to frame problems and set priorities for your delivery teams.",
@@ -4206,13 +3774,7 @@
         "level": "Expert"
       }
     ],
-    "sfiaSkills": [
-      "AUTY(6)",
-      "INFL(6)",
-      "COMP(6)",
-      "KNGE(6)",
-      "BUSS(6)"
-    ],
+    "sfiaSkills": ["AUTY(6)", "INFL(6)", "COMP(6)", "KNGE(6)", "BUSS(6)"],
     "title": "Programme delivery manager",
     "sfiaResponisbility": 6,
     "ddatParentDescription": "A programme delivery manager is accountable for the delivery of complex products and services that are being delivered by multiple teams or have high technical or political risk.",
@@ -4253,13 +3815,7 @@
         "level": "Expert"
       }
     ],
-    "sfiaSkills": [
-      "AUTY(5)",
-      "INFL(5)",
-      "COMP(6)",
-      "KNGE(5)",
-      "BUSS(5)"
-    ],
+    "sfiaSkills": ["AUTY(5)", "INFL(5)", "COMP(6)", "KNGE(5)", "BUSS(5)"],
     "title": "Service owner",
     "sfiaResponisbility": 5,
     "ddatParentDescription": "A service owner is accountable for the quality of their service. In this role, you will be expected to adopt a portfolio view, managing end-to-end services that include multiple products and channels.",
@@ -4284,13 +3840,7 @@
         "level": "Working"
       }
     ],
-    "sfiaSkills": [
-      "AUTY(3)",
-      "INFL(3)",
-      "COMP(3)",
-      "KNGE(3)",
-      "BUSS(3)"
-    ],
+    "sfiaSkills": ["AUTY(3)", "INFL(3)", "COMP(3)", "KNGE(3)", "BUSS(3)"],
     "title": "QAT analyst",
     "sfiaResponisbility": 3,
     "ddatParentDescription": "A QAT analyst designs and executes test plans and carries out exploratory testing as part of a broader risk-based approach.",
@@ -4315,13 +3865,7 @@
         "level": "Awareness"
       }
     ],
-    "sfiaSkills": [
-      "AUTY(1)",
-      "INFL(1)",
-      "COMP(2)",
-      "KNGE(2)",
-      "BUSS(1)"
-    ],
+    "sfiaSkills": ["AUTY(1)", "INFL(1)", "COMP(2)", "KNGE(2)", "BUSS(1)"],
     "title": "Tester (QAT)",
     "sfiaResponisbility": 1,
     "ddatParentDescription": "A QAT analyst designs and executes test plans and carries out exploratory testing as part of a broader risk-based approach.",
@@ -4346,13 +3890,7 @@
         "level": "Practitioner"
       }
     ],
-    "sfiaSkills": [
-      "AUTY(4)",
-      "INFL(4)",
-      "COMP(4)",
-      "KNGE(4)",
-      "BUSS(4)"
-    ],
+    "sfiaSkills": ["AUTY(4)", "INFL(4)", "COMP(4)", "KNGE(4)", "BUSS(4)"],
     "title": "Senior QAT analyst",
     "sfiaResponisbility": 4,
     "ddatParentDescription": "A QAT analyst designs and executes test plans and carries out exploratory testing as part of a broader risk-based approach.",
@@ -4377,13 +3915,7 @@
         "level": "Expert"
       }
     ],
-    "sfiaSkills": [
-      "AUTY(5)",
-      "INFL(5)",
-      "COMP(5)",
-      "KNGE(5)",
-      "BUSS(5)"
-    ],
+    "sfiaSkills": ["AUTY(5)", "INFL(5)", "COMP(5)", "KNGE(5)", "BUSS(5)"],
     "title": "Lead QAT analyst",
     "sfiaResponisbility": 5,
     "ddatParentDescription": "A QAT analyst designs and executes test plans and carries out exploratory testing as part of a broader risk-based approach.",
@@ -4408,13 +3940,7 @@
         "level": "Awareness"
       }
     ],
-    "sfiaSkills": [
-      "AUTY(1)",
-      "INFL(1)",
-      "COMP(2)",
-      "KNGE(2)",
-      "BUSS(1)"
-    ],
+    "sfiaSkills": ["AUTY(1)", "INFL(1)", "COMP(2)", "KNGE(2)", "BUSS(1)"],
     "title": "Tester (test engineer)",
     "sfiaResponisbility": 1,
     "ddatParentDescription": "A test engineer undertakes test planning activity including discovery capture, test definition and the estimation of test effort as part of a broader risk-based approach.",
@@ -4439,13 +3965,7 @@
         "level": "Working"
       }
     ],
-    "sfiaSkills": [
-      "AUTY(3)",
-      "INFL(3)",
-      "COMP(3)",
-      "KNGE(3)",
-      "BUSS(3)"
-    ],
+    "sfiaSkills": ["AUTY(3)", "INFL(3)", "COMP(3)", "KNGE(3)", "BUSS(3)"],
     "title": "Test engineer",
     "sfiaResponisbility": 3,
     "ddatParentDescription": "A test engineer undertakes test planning activity including discovery capture, test definition and the estimation of test effort as part of a broader risk-based approach.",
@@ -4470,13 +3990,7 @@
         "level": "Practitioner"
       }
     ],
-    "sfiaSkills": [
-      "AUTY(4)",
-      "INFL(4)",
-      "COMP(4)",
-      "KNGE(4)",
-      "BUSS(4)"
-    ],
+    "sfiaSkills": ["AUTY(4)", "INFL(4)", "COMP(4)", "KNGE(4)", "BUSS(4)"],
     "title": "Senior test engineer",
     "sfiaResponisbility": 4,
     "ddatParentDescription": "A test engineer undertakes test planning activity including discovery capture, test definition and the estimation of test effort as part of a broader risk-based approach.",
@@ -4501,13 +4015,7 @@
         "level": "Practitioner"
       }
     ],
-    "sfiaSkills": [
-      "AUTY(5)",
-      "INFL(5)",
-      "COMP(5)",
-      "KNGE(5)",
-      "BUSS(5)"
-    ],
+    "sfiaSkills": ["AUTY(5)", "INFL(5)", "COMP(5)", "KNGE(5)", "BUSS(5)"],
     "title": "Lead test engineer",
     "sfiaResponisbility": 5,
     "ddatParentDescription": "A test engineer undertakes test planning activity including discovery capture, test definition and the estimation of test effort as part of a broader risk-based approach.",
@@ -4532,13 +4040,7 @@
         "level": "Practitioner"
       }
     ],
-    "sfiaSkills": [
-      "AUTY(5)",
-      "INFL(5)",
-      "COMP(5)",
-      "KNGE(5)",
-      "BUSS(5)"
-    ],
+    "sfiaSkills": ["AUTY(5)", "INFL(5)", "COMP(5)", "KNGE(5)", "BUSS(5)"],
     "title": "Test manager",
     "sfiaResponisbility": 5,
     "ddatParentDescription": "A test manager takes ownership of the quality assurance and testing (QAT) strategy as part of a broader risk-based approach.",
@@ -4563,13 +4065,7 @@
         "level": "Practitioner"
       }
     ],
-    "sfiaSkills": [
-      "AUTY(6)",
-      "INFL(6)",
-      "COMP(6)",
-      "KNGE(6)",
-      "BUSS(6)"
-    ],
+    "sfiaSkills": ["AUTY(6)", "INFL(6)", "COMP(6)", "KNGE(6)", "BUSS(6)"],
     "title": "Head of test",
     "sfiaResponisbility": 6,
     "ddatParentDescription": "A test manager takes ownership of the quality assurance and testing (QAT) strategy as part of a broader risk-based approach.",
@@ -4622,13 +4118,7 @@
         "level": "Working"
       }
     ],
-    "sfiaSkills": [
-      "AUTY(4)",
-      "INFL(3)",
-      "COMP(4)",
-      "KNGE(3)",
-      "BUSS(4)"
-    ],
+    "sfiaSkills": ["AUTY(4)", "INFL(3)", "COMP(4)", "KNGE(3)", "BUSS(4)"],
     "title": "Data architect",
     "sfiaResponisbility": 4,
     "ddatParentDescription": "A data architect sets the vision for the organisation’s use of data, through data design, to meet business needs.",
@@ -4681,13 +4171,7 @@
         "level": "Practitioner"
       }
     ],
-    "sfiaSkills": [
-      "AUTY(5)",
-      "INFL(4)",
-      "COMP(5)",
-      "KNGE(4)",
-      "BUSS(5)"
-    ],
+    "sfiaSkills": ["AUTY(5)", "INFL(4)", "COMP(5)", "KNGE(4)", "BUSS(5)"],
     "title": "Senior data architect",
     "sfiaResponisbility": 5,
     "ddatParentDescription": "A data architect sets the vision for the organisation’s use of data, through data design, to meet business needs.",
@@ -4740,13 +4224,7 @@
         "level": "Expert"
       }
     ],
-    "sfiaSkills": [
-      "AUTY(6)",
-      "INFL(5)",
-      "COMP(6)",
-      "KNGE(5)",
-      "BUSS(6)"
-    ],
+    "sfiaSkills": ["AUTY(6)", "INFL(5)", "COMP(6)", "KNGE(5)", "BUSS(6)"],
     "title": "Chief data architect",
     "sfiaResponisbility": 6,
     "ddatParentDescription": "A data architect sets the vision for the organisation’s use of data, through data design, to meet business needs.",
@@ -4779,13 +4257,7 @@
         "level": "Awareness"
       }
     ],
-    "sfiaSkills": [
-      "AUTY(1)",
-      "INFL(1)",
-      "COMP(1)",
-      "KNGE(1)",
-      "BUSS(1)"
-    ],
+    "sfiaSkills": ["AUTY(1)", "INFL(1)", "COMP(1)", "KNGE(1)", "BUSS(1)"],
     "title": "Apprentice DevOps engineer",
     "sfiaResponisbility": 1,
     "ddatParentDescription": "Commonly referred to as ‘DevOp engineers’, development operations engineers support the development and operation of software through tools, environments and practices.\n\nIn this role, you will be responsible for underpinning good development processes including managing tools and testing environments, central code control, maintaining development standards and writing software that automates systems.",
@@ -4830,13 +4302,7 @@
         "level": "Awareness"
       }
     ],
-    "sfiaSkills": [
-      "AUTY(2)",
-      "INFL(2)",
-      "COMP(2)",
-      "KNGE(2)",
-      "BUSS(2)"
-    ],
+    "sfiaSkills": ["AUTY(2)", "INFL(2)", "COMP(2)", "KNGE(2)", "BUSS(2)"],
     "title": "Junior DevOps engineer",
     "sfiaResponisbility": 2,
     "ddatParentDescription": "Commonly referred to as ‘DevOp engineers’, development operations engineers support the development and operation of software through tools, environments and practices.\n\nIn this role, you will be responsible for underpinning good development processes including managing tools and testing environments, central code control, maintaining development standards and writing software that automates systems.",
@@ -4885,13 +4351,7 @@
         "level": "Working"
       }
     ],
-    "sfiaSkills": [
-      "AUTY(3)",
-      "INFL(3)",
-      "COMP(3)",
-      "KNGE(3)",
-      "BUSS(3)"
-    ],
+    "sfiaSkills": ["AUTY(3)", "INFL(3)", "COMP(3)", "KNGE(3)", "BUSS(3)"],
     "title": "DevOps engineer",
     "sfiaResponisbility": 3,
     "ddatParentDescription": "Commonly referred to as ‘DevOp engineers’, development operations engineers support the development and operation of software through tools, environments and practices.\n\nIn this role, you will be responsible for underpinning good development processes including managing tools and testing environments, central code control, maintaining development standards and writing software that automates systems.",
@@ -4940,13 +4400,7 @@
         "level": "Practitioner"
       }
     ],
-    "sfiaSkills": [
-      "AUTY(4)",
-      "INFL(4)",
-      "COMP(4)",
-      "KNGE(4)",
-      "BUSS(4)"
-    ],
+    "sfiaSkills": ["AUTY(4)", "INFL(4)", "COMP(4)", "KNGE(4)", "BUSS(4)"],
     "title": "Senior DevOps engineer - management",
     "sfiaResponisbility": 4,
     "ddatParentDescription": "Commonly referred to as ‘DevOp engineers’, development operations engineers support the development and operation of software through tools, environments and practices.\n\nIn this role, you will be responsible for underpinning good development processes including managing tools and testing environments, central code control, maintaining development standards and writing software that automates systems.",
@@ -4995,13 +4449,7 @@
         "level": "Practitioner"
       }
     ],
-    "sfiaSkills": [
-      "AUTY(4)",
-      "INFL(4)",
-      "COMP(4)",
-      "KNGE(4)",
-      "BUSS(4)"
-    ],
+    "sfiaSkills": ["AUTY(4)", "INFL(4)", "COMP(4)", "KNGE(4)", "BUSS(4)"],
     "title": "Senior DevOps engineer",
     "sfiaResponisbility": 4,
     "ddatParentDescription": "Commonly referred to as ‘DevOp engineers’, development operations engineers support the development and operation of software through tools, environments and practices.\n\nIn this role, you will be responsible for underpinning good development processes including managing tools and testing environments, central code control, maintaining development standards and writing software that automates systems.",
@@ -5050,13 +4498,7 @@
         "level": "Practitioner"
       }
     ],
-    "sfiaSkills": [
-      "AUTY(5)",
-      "INFL(5)",
-      "COMP(5)",
-      "KNGE(5)",
-      "BUSS(5)"
-    ],
+    "sfiaSkills": ["AUTY(5)", "INFL(5)", "COMP(5)", "KNGE(5)", "BUSS(5)"],
     "title": "Lead DevOps engineer - management",
     "sfiaResponisbility": 5,
     "ddatParentDescription": "Commonly referred to as ‘DevOp engineers’, development operations engineers support the development and operation of software through tools, environments and practices.\n\nIn this role, you will be responsible for underpinning good development processes including managing tools and testing environments, central code control, maintaining development standards and writing software that automates systems.",
@@ -5105,13 +4547,7 @@
         "level": "Practitioner"
       }
     ],
-    "sfiaSkills": [
-      "AUTY(5)",
-      "INFL(5)",
-      "COMP(5)",
-      "KNGE(5)",
-      "BUSS(5)"
-    ],
+    "sfiaSkills": ["AUTY(5)", "INFL(5)", "COMP(5)", "KNGE(5)", "BUSS(5)"],
     "title": "Lead DevOps engineer",
     "sfiaResponisbility": 5,
     "ddatParentDescription": "Commonly referred to as ‘DevOp engineers’, development operations engineers support the development and operation of software through tools, environments and practices.\n\nIn this role, you will be responsible for underpinning good development processes including managing tools and testing environments, central code control, maintaining development standards and writing software that automates systems.",
@@ -5160,13 +4596,7 @@
         "level": "Practitioner"
       }
     ],
-    "sfiaSkills": [
-      "AUTY(6)",
-      "INFL(6)",
-      "COMP(6)",
-      "KNGE(6)",
-      "BUSS(6)"
-    ],
+    "sfiaSkills": ["AUTY(6)", "INFL(6)", "COMP(6)", "KNGE(6)", "BUSS(6)"],
     "title": "Principal DevOps engineer - management",
     "sfiaResponisbility": 6,
     "ddatParentDescription": "Commonly referred to as ‘DevOp engineers’, development operations engineers support the development and operation of software through tools, environments and practices.\n\nIn this role, you will be responsible for underpinning good development processes including managing tools and testing environments, central code control, maintaining development standards and writing software that automates systems.",
@@ -5215,13 +4645,7 @@
         "level": "Practitioner"
       }
     ],
-    "sfiaSkills": [
-      "AUTY(6)",
-      "INFL(6)",
-      "COMP(6)",
-      "KNGE(6)",
-      "BUSS(6)"
-    ],
+    "sfiaSkills": ["AUTY(6)", "INFL(6)", "COMP(6)", "KNGE(6)", "BUSS(6)"],
     "title": "Principal DevOps engineer",
     "sfiaResponisbility": 6,
     "ddatParentDescription": "Commonly referred to as ‘DevOp engineers’, development operations engineers support the development and operation of software through tools, environments and practices.\n\nIn this role, you will be responsible for underpinning good development processes including managing tools and testing environments, central code control, maintaining development standards and writing software that automates systems.",
@@ -5266,13 +4690,7 @@
         "level": "Awareness"
       }
     ],
-    "sfiaSkills": [
-      "AUTY(2)",
-      "INFL(2)",
-      "COMP(2)",
-      "KNGE(2)",
-      "BUSS(2)"
-    ],
+    "sfiaSkills": ["AUTY(2)", "INFL(2)", "COMP(2)", "KNGE(2)", "BUSS(2)"],
     "title": "Associate infrastructure engineer",
     "sfiaResponisbility": 2,
     "ddatParentDescription": "An infrastructure engineer designs, builds, manages and supports the infrastructure services that underpin all internal user services and services to the public.",
@@ -5329,13 +4747,7 @@
         "level": "Working"
       }
     ],
-    "sfiaSkills": [
-      "AUTY(3)",
-      "INFL(3)",
-      "COMP(3)",
-      "KNGE(3)",
-      "BUSS(3)"
-    ],
+    "sfiaSkills": ["AUTY(3)", "INFL(3)", "COMP(3)", "KNGE(3)", "BUSS(3)"],
     "title": "Infrastructure engineer",
     "sfiaResponisbility": 3,
     "ddatParentDescription": "An infrastructure engineer designs, builds, manages and supports the infrastructure services that underpin all internal user services and services to the public.",
@@ -5392,13 +4804,7 @@
         "level": "Practitioner"
       }
     ],
-    "sfiaSkills": [
-      "AUTY(4)",
-      "INFL(4)",
-      "COMP(4)",
-      "KNGE(4)",
-      "BUSS(4)"
-    ],
+    "sfiaSkills": ["AUTY(4)", "INFL(4)", "COMP(4)", "KNGE(4)", "BUSS(4)"],
     "title": "Senior infrastructure engineer",
     "sfiaResponisbility": 4,
     "ddatParentDescription": "An infrastructure engineer designs, builds, manages and supports the infrastructure services that underpin all internal user services and services to the public.",
@@ -5455,13 +4861,7 @@
         "level": "Expert"
       }
     ],
-    "sfiaSkills": [
-      "AUTY(5)",
-      "INFL(5)",
-      "COMP(5)",
-      "KNGE(5)",
-      "BUSS(5)"
-    ],
+    "sfiaSkills": ["AUTY(5)", "INFL(5)", "COMP(5)", "KNGE(5)", "BUSS(5)"],
     "title": "Lead infrastructure engineer",
     "sfiaResponisbility": 5,
     "ddatParentDescription": "An infrastructure engineer designs, builds, manages and supports the infrastructure services that underpin all internal user services and services to the public.",
@@ -5518,13 +4918,7 @@
         "level": "Expert"
       }
     ],
-    "sfiaSkills": [
-      "AUTY(6)",
-      "INFL(6)",
-      "COMP(6)",
-      "KNGE(6)",
-      "BUSS(6)"
-    ],
+    "sfiaSkills": ["AUTY(6)", "INFL(6)", "COMP(6)", "KNGE(6)", "BUSS(6)"],
     "title": "Principal infrastructure engineer",
     "sfiaResponisbility": 6,
     "ddatParentDescription": "An infrastructure engineer designs, builds, manages and supports the infrastructure services that underpin all internal user services and services to the public.",
@@ -5557,13 +4951,7 @@
         "level": "Working"
       }
     ],
-    "sfiaSkills": [
-      "AUTY(3)",
-      "INFL(3)",
-      "COMP(3)",
-      "KNGE(3)",
-      "BUSS(3)"
-    ],
+    "sfiaSkills": ["AUTY(3)", "INFL(3)", "COMP(3)", "KNGE(3)", "BUSS(3)"],
     "title": "Associate network architect",
     "sfiaResponisbility": 3,
     "ddatParentDescription": "A network architect is responsible for network designs and specifications, including cloud networks.",
@@ -5596,13 +4984,7 @@
         "level": "Practitioner"
       }
     ],
-    "sfiaSkills": [
-      "AUTY(4)",
-      "INFL(4)",
-      "COMP(4)",
-      "KNGE(4)",
-      "BUSS(4)"
-    ],
+    "sfiaSkills": ["AUTY(4)", "INFL(4)", "COMP(4)", "KNGE(4)", "BUSS(4)"],
     "title": "Network architect",
     "sfiaResponisbility": 4,
     "ddatParentDescription": "A network architect is responsible for network designs and specifications, including cloud networks.",
@@ -5635,13 +5017,7 @@
         "level": "Practitioner"
       }
     ],
-    "sfiaSkills": [
-      "AUTY(5)",
-      "INFL(5)",
-      "COMP(5)",
-      "KNGE(5)",
-      "BUSS(5)"
-    ],
+    "sfiaSkills": ["AUTY(5)", "INFL(5)", "COMP(5)", "KNGE(5)", "BUSS(5)"],
     "title": "Lead network architect",
     "sfiaResponisbility": 5,
     "ddatParentDescription": "A network architect is responsible for network designs and specifications, including cloud networks.",
@@ -5678,13 +5054,7 @@
         "level": "Working"
       }
     ],
-    "sfiaSkills": [
-      "AUTY(4)",
-      "INFL(4)",
-      "COMP(4)",
-      "KNGE(4)",
-      "BUSS(4)"
-    ],
+    "sfiaSkills": ["AUTY(4)", "INFL(4)", "COMP(4)", "KNGE(4)", "BUSS(4)"],
     "title": "Security architect",
     "sfiaResponisbility": 4,
     "ddatParentDescription": "A security architect designs and builds secure solutions.",
@@ -5721,13 +5091,7 @@
         "level": "Practitioner"
       }
     ],
-    "sfiaSkills": [
-      "AUTY(5)",
-      "INFL(5)",
-      "COMP(5)",
-      "KNGE(5)",
-      "BUSS(5)"
-    ],
+    "sfiaSkills": ["AUTY(5)", "INFL(5)", "COMP(5)", "KNGE(5)", "BUSS(5)"],
     "title": "Lead security architect",
     "sfiaResponisbility": 5,
     "ddatParentDescription": "A security architect designs and builds secure solutions.",
@@ -5764,13 +5128,7 @@
         "level": "Expert"
       }
     ],
-    "sfiaSkills": [
-      "AUTY(6)",
-      "INFL(6)",
-      "COMP(6)",
-      "KNGE(6)",
-      "BUSS(6)"
-    ],
+    "sfiaSkills": ["AUTY(6)", "INFL(6)", "COMP(6)", "KNGE(6)", "BUSS(6)"],
     "title": "Principal security architect",
     "sfiaResponisbility": 6,
     "ddatParentDescription": "A security architect designs and builds secure solutions.",
@@ -5807,13 +5165,7 @@
         "level": "Awareness"
       }
     ],
-    "sfiaSkills": [
-      "AUTY(1)",
-      "INFL(1)",
-      "COMP(1)",
-      "KNGE(1)",
-      "BUSS(1)"
-    ],
+    "sfiaSkills": ["AUTY(1)", "INFL(1)", "COMP(1)", "KNGE(1)", "BUSS(1)"],
     "title": "Apprentice developer",
     "sfiaResponisbility": 1,
     "ddatParentDescription": "A software developer designs, runs and improves software that meets user needs. In this role, you will:\n\n• be responsible for writing clean, secure code following a test-driven approach\n• create code that is open by default and easy for others to reuse",
@@ -5858,13 +5210,7 @@
         "level": "Awareness"
       }
     ],
-    "sfiaSkills": [
-      "AUTY(2)",
-      "INFL(2)",
-      "COMP(2)",
-      "KNGE(2)",
-      "BUSS(2)"
-    ],
+    "sfiaSkills": ["AUTY(2)", "INFL(2)", "COMP(2)", "KNGE(2)", "BUSS(2)"],
     "title": "Junior developer",
     "sfiaResponisbility": 2,
     "ddatParentDescription": "A software developer designs, runs and improves software that meets user needs. In this role, you will:\n\n• be responsible for writing clean, secure code following a test-driven approach\n• create code that is open by default and easy for others to reuse",
@@ -5913,13 +5259,7 @@
         "level": "Practitioner"
       }
     ],
-    "sfiaSkills": [
-      "AUTY(3)",
-      "INFL(3)",
-      "COMP(3)",
-      "KNGE(3)",
-      "BUSS(3)"
-    ],
+    "sfiaSkills": ["AUTY(3)", "INFL(3)", "COMP(3)", "KNGE(3)", "BUSS(3)"],
     "title": "Developer",
     "sfiaResponisbility": 3,
     "ddatParentDescription": "A software developer designs, runs and improves software that meets user needs. In this role, you will:\n\n• be responsible for writing clean, secure code following a test-driven approach\n• create code that is open by default and easy for others to reuse",
@@ -5968,13 +5308,7 @@
         "level": "Practitioner"
       }
     ],
-    "sfiaSkills": [
-      "AUTY(4)",
-      "INFL(4)",
-      "COMP(4)",
-      "KNGE(4)",
-      "BUSS(4)"
-    ],
+    "sfiaSkills": ["AUTY(4)", "INFL(4)", "COMP(4)", "KNGE(4)", "BUSS(4)"],
     "title": "Senior developer",
     "sfiaResponisbility": 4,
     "ddatParentDescription": "A software developer designs, runs and improves software that meets user needs. In this role, you will:\n\n• be responsible for writing clean, secure code following a test-driven approach\n• create code that is open by default and easy for others to reuse",
@@ -6023,13 +5357,7 @@
         "level": "Practitioner"
       }
     ],
-    "sfiaSkills": [
-      "AUTY(4)",
-      "INFL(4)",
-      "COMP(4)",
-      "KNGE(4)",
-      "BUSS(4)"
-    ],
+    "sfiaSkills": ["AUTY(4)", "INFL(4)", "COMP(4)", "KNGE(4)", "BUSS(4)"],
     "title": "Senior developer - management",
     "sfiaResponisbility": 4,
     "ddatParentDescription": "A software developer designs, runs and improves software that meets user needs. In this role, you will:\n\n• be responsible for writing clean, secure code following a test-driven approach\n• create code that is open by default and easy for others to reuse",
@@ -6078,13 +5406,7 @@
         "level": "Practitioner"
       }
     ],
-    "sfiaSkills": [
-      "AUTY(5)",
-      "INFL(5)",
-      "COMP(5)",
-      "KNGE(5)",
-      "BUSS(5)"
-    ],
+    "sfiaSkills": ["AUTY(5)", "INFL(5)", "COMP(5)", "KNGE(5)", "BUSS(5)"],
     "title": "Lead developer",
     "sfiaResponisbility": 5,
     "ddatParentDescription": "A software developer designs, runs and improves software that meets user needs. In this role, you will:\n\n• be responsible for writing clean, secure code following a test-driven approach\n• create code that is open by default and easy for others to reuse",
@@ -6133,13 +5455,7 @@
         "level": "Practitioner"
       }
     ],
-    "sfiaSkills": [
-      "AUTY(5)",
-      "INFL(5)",
-      "COMP(5)",
-      "KNGE(5)",
-      "BUSS(5)"
-    ],
+    "sfiaSkills": ["AUTY(5)", "INFL(5)", "COMP(5)", "KNGE(5)", "BUSS(5)"],
     "title": "Lead developer - management",
     "sfiaResponisbility": 5,
     "ddatParentDescription": "A software developer designs, runs and improves software that meets user needs. In this role, you will:\n\n• be responsible for writing clean, secure code following a test-driven approach\n• create code that is open by default and easy for others to reuse",
@@ -6188,13 +5504,7 @@
         "level": "Practitioner"
       }
     ],
-    "sfiaSkills": [
-      "AUTY(6)",
-      "INFL(6)",
-      "COMP(6)",
-      "KNGE(6)",
-      "BUSS(6)"
-    ],
+    "sfiaSkills": ["AUTY(6)", "INFL(6)", "COMP(6)", "KNGE(6)", "BUSS(6)"],
     "title": "Principal developer",
     "sfiaResponisbility": 6,
     "ddatParentDescription": "A software developer designs, runs and improves software that meets user needs. In this role, you will:\n\n• be responsible for writing clean, secure code following a test-driven approach\n• create code that is open by default and easy for others to reuse",
@@ -6243,13 +5553,7 @@
         "level": "Practitioner"
       }
     ],
-    "sfiaSkills": [
-      "AUTY(6)",
-      "INFL(6)",
-      "COMP(6)",
-      "KNGE(6)",
-      "BUSS(6)"
-    ],
+    "sfiaSkills": ["AUTY(6)", "INFL(6)", "COMP(6)", "KNGE(6)", "BUSS(6)"],
     "title": "Principal developer - management",
     "sfiaResponisbility": 6,
     "ddatParentDescription": "A software developer designs, runs and improves software that meets user needs. In this role, you will:\n\n• be responsible for writing clean, secure code following a test-driven approach\n• create code that is open by default and easy for others to reuse",
@@ -6282,13 +5586,7 @@
         "level": "Awareness"
       }
     ],
-    "sfiaSkills": [
-      "AUTY(2)",
-      "INFL(2)",
-      "COMP(2)",
-      "KNGE(2)",
-      "BUSS(2)"
-    ],
+    "sfiaSkills": ["AUTY(2)", "INFL(2)", "COMP(2)", "KNGE(2)", "BUSS(2)"],
     "title": "Associate technical architect",
     "sfiaResponisbility": 2,
     "ddatParentDescription": "A technical architect provides technical leadership and architectural design.",
@@ -6321,13 +5619,7 @@
         "level": "Working"
       }
     ],
-    "sfiaSkills": [
-      "AUTY(3)",
-      "INFL(3)",
-      "COMP(3)",
-      "KNGE(3)",
-      "BUSS(3)"
-    ],
+    "sfiaSkills": ["AUTY(3)", "INFL(3)", "COMP(3)", "KNGE(3)", "BUSS(3)"],
     "title": "Technical architect",
     "sfiaResponisbility": 3,
     "ddatParentDescription": "A technical architect provides technical leadership and architectural design.",
@@ -6360,13 +5652,7 @@
         "level": "Working"
       }
     ],
-    "sfiaSkills": [
-      "AUTY(4)",
-      "INFL(4)",
-      "COMP(4)",
-      "KNGE(4)",
-      "BUSS(4)"
-    ],
+    "sfiaSkills": ["AUTY(4)", "INFL(4)", "COMP(4)", "KNGE(4)", "BUSS(4)"],
     "title": "Senior technical architect",
     "sfiaResponisbility": 4,
     "ddatParentDescription": "A technical architect provides technical leadership and architectural design.",
@@ -6399,13 +5685,7 @@
         "level": "Practitioner"
       }
     ],
-    "sfiaSkills": [
-      "AUTY(5)",
-      "INFL(5)",
-      "COMP(5)",
-      "KNGE(5)",
-      "BUSS(5)"
-    ],
+    "sfiaSkills": ["AUTY(5)", "INFL(5)", "COMP(5)", "KNGE(5)", "BUSS(5)"],
     "title": "Lead technical architect",
     "sfiaResponisbility": 5,
     "ddatParentDescription": "A technical architect provides technical leadership and architectural design.",
@@ -6438,13 +5718,7 @@
         "level": "Expert"
       }
     ],
-    "sfiaSkills": [
-      "AUTY(6)",
-      "INFL(6)",
-      "COMP(6)",
-      "KNGE(6)",
-      "BUSS(6)"
-    ],
+    "sfiaSkills": ["AUTY(6)", "INFL(6)", "COMP(6)", "KNGE(6)", "BUSS(6)"],
     "title": "Principal technical architect",
     "sfiaResponisbility": 6,
     "ddatParentDescription": "A technical architect provides technical leadership and architectural design.",
@@ -6477,13 +5751,7 @@
         "level": "Awareness"
       }
     ],
-    "sfiaSkills": [
-      "AUTY(1)",
-      "INFL(1)",
-      "COMP(1)",
-      "KNGE(2)",
-      "BUSS(2)"
-    ],
+    "sfiaSkills": ["AUTY(1)", "INFL(1)", "COMP(1)", "KNGE(2)", "BUSS(2)"],
     "title": "Associate content designer",
     "sfiaResponisbility": 1,
     "ddatParentDescription": "A content designer works on the end-to-end journey of a service to help users complete their goal and government deliver a policy intent. In this role, your work may involve the creation of, or change to, a transaction, product or single piece of content that stretches across digital and offline channels. You will be expected to:\n\n• make sure appropriate content is shown to a user in the right place and in the best format\n• start from discovery and work closely with user researchers, service designers and interaction designers",
@@ -6516,13 +5784,7 @@
         "level": "Awareness"
       }
     ],
-    "sfiaSkills": [
-      "AUTY(2)",
-      "INFL(2)",
-      "COMP(2)",
-      "KNGE(2)",
-      "BUSS(2)"
-    ],
+    "sfiaSkills": ["AUTY(2)", "INFL(2)", "COMP(2)", "KNGE(2)", "BUSS(2)"],
     "title": "Junior content designer",
     "sfiaResponisbility": 2,
     "ddatParentDescription": "A content designer works on the end-to-end journey of a service to help users complete their goal and government deliver a policy intent. In this role, your work may involve the creation of, or change to, a transaction, product or single piece of content that stretches across digital and offline channels. You will be expected to:\n\n• make sure appropriate content is shown to a user in the right place and in the best format\n• start from discovery and work closely with user researchers, service designers and interaction designers",
@@ -6555,13 +5817,7 @@
         "level": "Working"
       }
     ],
-    "sfiaSkills": [
-      "AUTY(3)",
-      "INFL(3)",
-      "COMP(3)",
-      "KNGE(3)",
-      "BUSS(3)"
-    ],
+    "sfiaSkills": ["AUTY(3)", "INFL(3)", "COMP(3)", "KNGE(3)", "BUSS(3)"],
     "title": "Content designer",
     "sfiaResponisbility": 3,
     "ddatParentDescription": "A content designer works on the end-to-end journey of a service to help users complete their goal and government deliver a policy intent. In this role, your work may involve the creation of, or change to, a transaction, product or single piece of content that stretches across digital and offline channels. You will be expected to:\n\n• make sure appropriate content is shown to a user in the right place and in the best format\n• start from discovery and work closely with user researchers, service designers and interaction designers",
@@ -6594,13 +5850,7 @@
         "level": "Practitioner"
       }
     ],
-    "sfiaSkills": [
-      "AUTY(4)",
-      "INFL(4)",
-      "COMP(4)",
-      "KNGE(4)",
-      "BUSS(4)"
-    ],
+    "sfiaSkills": ["AUTY(4)", "INFL(4)", "COMP(4)", "KNGE(4)", "BUSS(4)"],
     "title": "Senior content designer",
     "sfiaResponisbility": 4,
     "ddatParentDescription": "A content designer works on the end-to-end journey of a service to help users complete their goal and government deliver a policy intent. In this role, your work may involve the creation of, or change to, a transaction, product or single piece of content that stretches across digital and offline channels. You will be expected to:\n\n• make sure appropriate content is shown to a user in the right place and in the best format\n• start from discovery and work closely with user researchers, service designers and interaction designers",
@@ -6633,13 +5883,7 @@
         "level": "Expert"
       }
     ],
-    "sfiaSkills": [
-      "AUTY(5)",
-      "INFL(5)",
-      "COMP(5)",
-      "KNGE(5)",
-      "BUSS(5)"
-    ],
+    "sfiaSkills": ["AUTY(5)", "INFL(5)", "COMP(5)", "KNGE(5)", "BUSS(5)"],
     "title": "Lead content designer",
     "sfiaResponisbility": 5,
     "ddatParentDescription": "A content designer works on the end-to-end journey of a service to help users complete their goal and government deliver a policy intent. In this role, your work may involve the creation of, or change to, a transaction, product or single piece of content that stretches across digital and offline channels. You will be expected to:\n\n• make sure appropriate content is shown to a user in the right place and in the best format\n• start from discovery and work closely with user researchers, service designers and interaction designers",
@@ -6672,13 +5916,7 @@
         "level": "Expert"
       }
     ],
-    "sfiaSkills": [
-      "AUTY(6)",
-      "INFL(6)",
-      "COMP(6)",
-      "KNGE(6)",
-      "BUSS(6)"
-    ],
+    "sfiaSkills": ["AUTY(6)", "INFL(6)", "COMP(6)", "KNGE(6)", "BUSS(6)"],
     "title": "Head of content design",
     "sfiaResponisbility": 6,
     "ddatParentDescription": "A content designer works on the end-to-end journey of a service to help users complete their goal and government deliver a policy intent. In this role, your work may involve the creation of, or change to, a transaction, product or single piece of content that stretches across digital and offline channels. You will be expected to:\n\n• make sure appropriate content is shown to a user in the right place and in the best format\n• start from discovery and work closely with user researchers, service designers and interaction designers",
@@ -6711,13 +5949,7 @@
         "level": "Practitioner"
       }
     ],
-    "sfiaSkills": [
-      "AUTY(5)",
-      "INFL(5)",
-      "COMP(5)",
-      "KNGE(5)",
-      "BUSS(5)"
-    ],
+    "sfiaSkills": ["AUTY(5)", "INFL(5)", "COMP(5)", "KNGE(5)", "BUSS(5)"],
     "title": "Content strategist",
     "sfiaResponisbility": 5,
     "ddatParentDescription": "A content strategist takes an overview of content and how it is produced. In this role, you:\n\n• design governance, workflows, and taxonomies in a user-centred context\n• work with senior stakeholders, user researchers and content, service and interaction designers",
@@ -6770,13 +6002,7 @@
         "level": "Working"
       }
     ],
-    "sfiaSkills": [
-      "AUTY(1)",
-      "INFL(1)",
-      "COMP(1)",
-      "KNGE(1)",
-      "BUSS(1)"
-    ],
+    "sfiaSkills": ["AUTY(1)", "INFL(1)", "COMP(1)", "KNGE(1)", "BUSS(1)"],
     "title": "Associate graphic designer",
     "sfiaResponisbility": 1,
     "ddatParentDescription": "A graphic designer creates graphic elements that underpin interaction and service design. You will use layout, spacing, colour, type and iconography to ensure that content is legible and readable and that users see and understand interactions.",
@@ -6833,13 +6059,7 @@
         "level": "Working"
       }
     ],
-    "sfiaSkills": [
-      "AUTY(2)",
-      "INFL(2)",
-      "COMP(2)",
-      "KNGE(2)",
-      "BUSS(2)"
-    ],
+    "sfiaSkills": ["AUTY(2)", "INFL(2)", "COMP(2)", "KNGE(2)", "BUSS(2)"],
     "title": "Junior graphic designer",
     "sfiaResponisbility": 2,
     "ddatParentDescription": "A graphic designer creates graphic elements that underpin interaction and service design. You will use layout, spacing, colour, type and iconography to ensure that content is legible and readable and that users see and understand interactions.",
@@ -6896,13 +6116,7 @@
         "level": "Practitioner"
       }
     ],
-    "sfiaSkills": [
-      "AUTY(3)",
-      "INFL(3)",
-      "COMP(3)",
-      "KNGE(3)",
-      "BUSS(3)"
-    ],
+    "sfiaSkills": ["AUTY(3)", "INFL(3)", "COMP(3)", "KNGE(3)", "BUSS(3)"],
     "title": "Graphic designer",
     "sfiaResponisbility": 3,
     "ddatParentDescription": "A graphic designer creates graphic elements that underpin interaction and service design. You will use layout, spacing, colour, type and iconography to ensure that content is legible and readable and that users see and understand interactions.",
@@ -6959,13 +6173,7 @@
         "level": "Expert"
       }
     ],
-    "sfiaSkills": [
-      "AUTY(4)",
-      "INFL(4)",
-      "COMP(4)",
-      "KNGE(4)",
-      "BUSS(4)"
-    ],
+    "sfiaSkills": ["AUTY(4)", "INFL(4)", "COMP(4)", "KNGE(4)", "BUSS(4)"],
     "title": "Senior graphic designer",
     "sfiaResponisbility": 4,
     "ddatParentDescription": "A graphic designer creates graphic elements that underpin interaction and service design. You will use layout, spacing, colour, type and iconography to ensure that content is legible and readable and that users see and understand interactions.",
@@ -7022,13 +6230,7 @@
         "level": "Expert"
       }
     ],
-    "sfiaSkills": [
-      "AUTY(5)",
-      "INFL(5)",
-      "COMP(5)",
-      "KNGE(5)",
-      "BUSS(5)"
-    ],
+    "sfiaSkills": ["AUTY(5)", "INFL(5)", "COMP(5)", "KNGE(5)", "BUSS(5)"],
     "title": "Lead graphic designer",
     "sfiaResponisbility": 5,
     "ddatParentDescription": "A graphic designer creates graphic elements that underpin interaction and service design. You will use layout, spacing, colour, type and iconography to ensure that content is legible and readable and that users see and understand interactions.",
@@ -7085,13 +6287,7 @@
         "level": "Expert"
       }
     ],
-    "sfiaSkills": [
-      "AUTY(6)",
-      "INFL(6)",
-      "COMP(6)",
-      "KNGE(6)",
-      "BUSS(6)"
-    ],
+    "sfiaSkills": ["AUTY(6)", "INFL(6)", "COMP(6)", "KNGE(6)", "BUSS(6)"],
     "title": "Head of graphic design",
     "sfiaResponisbility": 6,
     "ddatParentDescription": "A graphic designer creates graphic elements that underpin interaction and service design. You will use layout, spacing, colour, type and iconography to ensure that content is legible and readable and that users see and understand interactions.",
@@ -7136,13 +6332,7 @@
         "level": "Working"
       }
     ],
-    "sfiaSkills": [
-      "AUTY(1)",
-      "INFL(1)",
-      "COMP(1)",
-      "KNGE(1)",
-      "BUSS(1)"
-    ],
+    "sfiaSkills": ["AUTY(1)", "INFL(1)", "COMP(1)", "KNGE(1)", "BUSS(1)"],
     "title": "Associate interaction designer",
     "sfiaResponisbility": 1,
     "ddatParentDescription": "You will need the following skills for this role, although the level of expertise for each will vary, depending on the role level.",
@@ -7195,13 +6385,7 @@
         "level": "Working"
       }
     ],
-    "sfiaSkills": [
-      "AUTY(2)",
-      "INFL(2)",
-      "COMP(2)",
-      "KNGE(2)",
-      "BUSS(2)"
-    ],
+    "sfiaSkills": ["AUTY(2)", "INFL(2)", "COMP(2)", "KNGE(2)", "BUSS(2)"],
     "title": "Junior interaction designer",
     "sfiaResponisbility": 2,
     "ddatParentDescription": "You will need the following skills for this role, although the level of expertise for each will vary, depending on the role level.",
@@ -7254,13 +6438,7 @@
         "level": "Practitioner"
       }
     ],
-    "sfiaSkills": [
-      "AUTY(3)",
-      "INFL(3)",
-      "COMP(3)",
-      "KNGE(3)",
-      "BUSS(3)"
-    ],
+    "sfiaSkills": ["AUTY(3)", "INFL(3)", "COMP(3)", "KNGE(3)", "BUSS(3)"],
     "title": "Interaction designer",
     "sfiaResponisbility": 3,
     "ddatParentDescription": "You will need the following skills for this role, although the level of expertise for each will vary, depending on the role level.",
@@ -7313,13 +6491,7 @@
         "level": "Expert"
       }
     ],
-    "sfiaSkills": [
-      "AUTY(4)",
-      "INFL(4)",
-      "COMP(4)",
-      "KNGE(4)",
-      "BUSS(4)"
-    ],
+    "sfiaSkills": ["AUTY(4)", "INFL(4)", "COMP(4)", "KNGE(4)", "BUSS(4)"],
     "title": "Senior interaction designer",
     "sfiaResponisbility": 4,
     "ddatParentDescription": "You will need the following skills for this role, although the level of expertise for each will vary, depending on the role level.",
@@ -7372,13 +6544,7 @@
         "level": "Expert"
       }
     ],
-    "sfiaSkills": [
-      "AUTY(5)",
-      "INFL(5)",
-      "COMP(5)",
-      "KNGE(5)",
-      "BUSS(5)"
-    ],
+    "sfiaSkills": ["AUTY(5)", "INFL(5)", "COMP(5)", "KNGE(5)", "BUSS(5)"],
     "title": "Lead interaction designer",
     "sfiaResponisbility": 5,
     "ddatParentDescription": "You will need the following skills for this role, although the level of expertise for each will vary, depending on the role level.",
@@ -7431,13 +6597,7 @@
         "level": "Expert"
       }
     ],
-    "sfiaSkills": [
-      "AUTY(6)",
-      "INFL(6)",
-      "COMP(6)",
-      "KNGE(6)",
-      "BUSS(6)"
-    ],
+    "sfiaSkills": ["AUTY(6)", "INFL(6)", "COMP(6)", "KNGE(6)", "BUSS(6)"],
     "title": "Head of interaction design",
     "sfiaResponisbility": 6,
     "ddatParentDescription": "You will need the following skills for this role, although the level of expertise for each will vary, depending on the role level.",
@@ -7490,13 +6650,7 @@
         "level": "Working"
       }
     ],
-    "sfiaSkills": [
-      "AUTY(1)",
-      "INFL(1)",
-      "COMP(1)",
-      "KNGE(1)",
-      "BUSS(1)"
-    ],
+    "sfiaSkills": ["AUTY(1)", "INFL(1)", "COMP(1)", "KNGE(1)", "BUSS(1)"],
     "title": "Associate service designer",
     "sfiaResponisbility": 1,
     "ddatParentDescription": "Service designers design the end-to-end journey of a service. This helps a user complete their goal and government deliver a policy intent. In this role, your work may involve the creation of, or change to, transactions, products and content across both digital and offline channels provided by different parts of government.",
@@ -7553,13 +6707,7 @@
         "level": "Working"
       }
     ],
-    "sfiaSkills": [
-      "AUTY(2)",
-      "INFL(2)",
-      "COMP(2)",
-      "KNGE(2)",
-      "BUSS(2)"
-    ],
+    "sfiaSkills": ["AUTY(2)", "INFL(2)", "COMP(2)", "KNGE(2)", "BUSS(2)"],
     "title": "Junior service designer",
     "sfiaResponisbility": 2,
     "ddatParentDescription": "Service designers design the end-to-end journey of a service. This helps a user complete their goal and government deliver a policy intent. In this role, your work may involve the creation of, or change to, transactions, products and content across both digital and offline channels provided by different parts of government.",
@@ -7616,13 +6764,7 @@
         "level": "Practitioner"
       }
     ],
-    "sfiaSkills": [
-      "AUTY(3)",
-      "INFL(3)",
-      "COMP(3)",
-      "KNGE(3)",
-      "BUSS(3)"
-    ],
+    "sfiaSkills": ["AUTY(3)", "INFL(3)", "COMP(3)", "KNGE(3)", "BUSS(3)"],
     "title": "Service designer",
     "sfiaResponisbility": 3,
     "ddatParentDescription": "Service designers design the end-to-end journey of a service. This helps a user complete their goal and government deliver a policy intent. In this role, your work may involve the creation of, or change to, transactions, products and content across both digital and offline channels provided by different parts of government.",
@@ -7679,13 +6821,7 @@
         "level": "Expert"
       }
     ],
-    "sfiaSkills": [
-      "AUTY(4)",
-      "INFL(4)",
-      "COMP(4)",
-      "KNGE(4)",
-      "BUSS(4)"
-    ],
+    "sfiaSkills": ["AUTY(4)", "INFL(4)", "COMP(4)", "KNGE(4)", "BUSS(4)"],
     "title": "Senior service designer",
     "sfiaResponisbility": 4,
     "ddatParentDescription": "Service designers design the end-to-end journey of a service. This helps a user complete their goal and government deliver a policy intent. In this role, your work may involve the creation of, or change to, transactions, products and content across both digital and offline channels provided by different parts of government.",
@@ -7742,13 +6878,7 @@
         "level": "Expert"
       }
     ],
-    "sfiaSkills": [
-      "AUTY(5)",
-      "INFL(5)",
-      "COMP(5)",
-      "KNGE(5)",
-      "BUSS(5)"
-    ],
+    "sfiaSkills": ["AUTY(5)", "INFL(5)", "COMP(5)", "KNGE(5)", "BUSS(5)"],
     "title": "Lead service design",
     "sfiaResponisbility": 5,
     "ddatParentDescription": "Service designers design the end-to-end journey of a service. This helps a user complete their goal and government deliver a policy intent. In this role, your work may involve the creation of, or change to, transactions, products and content across both digital and offline channels provided by different parts of government.",
@@ -7805,13 +6935,7 @@
         "level": "Expert"
       }
     ],
-    "sfiaSkills": [
-      "AUTY(6)",
-      "INFL(6)",
-      "COMP(6)",
-      "KNGE(6)",
-      "BUSS(6)"
-    ],
+    "sfiaSkills": ["AUTY(6)", "INFL(6)", "COMP(6)", "KNGE(6)", "BUSS(6)"],
     "title": "Head of service design",
     "sfiaResponisbility": 6,
     "ddatParentDescription": "Service designers design the end-to-end journey of a service. This helps a user complete their goal and government deliver a policy intent. In this role, your work may involve the creation of, or change to, transactions, products and content across both digital and offline channels provided by different parts of government.",
@@ -7848,13 +6972,7 @@
         "level": "Practitioner"
       }
     ],
-    "sfiaSkills": [
-      "AUTY(4)",
-      "INFL(4)",
-      "COMP(5)",
-      "KNGE(5)",
-      "BUSS(4)"
-    ],
+    "sfiaSkills": ["AUTY(4)", "INFL(4)", "COMP(5)", "KNGE(5)", "BUSS(4)"],
     "title": "Technical writer",
     "sfiaResponisbility": 4,
     "ddatParentDescription": "A technical writer takes a user-centred approach to making complicated technical concepts easier to understand for a specialist audience. In this role, you will focus on specialist content and software documentation, and write for technologists such as developers, technical architects, and technology leaders.",
@@ -7891,13 +7009,7 @@
         "level": "Expert"
       }
     ],
-    "sfiaSkills": [
-      "AUTY(5)",
-      "INFL(5)",
-      "COMP(6)",
-      "KNGE(6)",
-      "BUSS(5)"
-    ],
+    "sfiaSkills": ["AUTY(5)", "INFL(5)", "COMP(6)", "KNGE(6)", "BUSS(5)"],
     "title": "Lead technical writer",
     "sfiaResponisbility": 5,
     "ddatParentDescription": "A technical writer takes a user-centred approach to making complicated technical concepts easier to understand for a specialist audience. In this role, you will focus on specialist content and software documentation, and write for technologists such as developers, technical architects, and technology leaders.",
@@ -7934,13 +7046,7 @@
         "level": "Awareness"
       }
     ],
-    "sfiaSkills": [
-      "AUTY(1)",
-      "INFL(1)",
-      "COMP(1)",
-      "KNGE(1)",
-      "BUSS(1)"
-    ],
+    "sfiaSkills": ["AUTY(1)", "INFL(1)", "COMP(1)", "KNGE(1)", "BUSS(1)"],
     "title": "Associate user researcher",
     "sfiaResponisbility": 1,
     "ddatParentDescription": "User researchers plan, design and carry out research activities with users that help teams get a deep understanding of the people that use government services. This research informs policy, proposition, service, content and interaction design so that services work well for users and achieves policy intent.",
@@ -7977,13 +7083,7 @@
         "level": "Awareness"
       }
     ],
-    "sfiaSkills": [
-      "AUTY(2)",
-      "INFL(2)",
-      "COMP(2)",
-      "KNGE(2)",
-      "BUSS(2)"
-    ],
+    "sfiaSkills": ["AUTY(2)", "INFL(2)", "COMP(2)", "KNGE(2)", "BUSS(2)"],
     "title": "Junior user researcher",
     "sfiaResponisbility": 2,
     "ddatParentDescription": "User researchers plan, design and carry out research activities with users that help teams get a deep understanding of the people that use government services. This research informs policy, proposition, service, content and interaction design so that services work well for users and achieves policy intent.",
@@ -8020,13 +7120,7 @@
         "level": "Working"
       }
     ],
-    "sfiaSkills": [
-      "AUTY(3)",
-      "INFL(3)",
-      "COMP(3)",
-      "KNGE(3)",
-      "BUSS(3)"
-    ],
+    "sfiaSkills": ["AUTY(3)", "INFL(3)", "COMP(3)", "KNGE(3)", "BUSS(3)"],
     "title": "User researcher",
     "sfiaResponisbility": 3,
     "ddatParentDescription": "User researchers plan, design and carry out research activities with users that help teams get a deep understanding of the people that use government services. This research informs policy, proposition, service, content and interaction design so that services work well for users and achieves policy intent.",
@@ -8063,13 +7157,7 @@
         "level": "Practitioner"
       }
     ],
-    "sfiaSkills": [
-      "AUTY(4)",
-      "INFL(4)",
-      "COMP(4)",
-      "KNGE(4)",
-      "BUSS(4)"
-    ],
+    "sfiaSkills": ["AUTY(4)", "INFL(4)", "COMP(4)", "KNGE(4)", "BUSS(4)"],
     "title": "Senior user researcher",
     "sfiaResponisbility": 4,
     "ddatParentDescription": "User researchers plan, design and carry out research activities with users that help teams get a deep understanding of the people that use government services. This research informs policy, proposition, service, content and interaction design so that services work well for users and achieves policy intent.",
@@ -8106,13 +7194,7 @@
         "level": "Practitioner"
       }
     ],
-    "sfiaSkills": [
-      "AUTY(5)",
-      "INFL(5)",
-      "COMP(5)",
-      "KNGE(5)",
-      "BUSS(5)"
-    ],
+    "sfiaSkills": ["AUTY(5)", "INFL(5)", "COMP(5)", "KNGE(5)", "BUSS(5)"],
     "title": "Lead user researcher",
     "sfiaResponisbility": 5,
     "ddatParentDescription": "User researchers plan, design and carry out research activities with users that help teams get a deep understanding of the people that use government services. This research informs policy, proposition, service, content and interaction design so that services work well for users and achieves policy intent.",
@@ -8149,13 +7231,7 @@
         "level": "Expert"
       }
     ],
-    "sfiaSkills": [
-      "AUTY(6)",
-      "INFL(6)",
-      "COMP(6)",
-      "KNGE(6)",
-      "BUSS(6)"
-    ],
+    "sfiaSkills": ["AUTY(6)", "INFL(6)", "COMP(6)", "KNGE(6)", "BUSS(6)"],
     "title": "Head of user research",
     "sfiaResponisbility": 6,
     "ddatParentDescription": "User researchers plan, design and carry out research activities with users that help teams get a deep understanding of the people that use government services. This research informs policy, proposition, service, content and interaction design so that services work well for users and achieves policy intent.",
