@@ -1,6 +1,6 @@
 "use client";
 
-import { useState } from "react";
+import { useRef, useState } from "react";
 import RoleSelector from "./RoleSelector";
 import SenioritySelector from "./SenioritySelector";
 import { ExportButtons } from "./ExportButtons";
@@ -20,6 +20,10 @@ export const ConfigureRole = ({ data }: ConfigureRoleProps) => {
   const [roleDetail, setRoleDetail] = useState<Role | null>(null);
   const [ddatSkills, setDdatSkills] = useState<Skill[]>([]);
   const [sfiaSkills, setSfiaSkills] = useState<Skill[]>([]);
+
+  const titleRef = useRef<HTMLDivElement>(null);
+  const descriptionRef = useRef<HTMLDivElement>(null);
+  const dateRef = useRef<HTMLInputElement>(null);
 
   return (
     <>
@@ -82,14 +86,27 @@ export const ConfigureRole = ({ data }: ConfigureRoleProps) => {
       </div>
       {roleDetail && (
         <>
-          <KeyStats roleDetail={roleDetail} />
+          <KeyStats
+            roleDetail={roleDetail}
+            titleRef={titleRef}
+            descriptionRef={descriptionRef}
+            dateRef={dateRef}
+          />
           <KeySkills
             ddatskills={ddatSkills}
             setddatSkills={setDdatSkills}
             sfiaSkills={sfiaSkills}
             setSfiaSkills={setSfiaSkills}
           />
-          {/* <ExportButtons */}
+
+          <ExportButtons
+            title={titleRef.current?.innerHTML}
+            startDate={dateRef.current?.value}
+            description={descriptionRef.current?.innerHTML}
+            ddatSkills={ddatSkills}
+            sfiaSkills={sfiaSkills}
+            roleDetail={roleDetail}
+          />
         </>
       )}
     </>
