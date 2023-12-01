@@ -1,0 +1,927 @@
+Data,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Data analyst,,Analytical and problem-solving skills,Communication skills,Data management,"Data modelling, data cleansing, and data enrichment skills",Data visualisation,Logical and creative thinking skills,Project management skills,Proven IT and mathematical skills,"Quality assurance, validation and data linkage abilities",Statistical methods and data analysis skills,,,,,,,"A data analyst collects, organises and studies data to provide business insight. In this role, you will:
+
+• apply tools and techniques for data analysis and data visualisation (including the use of business information tools)
+• identify, collect and migrate data to and from a range of systems
+• manage, clean, abstract and aggregate data alongside a range of analytical studies on that data
+• manipulate and link different data sets
+• summarise and present data and conclusions in the most appropriate format for users",,,,,,,,
+,,Associate analyst,Awareness,Awareness,Awareness,Awareness,Awareness,Awareness,Awareness,Awareness,Awareness,Awareness,,,,,,,No separate description for this level,,1,,AUTY(1),INFL(1),COMP(1),KNGE(1),BUSS(1)
+,,Data analyst,Working,Working,Working,Working,Working,Working,Working,Working,Working,Working,,,,,,,No separate description for this level,,3,,AUTY(3),INFL(3),COMP(3),KNGE(3),BUSS(3)
+,,Senior data analyst,Practitioner,Practitioner,Practitioner,Practitioner,Practitioner,Practitioner,Practitioner,Practitioner,Practitioner,Practitioner,,,,,,,No separate description for this level,,4,,AUTY(4),INFL(4),COMP(4),KNGE(4),BUSS(4)
+,,Principal data analyst,Expert,Expert,Expert,Expert,Expert,Expert,Expert,Expert,Expert,Expert,,,,,,,No separate description for this level,,5,,AUTY(5),INFL(5),COMP(5),KNGE(5),BUSS(5)
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Data engineer,,Communication skills (data),Data analysis and synthesis,Data development process,Data innovation,Data integration design,Data modelling,Metadata management,Problem resolution (data),Programming and build (data engineering),Technical understanding (data engineering),Testing,,,,,,A data engineer develops and constructs data products and services and integrates them into systems and business processes.,,,,,,,,
+,,Data engineer,Awareness,Working,Working,Awareness,Working,Working,Working,Awareness,Working,Working,Awareness,,,,,,"A data engineer delivers the designs set by more senior members of the data engineering community.
+
+At this level, you will be expected to:
+
+• implement data flows to connect operational systems, data for analytics and business intelligence (BI) systems
+• document source-to-target mappings
+• re-engineer manual data flows to enable scaling and repeatable use
+• support the build of data streaming systems
+• write ETL scripts and code to make sure the ETL process performs optimally
+• develop business intelligence reports that can be re-used
+• build accessible data for analysis",,3,,AUTY(3),INFL(3),COMP(3),KNGE(3),BUSS(3)
+,,Senior data engineer,Working,Working,Practitioner,Working,Practitioner,Practitioner,Practitioner,Working,Practitioner,Working,Working,,,,,,"A senior data engineer designs and leads the implementation of data flows to connect operational systems, data for analytics and business intelligence (BI) systems.
+
+At this level, you will:
+
+• recognise opportunities to re-use existing data flows
+• lead the build of data streaming systems
+• optimise the code to ensure processes perform optimally
+• lead work on database management",,4,,AUTY(4),INFL(4),COMP(4),KNGE(4),BUSS(4)
+,,Lead data engineer,Practitioner,Practitioner,Expert,Practitioner,Expert,Expert,Practitioner,Practitioner,Practitioner,Practitioner,Working,,,,,,"A lead data engineer is responsible for the design and implementation of numerous complex data flows to connect operational systems, data for analytics and business intelligence (BI) systems.
+
+At this level, you will:
+
+• recognise and share opportunities to re-use existing data flows between their teams
+• be responsible for the build of data-streaming systems
+• coordinate teams and set best practice and standards
+• apply knowledge of systems integration to their work
+• champion data engineering across government",,5,,AUTY(5),INFL(5),COMP(5),KNGE(5),BUSS(5)
+,,Head of data engineering,Expert,Practitioner,Expert,Expert,Expert,Working,Expert,Expert,Expert,Expert,Working,,,,,,"A head of data engineering leads multi-functional delivery teams to deliver robust data services for their department, other government departments and private sector partners. At this level, you will:
+
+• inspire best practice for data products and services within your teams
+• build data engineering capability by providing technical leadership and career development for the community
+• work with other senior team members to identify, plan, develop and deliver data services",,6,,AUTY(6),INFL(6),COMP(6),KNGE(6),BUSS(6)
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Data scientist,,"Applied maths, statistics, and scientific practices",Data engineering and manipulation,Data science innovation,Developing data science capability,Domain expertise,Programming and build (data science),Understanding analysis across the product life cycle (data science),,,,,,,,,,"A data scientist identifies complex business problems while leveraging data value. In this role, as part of a multidisciplinary team, you will work with data architects, data engineers, analysts and others.",,,,,,,,
+,,Trainee data scientist,Awareness,Awareness,Awareness,Awareness,Awareness,Awareness,Awareness,,,,,,,,,,"A trainee data scientist is given experience of practical data science work under the supervision of more senior colleagues. At this level, you will:
+
+• move from a strong awareness of the core data science skills of coding, machine learning and statistics to a more effective working knowledge
+• develop your understanding of how to apply data science to business problems",,1,,AUTY(1),INFL(1),COMP(1),KNGE(1),BUSS(1)
+,,Junior data scientist,Working,Working,Working,Working,Working,Working,Working,,,,,,,,,,"A junior data scientist is responsible for aspects of existing data science projects. At this level, you will:
+
+• gain valuable hands-on experience working on data science projects
+• apply certain data science techniques and work to develop your technical ability
+• provide limited advice on data science projects within teams
+• identify and communicate lessons learnt during projects and follow good practice
+• learly communicate the value of data science work to stakeholders",,3,,AUTY(3),INFL(3),COMP(3),KNGE(3),BUSS(3)
+,,Data scientist,Practitioner,Practitioner,Practitioner,Practitioner,Practitioner,Practitioner,Practitioner,,,,,,,,,,"A data scientist is proficient in data science. At this level, you:
+
+• have recognised technical ability in a number of data science specialisms and can provide detailed technical advice on your area of expertise
+• promote and present data science work both within and outside of the organisation
+• engage with stakeholders and champion the value of data science work
+• line manage and mentor junior data scientists
+• manage small project teams",,4,,AUTY(4),INFL(4),COMP(5),KNGE(4),BUSS(4)
+,,Senior data scientist,Expert,Expert,Expert,Practitioner,Practitioner,Practitioner,Expert,,,,,,,,,,"A senior data scientist is an expert data scientist who provides support and guidance to teams. At this level, you:
+
+• are a recognised authority on a number of data science specialisms within government, with some knowledge of cutting-edge techniques
+• engage with senior stakeholders and champion the value of data science
+• line manage more junior colleagues
+• communicate the value of data science to senior stakeholders",,5,,AUTY(5),INFL(5),COMP(6),KNGE(6),BUSS(5)
+,,Head of data science,Practitioner,Practitioner,Practitioner,Expert,Expert,Working,Practitioner,,,,,,,,,,"A head of data science provides leadership and direction across a programme of multidisciplinary data science projects, managing resources to ensure delivery. At this level, you:
+
+• are recognised as a strategic authority with technical expertise in cutting-edge techniques, defining vision across the organisation
+• are a role model to other data scientists
+• champion the adoption of best practice
+• communicate with senior stakeholders and convince them of the strategic value of applying data science",,6,,AUTY(6),INFL(6),COMP(5),KNGE(5),BUSS(6)
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Performance analyst,,Communicating analysis and insight,Performance measurement,Technical understanding (performance analyst),Understanding analysis across the product life cycle,Understanding constraints (performance analyst),Undertaking analysis and providing insight,User-centred analysis,Verification and validation of data and analysis,,,,,,,,,"A performance analyst conducts analysis. In this role, you will develop performance measurement frameworks - key performance indicators (KPIs), goals, user needs and benefits - and analyse the performance of a service or product against these, adapting your approach and framework appropriately and in line with any changes.",,,,,,,,
+,,Associate performance analyst,Working,Awareness,Awareness,Awareness,Awareness,Working,Awareness,Awareness,,,,,,,,,"An associate performance analyst is a numerate entry-level role for those with some experience in analysis or data handling. At this level, you should:
+
+• have the aptitude to learn to use analytical tools and produce standardised reports and charts
+• start by working on projects with limited scope under the guidance of performance analysts and more senior role levels, replicating existing analysis and data techniques
+• progress to greater independence (where appropriate)
+• have the opportunity to develop an understanding of the wider analytics context, tools and techniques
+• be responsible for the accuracy and quality of data and analysis, and how they are used
+• engage with the performance analysis community",,2,,AUTY(2),INFL(2),COMP(2),KNGE(3),BUSS(2)
+,,Performance analyst,Working,Working,Working,Working,Working,Practitioner,Working,Working,,,,,,,,,"A performance analyst has a strong understanding of a wide range of sources and analytical tools needed for the project they are working on. At this level, you:
+
+• are responsible for the performance analysis in your given area and help the project team measure and assess outcomes: for example, what good looks like and how it will be measured
+• help to plan and ensure project delivery, finding opportunities to share information with the project team, community colleagues and others
+• work independently, although you know to seek guidance when necessary
+• are adaptable in applying analysis techniques to new contexts, especially when acting as the sole representative for performance analysts on a project
+• are able to create a performance measurement framework for a project with the wider team, including identifying reporting requirements, advising on procurement, implementation and validation of tools to deliver against these requirements
+• are responsible for the accuracy and quality of data and analysis and how they are used
+• are engaged with, and actively contribute to, the performance analysis community",,3,,AUTY(3),INFL(3),COMP(3),KNGE(3),BUSS(3)
+,,Senior performance analyst,Practitioner,Practitioner,Practitioner,Practitioner,Practitioner,Practitioner,Practitioner,Practitioner,,,,,,,,,"A senior performance analyst looks to delegate, automate or up-skill others in analysis where possible and appropriate, provide leadership within their team and proactively use analysis to improve services. At this level, you:
+
+• may manage one or more performance analysts
+• are proficient in a wide range of tools and ensure that the team is equipped with the required skills according to the strategy set out by the head of performance analysis
+• are skilled and experienced at carrying out the day-to-day activities of a performance analyst, including setting up performance measurement frameworks, while also carrying out increasingly complex analysis working with other teams where necessary
+• actively contribute to the performance analysis community within their department or organisation, while forging links with other analytical disciplines",,4,,AUTY(4),INFL(4),COMP(4),KNGE(4),BUSS(4)
+,,Lead performance analyst,Expert,Expert,Expert,Expert,Expert,Expert,Expert,Expert,,,,,,,,,"A lead performance analyst manages junior performance analysts at any level, coordinating teams or groups of related analysts. At this level, you will:
+
+• assist, take forward and influence the strategy as determined by the head of performance analysis, including data implementation and data architecture
+• remove blockers and act as an escalation point for important issues
+• be an ambassador for analytics across communities, departments and government
+• be responsible for the accuracy and quality of data, analysis and how they are used
+• proactively share knowledge and promote a data-driven culture as a leader in the community
+• coach and mentor senior performance analysts, performance analysts and associate performance analysts",,5,,AUTY(5),INFL(5),COMP(5),KNGE(5),BUSS(5)
+,,Head of performance analysis,Expert,Expert,Expert,Expert,Expert,Practitioner,Expert,Expert,,,,,,,,,"The head of performance analysis leads the performance analysis community, acting as the point of contact between the community and the business. At this level, you will:
+
+• remove blockers and act as an escalation point for important issues
+• set the performance analysis strategy with input from lead and senior performance analysts
+• be responsible for defining a framework for quality assurance within performance analysis
+• champion performance analysis and performance analysts, working with colleagues across government and other digital, data and technology (DDaT) communities and analytical professions
+• manage the organisation’s performance analysis capability through business planning, development and recruitment",,6,,AUTY(6),INFL(6),COMP(6),KNGE(6),BUSS(6)
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+IT operations,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Application operations engineer,,Asset and configuration management,Availability and capacity management,Change management,Continual service improvement,Incident management,Ownership and initiative,Problem management,Service focus,Service Management Framework knowledge,Technical specialism,Technical understanding,Testing,User focus,,,,"An application operations engineer supports, manages and maintains a single application or a suite of applications.",,,,,,,,
+,,Associate application operations engineer,Awareness,Awareness,Awareness,Awareness,,,,,,,,,,,,,"As a trainee, you will work in an established team and support application operations engineers in their daily work, under their direction.",,2,,AUTY(2),INFL(2),COMP(2),KNGE(2),BUSS(2)
+,,Application operations engineer,Working,Working,Awareness,Awareness,Awareness,Working,Awareness,Working,Awareness,Awareness,Awareness,Awareness,Working,,,,"An application operations engineer maintains services and is responsible for conducting user and security administration. At this level, you will:
+
+• monitor applications and are accountable for batch processes
+• in some organisations, carry out the duties of an end user computing engineer, such as fixing technical problems, maintaining hardware and liaising with the problem or incident manager",,3,,AUTY(3),INFL(3),COMP(3),KNGE(3),BUSS(3)
+,,Senior application operations engineer,Working,Working,Working,Working,Working,Working,Working,Working,Awareness,Working,Working,Working,Working,,,,"Dealing with more complex issues, a senior application operations engineer is responsible for code deployment and coordinating change-based activities such as taking services live. Depending on the complexity and size of a project and the likely impact it will have on the business, you might manage and maintain certain aspects of an application.",,4,,AUTY(4),INFL(4),COMP(4),KNGE(4),BUSS(4)
+,,Lead application operations engineer,Working,Working,Practitioner,Working,Practitioner,Practitioner,Working,Working,Working,Practitioner,Working,Practitioner,Practitioner,,,,"A lead application operations engineer defines the application strategy and the strategy for security administration. At this level, you:
+
+• will liaise with leads within IT operations on how applications are performing and changes that need to be put in place
+• may manage and maintain certain aspects of an application depending on the complexity and size of a project and the likely impact it will have on the business",,5,,AUTY(5),INFL(5),COMP(5),KNGE(5),BUSS(5)
+,,Principal application operations engineer,Practitioner,Practitioner,Practitioner,Practitioner,Practitioner,Practitioner,Practitioner,Practitioner,Practitioner,Expert,Practitioner,Expert,Practitioner,,,,"A principal application operations engineer owns the application strategy and leads on the resourcing and learning and development for their team. At this level, you will have expert technical understanding and will be accountable for vendor and supplier management.
+
+Depending on the complexity and size of a project and the likely impact it will have on the business, you may also manage and maintain certain aspects of an application.",,6,,AUTY(6),INFL(6),COMP(5),KNGE(6),BUSS(6)
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Business relationship manager,,Asset and configuration management,Business analysis (IT operations),Continual service improvement,Ownership and initiative,Relationship management,Service focus,Service Management Framework knowledge,Service reporting,Strategic thinking,Technical understanding,User focus,,,,,,A business relationship manager is responsible for acting as the liaison between the business and a selected customer group within a department to understand the operational and developmental needs of the business.,,,,,,,,
+,,Business relationship manager,Awareness,Working,Working,Working,Practitioner,Working,Awareness,Working,Working,Working,Working,,,,,,"A business relationship manager is responsible for the day-to-day relationships with business stakeholders, ensuring consistency in engagement across the business. At this level, you will:
+
+• act as translators and mediators between IT operations and the business
+• be the single point of contact for the business",,4,,AUTY(4),INFL(4),COMP(4),KNGE(4),BUSS(4)
+,,Senior business relationship manager,Awareness,Practitioner,Working,Practitioner,Practitioner,Working,Working,Working,Working,Practitioner,Practitioner,,,,,,"A senior business relationship manager is responsible for managing the directorate’s communication plan and its delivery. At this level, you will be expected to:
+
+• attend business meetings and management forums
+• provide communications and information for all related digital and technology activities",,5,,AUTY(5),INFL(5),COMP(5),KNGE(5),BUSS(5)
+,,Lead business relationship manager,Awareness,Expert,Practitioner,Practitioner,Expert,Practitioner,Working,Practitioner,Practitioner,Practitioner,Expert,,,,,,"A lead business relationship manager leads engagement with directors, corporate senior leaders, service managers and external stakeholders to ensure their complex needs are understood, prioritised and incorporated into directorate plans and that progress is communicated throughout the delivery process. At this level, you:
+
+• are responsible for ensuring that strategic demand - such as the spending review and services strategy commitments - are met and communicated to the appropriate IT operations functions
+• make a positive impact on the business through reduction of costs arising from service issues, increased efficiency and improved communication through better understanding of users’ needs and championing departmental commitment to continual improvement",,6,,AUTY(6),INFL(6),COMP(6),KNGE(6),BUSS(6)
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Change and release manager,,Asset and configuration management,Availability and capacity management,Change management,Community collaboration,Continual service improvement,Continuity management,Incident management,Ownership and initiative,Problem management,Service focus,Service Management Framework knowledge,Technical understanding,User focus,,,,"Change and release managers lead the change advisory board, ensuring adequate risk assessment and scheduling of technical changes and releases. In this role, you also own the configuration management database and the access, security, configuration of change activities and release procedures.",,,,,,,,
+,,Configuration analyst,Working,Awareness,Awareness,Working,Awareness,Awareness,Awareness,Awareness,Awareness,Awareness,Awareness,Awareness,Awareness,,,,"A configuration analyst provides administrative support to the change and release manager, helping maintaining the integrity of the configuration management database (CMDB) and independently solving smaller problems.",,3,,AUTY(3),INFL(3),COMP(3),KNGE(3),BUSS(3)
+,,Change and release analyst,Working,Awareness,Working,Working,Awareness,Awareness,Awareness,Awareness,Awareness,Awareness,Awareness,Awareness,Awareness,,,,"A change and release analyst plans and rolls out software, and designs and carries out procedures for the distribution and installation of changes to systems and services. At this level, you will be expected to:
+
+• undertake analysis after release and set the plan for upcoming changes
+• liaise with DevOps and service designers",,4,,AUTY(4),INFL(4),COMP(4),KNGE(4),BUSS(4)
+,,Change and release manager,Expert,Working,Expert,Practitioner,Working,Awareness,Working,Working,Working,Working,Awareness,Working,Working,,,,"A change and release manager makes sure that technical changes to IT services are adequately assessed for impact, prioritised, scheduled, authorised and implemented, in line with processes and using appropriate tools, including chairing the Change advisory Board (CAB). At this level, you will:
+
+• provide an escalation point
+• make decisions for all technical changes
+• coordinate releases and interdependencies",,5,,AUTY(5),INFL(5),COMP(5),KNGE(5),BUSS(5)
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Command and control centre manager,,Asset and configuration management,Availability and capacity management,Change management,Community collaboration,Continual service improvement,Continuity management,Incident management,Ownership and initiative,Problem management,Service focus,Service Management Framework knowledge,Technical understanding,User focus,,,,Command and control centre managers proactively monitor live services and performance trends to identify potential problems or areas for improvement that can then be investigated.,,,,,,,,
+,,Operations analyst,Awareness,Working,Awareness,Working,Working,Awareness,Awareness,Working,Awareness,Working,Awareness,Awareness,Working,,,,An operations analyst provides administrative support to their manager and alerts support staff if necessary.,,3,,AUTY(3),INFL(3),COMP(3),KNGE(3),BUSS(3)
+,,Senior operations analyst,Working,Working,Working,Working,Working,Awareness,Working,Working,Working,Working,Awareness,Working,Working,,,,"A senior operations analyst prioritises incoming messages for the team and ensures correct information flow, record keeping and data capture. At this level, you will be expected to:
+
+• detect notifications and conduct monitor checks to make sure that systems are running correctly
+• n emergencies, be on call outside your working hours to check events that have been logged as not functioning
+• in some organisations, you will also oversee the virtual environment",,4,,AUTY(4),INFL(4),COMP(4),KNGE(4),BUSS(4)
+,,Operational control manager,Working,Working,Practitioner,Practitioner,Practitioner,Working,Practitioner,Practitioner,Working,Practitioner,Working,Practitioner,Practitioner,,,,"An operational control manager is accountable for day-to-day IT operations, acting as the escalation point for incidents and problems. At this level, you will:
+
+• be responsible for effective change management processes that maintain the availability of services using proactive and preventative measures
+• be on call 24/7 or according to business requirements
+• be allowed to address issues across IT operations",,5,,AUTY(5),INFL(5),COMP(5),KNGE(5),BUSS(5)
+,,Head of command and control,Practitioner,Practitioner,Practitioner,Practitioner,Practitioner,Working,Practitioner,Practitioner,Practitioner,Practitioner,Practitioner,Expert,,,,,"A head of command and control is responsible for the strategy roadmap, integration and building the capability of the team. At this level, you will make sure all tools are fit for purpose and meet business requirements. You may also be required to address issues across IT operations.",,6,,AUTY(6),INFL(6),COMP(6),KNGE(6),BUSS(6)
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,End user computing engineer,,Asset and configuration management,Change management,Continual service improvement,Incident management,Ownership and initiative,Problem management,Service focus,Service Management Framework knowledge,Service reporting,Technical specialism,Technical understanding,Testing,User focus,,,,"An end user computing engineer is responsible for managing the product life cycle of all service-raised incidents (incident control) and all service requests (request control), requiring the use of knowledge management. In this role, you will also be responsible for informing customers on progress and advising on workarounds where necessary, as well as the support and maintenance of end user services.",,,,,,,,
+,,Associate end user computing engineer,Awareness,Awareness,Awareness,Awareness,Awareness,,,,,,,,,,,,"As a trainee, you will work in an established team and support end user computing engineers in their daily work, working to their direction.",,2,,AUTY(2),INFL(2),COMP(2),KNGE(2),BUSS(2)
+,,End user computing engineer,Working,Awareness,Awareness,Awareness,Working,Awareness,Working,Awareness,Awareness,Awareness,Awareness,Awareness,Working,,,,"An end user computing engineer works on-site, maintaining hardware and fixing technical problems as quickly as possible. At this level, you will:
+
+• provide first-time resolution by troubleshooting and diagnosing or escalating faults (or both) to service desk managers, incident managers and problem managers to investigate and resolve
+• coach associates and share knowledge with team colleagues",,3,,AUTY(3),INFL(3),COMP(3),KNGE(3),BUSS(3)
+,,Senior end user computing engineer,Working,Working,Working,Working,Working,Working,Awareness,Working,Working,Working,Working,Working,Working,,,,"A senior end user computing engineer is responsible for managing the team but also gets involved in solving technical problems. At this level, you will:
+
+• manage, coordinate and prioritise tasks to resolve technical incidents as quickly as possible
+• work closely with infrastructure, capacity managers and availability managers to fix technical problems and identify and escalate repeat issues to the lead end user computing engineer, the incident or problem manager and software developers, or both.",,4,,AUTY(4),INFL(4),COMP(4),KNGE(4),BUSS(4)
+,,Lead end user computing engineer,Working,Practitioner,Working,Practitioner,Practitioner,Working,Working,Working,Working,Practitioner,Working,Practitioner,Practitioner,,,,"A lead end user computing engineer has expert technical understanding and is accountable for vendor and supplier management. At this level, you work with relevant IT operations and other functions, such as technical architecture, to understand lower level productivity, development and feasibility.",,5,,AUTY(5),INFL(5),COMP(5),KNGE(5),BUSS(5)
+,,Principal end user computing engineer,Practitioner,Practitioner,Practitioner,Practitioner,Practitioner,Practitioner,Practitioner,Practitioner,Expert,Working,Expert,Expert,,,,,"A principal end user computing engineer owns the strategy roadmap and leads on resourcing, learning and development for their team. At this level, you look at the bigger picture and understand trends in the business.",,6,,AUTY(6),INFL(6),COMP(6),KNGE(6),BUSS(6)
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Infrastructure operations engineer,,Asset and configuration management,Availability and capacity management,Change management,Coding and scripting,Continual service improvement,Incident management,Ownership and initiative,Problem management,Service Management Framework knowledge,Service focus,Technical specialism,Technical understanding,Testing,User focus,,,"An infrastructure operations engineer supports, manages and maintains the core infrastructure that underpins production services.",,,,,,,,
+,,Associate infrastructure operations engineer,Awareness,Awareness,Awareness,Awareness,,,,,,,,,,,,,"As a trainee, you will work in an established team and support infrastructure operations engineers in their daily work, under their direction.",,2,,AUTY(2),INFL(2),COMP(2),KNGE(2),BUSS(2)
+,,Infrastructure operations engineer,Working,Working,Awareness,Awareness,Awareness,Awareness,Working,Awareness,Awareness,Working,Awareness,Awareness,Awareness,Working,,,"An infrastructure operations engineer is responsible for the preparation and support of IT operations solutions and services - physical or virtual - according to industry and organisational best practices standards, service requirements and key performance indicators (KPIs) throughout the product life cycle. You will do this by:
+
+• creating and maintaining documentation
+• erforming all routine tasks according to process and checklists
+• monitoring of infrastructure and applications services
+• alerting and taking appropriate action",,3,,AUTY(3),INFL(3),COMP(3),KNGE(3),BUSS(3)
+,,Senior infrastructure operations engineer,Working,Working,Working,Awareness,Working,Working,Working,Working,Working,Working,Working,Working,Awareness,Working,,,"A senior infrastructure operations engineer acts as second- or third-line support for incidents, problems and changes to solutions and services. You will be expected to:
+
+• provide specialist technical support and assistance to projects ensuring delivery of non-functional requirements and continual service improvement
+• be responsible for preparations and support of IT operations solutions and services - physical or virtual - according to industry and organisational best practices standards, service requirements and key performance Indicators (KPIs) throughout the product life cycle
+• coach and mentor junior team members, and assist in the provision of first-class services and consistent levels of capability as required by the organisation",,4,,AUTY(4),INFL(4),COMP(4),KNGE(4),BUSS(4)
+,,Lead infrastructure operations engineer,Working,Working,Practitioner,Working,Working,Practitioner,Practitioner,Working,Working,Practitioner,Working,Practitioner,Working,Practitioner,,,"A lead infrastructure operations engineer makes sure the service and contractual and regulatory requirements of the organisation are met by managing the following activities:
+
+• operational support of IT solutions and services
+• workload, performance and development of a team of IT operations specialists by building capability to deliver services as required
+• third-party provision of IT operations services
+• provision of expertise to programmes and projects as well as the development of architectural solutions for IT operations solutions throughout the service product life cycle",,5,,AUTY(5),INFL(5),COMP(5),KNGE(5),BUSS(5)
+,,Principal infrastructure operations engineer,Practitioner,Practitioner,Practitioner,Working,Practitioner,Practitioner,Practitioner,Practitioner,Practitioner,Expert,Practitioner,Expert,Practitioner,Expert,,,"A principal infrastructure operations engineer leads and directs IT operations specialist teams in monitoring, operating and supporting technical solutions. In this role, you will:
+
+• develop the strategic and tactical roadmaps for technologies and services making sure they are future-proofed and the organisation derives maximum value from investment in technologies
+• own the operational relationships with suppliers making sure services and products are aligned to industry best practice and regulatory and contractual requirements",,6,,AUTY(6),INFL(6),COMP(6),KNGE(6),BUSS(6)
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Incident manager,,Asset and configuration management,Availability and capacity management,Change management,Community collaboration,Continual service improvement,Continuity management,Incident management,Ownership and initiative,Problem management,Service Management Framework knowledge,Service focus,Technical understanding,User focus,,,,Incident managers aim to restore normal service operation as quickly as possible and minimise any adverse effect on business operations. This makes sure that the best possible levels of service quality and availability are returned and maintained.,,,,,,,,
+,,Incident manager,Awareness,Awareness,Awareness,Working,Awareness,Awareness,Working,Working,Working,Awareness,Working,Awareness,Working,,,,"An incident manager oversees incidents and restores normal operations as quickly as possible with the least impact on the business or the user.
+
+At this level, you will be expected to:
+
+• work on-site, maintaining the hardware and fixing technical problems as quickly as possible
+• provide first time resolution by troubleshooting, diagnosing or escalating faults to the major incident managers and problem managers to investigate and resolve, or both
+• coach apprentices and share knowledge with team colleagues
+
+Your responsibilities may, in some departments, mirror those of an end user computing engineer.",,4,,AUTY(4),INFL(4),COMP(4),KNGE(4),BUSS(4)
+,,Major incident manager,Awareness,Working,Working,Practitioner,Working,Working,Practitioner,Practitioner,Working,Awareness,Practitioner,Working,Practitioner,,,,"A major incident manager manages significant outages and crises and reports issues to problem management. At this level, you will be expected to work closely with workplace services, infrastructure, applications operators and communication managers. In some departments, you may also be the head of service.",,5,,AUTY(5),INFL(5),COMP(4),KNGE(4),BUSS(5)
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,IT service manager,,Asset and configuration management,Business analysis (IT operations),Continual service improvement,Ownership and initiative,Relationship management,Service focus,Service Management Framework knowledge,Service reporting,Strategic thinking,Technical understanding,User focus,,,,,,IT service managers are responsible for managing the service delivery of information and communications technology (ICT) services and working with teams from IT service operations.,,,,,,,,
+,,IT service analyst,Awareness,Awareness,Awareness,Working,Working,Awareness,Awareness,Working,Working,Awareness,Working,,,,,,,,3,,AUTY(3),INFL(3),COMP(3),KNGE(3),BUSS(3)
+,,IT service manager,Working,Working,Working,Working,Working,Practitioner,Working,Working,Working,Working,Working,,,,,,"An IT service manager is responsible for defining service level agreements (SLAs) and operational level agreements (OLAs) across all relevant business functions.
+
+At this level, you will manage a fully functioning multi-sourced service support team with a customer-centric support approach across multiple locations, focused on service availability and performance
+
+You will also ensure that:
+
+all service and support functions remain responsive to customer needs
+the service catalogue and wider IT service operations knowledge library is maintained
+adequate reporting and service standards are met for their specific service
+all technical change is communicated and managed, with appropriate governance
+a programme of continual service improvement is put in place across the wider service delivery function",,4,,AUTY(4),INFL(4),COMP(4),KNGE(4),BUSS(4)
+,,Senior IT service manager,Practitioner,Practitioner,Practitioner,Practitioner,Practitioner,Practitioner,Practitioner,Practitioner,Practitioner,Working,Practitioner,,,,,,"A senior IT service manager is responsible for service management across platforms, multiple channels and services to ensure service availability, performance and process maturity.",,5,,AUTY(5),INFL(5),COMP(5),KNGE(5),BUSS(5)
+,,Head of IT service management,Expert,Practitioner,Practitioner,Practitioner,Expert,Expert,Practitioner,Expert,Practitioner,Expert,,,,,,,"A head of IT service management is responsible for setting the vision and strategy for service management, ensuring processes are owned and maturing. At this level, you will:
+
+lead a team, ensuring adequate resources and capacity
+represent the IT service management function at a senior level
+act as an escalation point for business stakeholders",,6,,AUTY(6),INFL(6),COMP(6),KNGE(6),BUSS(6)
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Problem manager,,Asset and configuration management,Availability and capacity management,Change management,Community collaboration,Continual service improvement,Continuity management,Incident management,Ownership and initiative,Problem management,Service focus,Service Management Framework knowledge,Technical understanding,User focus,,,,"Problem managers aim to resolve and control the root causes of incidents caused by errors within the IT infrastructure. In this role, you will be expected to work to prevent the recurrence of these incidents.",,,,,,,,
+,,Problem analyst,Awareness,Working,Awareness,Working,Working,Awareness,Working,Working,Working,Working,Awareness,Awareness,Working,,,,"At this level, you will be responsible for maintaining software systems once they are up and running and, where necessary, support the problem manager in coordinating the resolution of any problems.",,3,,AUTY(3),INFL(3),COMP(3),KNGE(3),BUSS(3)
+,,Problem manager,Awareness,Working,Working,Practitioner,Practitioner,Working,Practitioner,Practitioner,Practitioner,Practitioner,Awareness,Working,Working,,,,"A problem manager picks up feeds from numerous sources, such as the service desk, with the aim of putting in place continual improvements to stop incidents such as regular service outages recurring. At this level, you will:
+
+• resolve emerging and recurring problems and perform root cause analysis to minimise the adverse impact of incidents caused by errors within the IT infrastructure
+• work closely with major incident managers
+• deal with problems and root cause analysis",,5,,AUTY(5),INFL(5),COMP(5),KNGE(5),BUSS(5)
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Service desk manager,,Asset and configuration management,Continual service improvement,Customer service management,Ownership and initiative,Problem management,Service focus,Service Management Framework knowledge,Service reporting,Technical understanding,User focus,,,,,,,"A service desk manager is responsible for managing the first- and second-line technical support for all departmental IT applications and services across sites, including end-user computing. This includes multi-function devices and specialised IT equipment.
+
+In this role, you will also be responsible for ensuring support for existing and emerging information and communications technology (ICT) services, including providing technical advice to project teams.",,,,,,,,
+,,Service desk analyst,Awareness,Awareness,Working,Working,Awareness,Working,Awareness,Awareness,,,,,,,,,"A service desk analyst interacts with customers. At this level, you will perform tasks such as taking calls from customers and trying to resolve their queries, while knowing when to escalate issues to your manager.",,2,,AUTY(2),INFL(2),COMP(2),KNGE(2),BUSS(2)
+,,Service desk manager,Awareness,Working,Expert,Practitioner,Working,Working,Working,Practitioner,Working,Practitioner,,,,,,,"A service desk manager identifies emerging issues and is a knowledge expert.
+
+They are responsible for the resourcing and development of the team, including the preparation and coordination of service transition activities.",,4,,AUTY(4),INFL(4),COMP(4),KNGE(4),BUSS(4)
+,,Senior service desk analyst,Awareness,Working,Practitioner,Working,Awareness,Working,Awareness,Working,Awareness,Working,,,,,,,"A senior service desk analyst monitors inbound calls, supports operators in service resolution and intervenes in difficult calls. At this level, you will be expected to:
+
+• own and update the script for service desk analysts
+• manage availability, coach and develop one or more service desk analysts",,3,,AUTY(3),INFL(3),COMP(3),KNGE(3),BUSS(3)
+,,Head of service desk,Awareness,Practitioner,Expert,Practitioner,Practitioner,Practitioner,Working,Expert,Working,Expert,,,,,,,"A head of service desk is responsible for managing a team who provides first- and second-line technical support. At this level, you will:
+
+• be responsible for ensuring support of existing and emerging information and communications technology (ICT) services, including providing technical advice to project teams
+• make sure that the support team undertakes development to make sure they can advise on future projects and current issues
+• manage and monitor service desk service level agreements (SLAs) and performance",,5,,AUTY(5),INFL(5),COMP(5),KNGE(5),BUSS(5)
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Service transition manager,,Asset and configuration management,Availability and capacity management,Change management,Community collaboration,Continual service improvement,Continuity management,Incident management,Ownership and initiative,Problem management,Service focus,Service Management Framework knowledge,Technical understanding,User focus,,,,"IT service transition managers provide overall planning for service transitions and coordinate the required resources. In this role, you will be expected to control the product life cycle of all changes, enabling beneficial changes to be made with minimum disruption to IT services.",,,,,,,,
+,,Service acceptance analyst,Awareness,Awareness,Awareness,Awareness,Working,Awareness,Awareness,Awareness,Awareness,Working,Awareness,Awareness,Working,,,,"A service acceptance analyst coordinates across IT operations and manages the acceptance criteria for any changes within the area. At this level, you will validate changes against the acceptance criteria, gathering evidence and creating materials as necessary.",,3,,AUTY(3),INFL(3),COMP(3),KNGE(3),BUSS(3)
+,,Service readiness analyst,Awareness,Working,Working,Working,Working,Awareness,Awareness,Working,Awareness,Working,Awareness,Awareness,Working,,,,"A service readiness analyst tests the products and is accountable for application acceptance and checking whether security criteria have been met. At this level, you will flag any potential risks and escalate these to the service transition manager.",,3,,AUTY(3),INFL(3),COMP(3),KNGE(3),BUSS(3)
+,,Service transition manager,Working,Working,Working,Working,Working,Awareness,Working,Working,Working,Practitioner,Working,Working,Working,,,,"A service transition manager accepts products, determines whether they are fit for purpose and assesses readiness against agreed service acceptance criteria. At this level, you will:
+
+• make recommendations on go-live, early-life support and service acceptance
+• be responsible for ensuring that the acceptance criteria is understood by the wider IT operations",,4,,AUTY(4),INFL(4),COMP(4),KNGE(4),BUSS(4)
+,,Lead service transition manager,Working,Practitioner,Practitioner,Practitioner,Working,Awareness,Working,Practitioner,Working,Working,Working,Practitioner,,,,,"A lead service transition manager is responsible for the planning and coordination of resources to make sure that services are effectively transitioned into service operation.
+
+At this level, you will be solely responsible for the coordination activities across projects, suppliers and service teams.",,5,,AUTY(5),INFL(5),COMP(5),KNGE(5),BUSS(5)
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Product and delivery,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Business analyst,,Agile working,Business analysis,Business improvement process,Business modelling,Business process testing,Digital perspective,Enterprise and business architecture,Innovation,Methods and tools,Requirements definition and management,Stakeholder relationship management,Testing (business analysis),User focus,,,,Business analysts understand and analyse user and business needs.,,,,,,,,
+,,Junior business analyst,Working,Awareness,Working,Awareness,Awareness,Working,Awareness,Awareness,Awareness,Awareness,Awareness,Awareness,Awareness,,,,"A junior business analyst receives direction from more senior BAs (task-based delivery) but is responsible for the output. At this level, you will have a limited toolset and will work with others or under supervision. You will support stakeholder relationship management.",,2,,AUTY(2),INFL(2),COMP(3),KNGE(2),BUSS(3)
+,,Business analyst,Practitioner,Working,Practitioner,Working,Working,Practitioner,Working,Working,Working,Working,Working,Working,Working,,,,"A business analyst leads small-to-medium-sized projects and supports larger and more complex projects. At this level, you will be expected to:
+
+• manage stakeholder relationships
+• work independently
+• have a good understanding of your own work area
+• advance the BA community through the sharing of best practice and mentoring others",,3,,AUTY(3),INFL(3),COMP(3),KNGE(4),BUSS(4)
+,,Senior business analyst,Practitioner,Practitioner,Practitioner,Practitioner,Practitioner,Practitioner,Practitioner,Practitioner,Practitioner,Practitioner,Practitioner,Practitioner,Practitioner,,,,"A senior business analyst has a good understanding of strategic arenas and leads large and complex projects.
+
+At this level, you will:
+
+• have functional and / or people management responsibilities
+• mentor others
+• develop best practice
+• own stakeholder relationships
+• manage communities-of-practice activities (internally and across government)",,4,,AUTY(4),INFL(4),COMP(5),KNGE(5),BUSS(4)
+,,Principal business analyst,Expert,Expert,Expert,Expert,Expert,Expert,Practitioner,Practitioner,Expert,Expert,Expert,Practitioner,Expert,,,,"A principal business analyst has a good understanding of the enterprise arena and works on multiple, highly complex projects. At this level, you will:
+
+• be a leader in the BA community (across government and externally)
+• have functional management, or people management accountabilities, or a combination of both
+• proactively share knowledge and will be seen as a go-to person in their field while also mentoring others and owning the main stakeholder relationships
+
+This has 2 roles: a management role and a specialist role.",,5,,AUTY(5),INFL(5),COMP(5),KNGE(6),BUSS(6)
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Delivery manager,,Agile and Lean practices,Commercial management,Communication skills,Financial management,Life-cycle perspective,Maintaining delivery momentum,Making the process work,Planning,Team dynamics and collaboration,,,,,,,,A delivery manager is accountable for the delivery of products and services.,,,,,,,,
+,,Associate delivery manager,Working,Working,Working,Awareness,Awareness,Working,Working,Awareness,Awareness,,,,,,,,"As an associate delivery manager, you will work on a small or mature agile team and learn on the job. At this level, you may work alongside a delivery manager on a larger team, shadowing and providing support, or working to deliver an element themselves under guidance and mentorship.",,4,,AUTY(4),INFL(4),COMP(4),KNGE(4),BUSS(4)
+,,Delivery manager,Practitioner,Working,Practitioner,Working,Working,Practitioner,Expert,Practitioner,Working,,,,,,,,"A delivery manager is accountable for the performance of the team. In this role, you will:
+
+• build and maintain teams, ensuring they are motivated, collaborating and working well
+• identify obstacles and help the team to overcome them
+• focus the team on what is most important to the delivery of products and services
+• encourage and facilitate continuous improvement of the delivery team
+• coach and mentor both team members and others to apply the most appropriate agile and lean tools and techniques
+
+The complexity or breadth of products or teams will vary in this role, depending on the context.",,5,,AUTY(5),INFL(5),COMP(5),KNGE(5),BUSS(5)
+,,Senior delivery manager,Expert,Practitioner,Expert,Practitioner,Practitioner,Expert,Expert,Expert,Practitioner,,,,,,,,"A senior delivery manager is accountable for the effective delivery of complex, high-risk products and services. The role is similar to a delivery manager role, but senior delivery managers have more experience across a range of products and services, throughout the entire product life cycle, and have greater responsibility and accountability as the main point of escalation.
+
+At this level, you will be expected to:
+
+• have strong communication skills and engage senior stakeholders
+• coach and mentor delivery managers",,6,,AUTY(6),INFL(6),COMP(6),KNGE(6),BUSS(6)
+,,Head of (agile) delivery management,Expert,Expert,Expert,Practitioner,Expert,Expert,Expert,Expert,Expert,,,,,,,,"The head of delivery management is an experienced practitioner who exemplifies what good looks like across the delivery roles.
+
+As a head of delivery management you will:
+
+• represent and champion the role within your department, across government and in industry
+• lead the community of practice for this role and build capability and excellence (in an agile, lean practice)
+• be responsible for the recruitment of the right people to the right teams
+• support professional development and continuous improvement of their community
+• work with other heads of roles to promote effective cross-functional delivery
+• be a skilled team leader who is able to confidently communicate the value of the role to digital and non-digital stakeholders
+• be credible and influential across departments",,7,,AUTY(7),INFL(6),COMP(6),KNGE(6),BUSS(7)
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Product manager,,Agile working,DDaT perspective,Experience of working within constraints,Financial ownership,Life-cycle perspective,Operational management,Problem ownership,Product ownership,Strategic ownership,User focus,,,,,,,"A product manager is responsible for the quality of their products. In this role, you will be expected to use your knowledge of user needs and business goals to frame problems and set priorities for your delivery teams.",,,,,,,,
+,,Associate product manager,Awareness,Awareness,Awareness,Awareness,Awareness,Awareness,Working,Awareness,Working,Working,,,,,,,"Associate product managers manage subsets of features or components of a product in either its prototype state or once it is live and being incrementally improved. This can be an entry-level role for civil servants who may be looking to progress to product manager or those on emerging talent schemes.
+
+At this level, because you will be learning basic product management techniques, you will report to a more senior product manager.",,3,,AUTY(2),INFL(3),COMP(3),KNGE(3),BUSS(3)
+,,Product manager,Practitioner,Working,Working,Practitioner,Working,Practitioner,Practitioner,Practitioner,Practitioner,Practitioner,,,,,,,"A product manager defines, owns and solve problems. At this level, you:
+
+• will manage a product through discovery, alpha, beta and live states
+• will support lead and senior product managers
+• may line manage associate product managers and support their professional development
+• will be developing expert skills in and knowledge of product management techniques
+• may be involved in recruitment
+
+This can be an ‘entry-level’ role for new product managers who have been working in other digital roles or civil servants with sufficient experience across other competencies.",,4,,AUTY(3),INFL(4),COMP(4),KNGE(4),BUSS(4)
+,,Senior product manager,Expert,Practitioner,Practitioner,Practitioner,Expert,Expert,Expert,Expert,Practitioner,Expert,,,,,,,"Senior product managers manage multiple products or a single product that is especially complex, high-risk or sensitive. At this level, you:
+
+• will line-manage associate product managers and product managers
+• have expert product management skills.
+• may be involved in elements of programme management activity
+• will be involved in hiring associates, product managers and contractors",,5,,AUTY(4),INFL(5),COMP(5),KNGE(5),BUSS(5)
+,,Lead product manager,Expert,Expert,Expert,Practitioner,Practitioner,Expert,Expert,Expert,Expert,Expert,,,,,,,"A lead product manager is the lead for the product team in their programme or service. At this level, you will:
+
+• be as interested in managing people as managing products
+• work closely with the head of product (where they exist as a separate role) to provide leadership and direction to all products in a programme or a local product community
+• maintain the high-level roadmap.
+• be involved in a range of programme management activities in support of the service owner or programme lead
+• be involved in hiring associate product managers, product managers, senior product managers and contractors
+• provide leadership in their programmes and across the local community",,6,,AUTY(5),INFL(6),COMP(6),KNGE(6),BUSS(6)
+,,Head of product,Expert,Expert,Expert,Practitioner,Expert,Expert,Expert,Expert,Expert,Expert,,,,,,,"A head of product management provides support to all product managers in the organisation. At this level, you will:
+
+• have expert product management skills
+• be required to coach others to increase professionalism
+• work with other communities and organisation management to represent community interests
+• oversee every member of the community, their role, their assignments, development, pay and performance
+ª manage hiring, development, moves and exits from the community, covering civil servants and contractors
+• line-manage senior and lead product mangers",,6,,AUTY(6),INFL(6),COMP(6),KNGE(6),BUSS(6)
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Programme delivery manager,,Agile and Lean practices,Commercial management,Communication skills,Community collaboration,Financial management,Life-cycle perspective,Maintaining delivery momentum,Making a process work,Planning,,,,,,,,A programme delivery manager is accountable for the delivery of complex products and services that are being delivered by multiple teams or have high technical or political risk.,,,,,,,,
+,,Programme delivery manager,Expert,Expert,Expert,Expert,Expert,Expert,Expert,Expert,Expert,,,,,,,,"A programme delivery manager is accountable for the delivery of complex products and services that are delivered by multiple teams or have high technical or political risk. In this role, you will:
+
+• manage dependencies of varying complexity, potentially planning and feeding into larger programmes and portfolios
+• remove blockers and manage risks, commercials, budgets and people
+• balance objectives and can redeploy people and resources as priorities change
+• have an indepth knowledge of Agile and other methodologies
+• be responsible for understanding, managing and communicating to complex stakeholder groups, balancing priorities
+• be the initial escalation point for the programme and must have an awareness of the bigger picture
+
+Programme delivery managers support the programme director by overseeing the delivery of their vision for the programme. They support and coach delivery managers.",,6,,AUTY(6),INFL(6),COMP(6),KNGE(6),BUSS(6)
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Service owner,,Agile working,Financial ownership,Life-cycle perspective,Operational management,Problem ownership,Product ownership,Strategic ownership,User focus,,,,,,,,,"A service owner is accountable for the quality of their service. In this role, you will be expected to adopt a portfolio view, managing end-to-end services that include multiple products and channels.",,,,,,,,
+,,Service owner,Expert,Expert,Practitioner,Expert,Expert,Working,Expert,Expert,,,,,,,,,"A service owner is accountable for the quality of their service. They adopt a portfolio view, managing end-to-end services, which include multiple products and channels. You will be expected to operate at scale and provide the connection between multidisciplinary business areas and stakeholders.
+
+At this level, you will:
+
+• make sure the necessary business processes are followed
+• participate in the governance of the service, including acting as a point of escalation for the delivery teams
+• own the budget and allocate funding to areas of the service based on your decisions about priorities
+• communicate the benefits and performance of your service
+• ultimately be responsible for the successful operation and continuous improvement of the service",,5,,AUTY(5),INFL(5),COMP(6),KNGE(5),BUSS(5)
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Quality assurance testing (QAT),,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Quality Assurance Testing (QAT) analyst,,Functional testing,Non-functional testing,Technical breadth,Test analysis,,,,,,,,,,,,,A QAT analyst designs and executes test plans and carries out exploratory testing as part of a broader risk-based approach.,,,,,,,,
+,,QAT analyst,Working,Awareness,Awareness,Working,,,,,,,,,,,,,"A QAT analyst will undertake and execute appropriate test design and perform exploratory testing. At this level, you will:
+
+• collaborate with delivery teams and determine the testability of functional and non-functional requirements
+• have domain and business knowledge
+• take a business and operational view when analysing the system under test",,3,,AUTY(3),INFL(3),COMP(3),KNGE(3),BUSS(3)
+,,Tester (QAT),Awareness,Awareness,Awareness,Awareness,,,,,,,,,,,,,"Testers work closely with test engineers and QAT analysts to learn the activities and techniques required to establish the basis of testing. At this level, you will:
+
+• have domain and business knowledge
+• develop test scripts under supervision
+• identify and manage defects",,1,,AUTY(1),INFL(1),COMP(2),KNGE(2),BUSS(1)
+,,Senior QAT analyst,Practitioner,Practitioner,Practitioner,Practitioner,,,,,,,,,,,,,"Senior QAT analysts have similar responsibilities to a QAT analyst but at a more complex level and on a greater scale. At this level, you will:
+
+• take a business and an operational view to finding solutions to complex problems
+• provide test coverage support for test engineers and software developers
+• come up with functional and non-functional testing procedures and requirements",,4,,AUTY(4),INFL(4),COMP(4),KNGE(4),BUSS(4)
+,,Lead QAT analyst,Expert,Working,Practitioner,Expert,,,,,,,,,,,,,"A lead QAT analyst sets the strategy for test analysis, establishing standards and methods. They are accountable and responsible for activities at high risk. At this level, you will:
+
+• take both a business and an operational view
+• have management responsibilities - coaching and mentoring staff
+• lead the delivery practice, focusing on complex problem-solving and influencing senior team members
+• be a specialist in an area of testing and influence the QAT industry
+• have expert technical understanding and provide advice to project teams",,5,,AUTY(5),INFL(5),COMP(5),KNGE(5),BUSS(5)
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Test engineer,,Functional testing,Non-functional testing,Technical breadth,Test analysis,,,,,,,,,,,,,"A test engineer undertakes test planning activity including discovery capture, test definition and the estimation of test effort as part of a broader risk-based approach.",,,,,,,,
+,,Tester (test engineer),Awareness,Awareness,Awareness,Awareness,,,,,,,,,,,,,"A tester (test engineer) works closely with test engineers and QAT analysts to learn the activities and techniques required to establish the basis of testing. At this level, you will:
+
+• have domain and business knowledge
+• develop test scripts under supervision
+• raise awareness of and manage defects",,1,,AUTY(1),INFL(1),COMP(2),KNGE(2),BUSS(1)
+,,Test engineer,Working,Working,Working,Working,,,,,,,,,,,,,"A test engineer is responsible for writing, debugging and refactoring test code. At this level, you will:
+
+• work closely with software developers to reach a common understanding of the code base and test coverage at unit level
+• collaborate with analysts to make sure the required business scenarios are covered in the acceptance test scripts
+• test engineers work on both functional and non-functional areas of an application
+• coach and mentor testers",,3,,AUTY(3),INFL(3),COMP(3),KNGE(3),BUSS(3)
+,,Senior test engineer,Practitioner,Practitioner,Practitioner,Practitioner,,,,,,,,,,,,,"A senior test engineer has similar responsibilities to a test engineer but at a more complex level and on a greater scale. At this level you will:
+
+• identify and raise awareness of risks arising from the automation test results
+• identify new and implement existing test frameworks to improve confidence in testing
+• be proficient in a range of coding languages (you may be an expert in only one)
+• mentor and advise other team members in testing practices",,4,,AUTY(4),INFL(4),COMP(4),KNGE(4),BUSS(4)
+,,Lead test engineer,Expert,Expert,Expert,Practitioner,,,,,,,,,,,,,"A lead test engineer writes new automation test frameworks based on project requirements. At this level, you will:
+
+• promote the use of open source tools
+• be proficient in multiple test scripting languages
+• have a presence in external test communities and regularly share learning
+• work closely with leads across the digital, data and technology profession to champion quality
+• guide test team members to design test strategies - this may involve more complex and larger scale delivery
+• manage communications between projects to control integration and dependencies",,5,,AUTY(5),INFL(5),COMP(5),KNGE(5),BUSS(5)
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Test manager,,Functional testing,Non-functional testing,Technical breadth,Test analysis,,,,,,,,,,,,,A test manager takes ownership of the quality assurance and testing (QAT) strategy as part of a broader risk-based approach.,,,,,,,,
+,,Test manager,Practitioner,Awareness,Practitioner,Practitioner,,,,,,,,,,,,,"A test manager takes ownership for delivery, creates the strategy and leads its implementation.
+
+Test managers:
+
+• are responsible for test improvement and optimisation
+• may promote and advocate test capabilities internally and outside the government
+• take responsibility for talent, succession planning and supplier management
+• make important decisions relating to test within the context of the delivery environment",,5,,AUTY(5),INFL(5),COMP(5),KNGE(5),BUSS(5)
+,,Head of test,Practitioner,Awareness,Practitioner,Practitioner,,,,,,,,,,,,,"A head of test takes ownership for establishing policy for the test team and setting the testing strategy. At this level, you: will own continuous improvement, research new technology and new techniques to implement change will make important decisions will build the QAT community and provide organisational leadership may advocate test capabilities both internally and outside of government make sure that teams have the right capabilities",,6,,AUTY(6),INFL(6),COMP(6),KNGE(6),BUSS(6)
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Technical,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Data architect,,Communication skills (data),Data analysis and synthesis,Data communication,Data governance,Data innovation,Data modelling,Data standards,Metadata management,Problem resolution (data),Strategic thinking (data architecture),Turning business problems into data design,,,,,,"A data architect sets the vision for the organisation’s use of data, through data design, to meet business needs.",,,,,,,,
+,,Data architect,Working,Working,Awareness,Working,Awareness,Working,Working,Working,Working,Awareness,Working,,,,,,"A data architect designs and builds data models to fulfil the strategic data needs of the business as defined by chief data architects. At this level, you will:
+
+• undertake design, support and provide guidance for the upgrade, management, de-commission and archive of data in compliance with data policy
+• provide input into data dictionaries",,4,,AUTY(4),INFL(3),COMP(4),KNGE(3),BUSS(4)
+,,Senior data architect,Practitioner,Working,Working,Practitioner,Working,Practitioner,Practitioner,Practitioner,Practitioner,Working,Practitioner,,,,,,"A senior data architect delivers the vision for the organisation as set by the chief data architect. At this level, you will:
+
+• design data models and metadata systems and help chief data architects to interpret business needs
+• provide oversight and advice to other data architects who are undertaking the design of data models and support the management of data dictionaries
+• make sure that your teams are working to the standards set for the organisation by the chief data architect
+• work with technical architects to make sure that an organisation’s systems are designed in accordance with the appropriate data architecture",,5,,AUTY(5),INFL(4),COMP(5),KNGE(4),BUSS(5)
+,,Chief data architect,Expert,Working,Practitioner,Expert,Practitioner,Expert,Expert,Expert,Expert,Expert,Expert,,,,,,"A chief data architect sets the vision for the organisation’s use of data as directed by the appropriate governance body. At this level, you will:
+
+• oversee the design of multiple data models and have a broad understanding of how each model fulfils the needs of the business
+• be accountable for the definition of the organisation’s data strategy
+• champion data architecture across government, and set the standards and ways of working for the data architecture community
+• provide advice to project teams and oversee the management of the full data product life cycle
+• have responsibility for making sure that organisations systems are designed in accordance with the data architecture",,6,,AUTY(6),INFL(5),COMP(6),KNGE(5),BUSS(6)
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Development operations (DevOps) engineer,,Availability and capacity management,Development process optimisation,Information security,Modern standards approach,Programming and build (software engineering),Prototyping,Service support,Systems design,Systems integration,User focus,,,,,,,"Commonly referred to as ‘DevOp engineers’, development operations engineers support the development and operation of software through tools, environments and practices.
+
+In this role, you will be responsible for underpinning good development processes including managing tools and testing environments, central code control, maintaining development standards and writing software that automates systems.",,,,,,,,
+,,Apprentice DevOps engineer,Awareness,Awareness,Awareness,Awareness,Awareness,Awareness,,,,,,,,,,,"An apprentice DevOps engineer attends certified training and develops skills on the job. At this level, you will:
+
+• spend a significant proportion of your time shadowing others
+• be involved in implementation but not planning
+• build on your own knowledge",,1,,AUTY(1),INFL(1),COMP(1),KNGE(1),BUSS(1)
+,,Junior DevOps engineer,Awareness,Working,Working,Working,Working,Working,Awareness,Awareness,Awareness,,,,,,,,"A junior DevOps engineer learns on the job by building software components. At this level, you will:
+
+• assist in the building of a complex story
+• work under supervision
+• be involved in implementation but not planning",,2,,AUTY(2),INFL(2),COMP(2),KNGE(2),BUSS(2)
+,,DevOps engineer,Working,Awareness,Practitioner,Working,Practitioner,Practitioner,Practitioner,Working,Working,Working,,,,,,,"A DevOps engineer delivers automated software components that form part of a development operations toolchain. At this level, you will:
+
+• transform technical requirements into DevOps processes
+• build complex stories without additional support
+• manage live test environments
+• identify and resolve issues preventing delivery",,3,,AUTY(3),INFL(3),COMP(3),KNGE(3),BUSS(3)
+,,Senior DevOps engineer - management,Practitioner,Practitioner,Practitioner,Practitioner,Practitioner,Practitioner,Practitioner,Practitioner,Practitioner,Practitioner,,,,,,,"A senior DevOps engineer delivers and integrates software to form a complete DevOps toolchain. They are responsible for planning and designing large groups of stories.
+
+At this level, you will:
+
+• transform technical requirements into an effective DevOps toolchain to enable product delivery
+• provide coaching and mentoring to more junior colleagues
+• make sure deployment strategies for products are repeatable, scalable and highly available
+• have deep technical knowledge, providing support to delivery teams and solving complex problems
+
+There are 2 different roles for this - a management role and a technical role.",,4,,AUTY(4),INFL(4),COMP(4),KNGE(4),BUSS(4)
+,,Senior DevOps engineer,Working,Working,Practitioner,Practitioner,Practitioner,Practitioner,Expert,Practitioner,Practitioner,Practitioner,,,,,,,"A senior DevOps engineer delivers and integrates software to form a complete DevOps toolchain. They are responsible for planning and designing large groups of stories.
+
+At this level, you will:
+
+• transform technical requirements into an effective DevOps toolchain to enable product delivery
+• provide coaching and mentoring to more junior colleagues
+• make sure deployment strategies for products are repeatable, scalable and highly available
+• have deep technical knowledge, providing support to delivery teams and solving complex problems
+
+There are 2 different roles for this - a management role and a technical role.",,4,,AUTY(4),INFL(4),COMP(4),KNGE(4),BUSS(4)
+,,Lead DevOps engineer - management,Working,Working,Practitioner,Expert,Practitioner,Practitioner,Expert,Practitioner,Expert,Practitioner,,,,,,,"A lead DevOps engineer leads one or a small number of related project teams and contributes to the development of the strategic direction. At this level, you will:
+
+• act as a technical product owner, developing medium-to-long term strategies for product lines
+• provide technical leadership and guidance through coaching and mentoring
+• lead the sharing of knowledge and good practice
+
+There are 2 roles here: a management role and a technical role.",,5,,AUTY(5),INFL(5),COMP(5),KNGE(5),BUSS(5)
+,,Lead DevOps engineer,Practitioner,Practitioner,Practitioner,Expert,Practitioner,Practitioner,Practitioner,Practitioner,Practitioner,Practitioner,,,,,,,"A lead DevOps engineer leads one or a small number of related project teams and contributes to the development of the strategic direction. At this level, you will:
+
+• act as a technical product owner, developing medium-to-long term strategies for product lines
+• provide technical leadership and guidance through coaching and mentoring
+• lead the sharing of knowledge and good practice
+
+There are 2 roles here: a management role and a technical role.",,5,,AUTY(5),INFL(5),COMP(5),KNGE(5),BUSS(5)
+,,Principal DevOps engineer - management,Practitioner,Practitioner,Expert,Expert,Practitioner,Expert,Expert,Practitioner,Expert,Practitioner,,,,,,,"A principal DevOps engineer leads and plans development across large or multiple teams, defining the strategic vision for delivery. At this level, you will:
+
+• identify, test and champion the adoption of emerging technologies
+• ensure that security, stability and capacity are embedded in the development and deployment of services
+• develop a team’s capability by rewarding high performers
+• shape career paths and recruit the right talent
+• identify skills gaps and important dependencies within technical teams
+
+There are 2 roles here: a technical role and a management role.",,6,,AUTY(6),INFL(6),COMP(6),KNGE(6),BUSS(6)
+,,Principal DevOps engineer,Expert,Expert,Expert,Expert,Practitioner,Expert,Practitioner,Practitioner,Practitioner,Practitioner,,,,,,,"A principal DevOps engineer leads and plans development across large or multiple teams, defining the strategic vision for delivery. At this level, you will:
+
+• identify, test and champion the adoption of emerging technologies
+• ensure that security, stability and capacity are embedded in the development and deployment of services
+• develop a team’s capability by rewarding high performers
+• shape career paths and recruit the right talent
+• identify skills gaps and important dependencies within technical teams
+
+There are 2 roles here: a technical role and a management role.",,6,,AUTY(6),INFL(6),COMP(6),KNGE(6),BUSS(6)
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Infrastructure engineer,,Coding & scripting,IT infrastructure,Information security,Modern standards approach,Ownership and initiative,Problem solving,Service focus,Systems design,Systems integration,Technical understanding (Infrastructure engineer),Testing,Troubleshooting and problem resolution,,,,,"An infrastructure engineer designs, builds, manages and supports the infrastructure services that underpin all internal user services and services to the public.",,,,,,,,
+,,Associate infrastructure engineer,Awareness,Awareness,Awareness,Awareness,Awareness,Awareness,Awareness,Awareness,Awareness,,,,,,,,"As a trainee, you will work in an established team and support infrastructure engineers in their daily work, under their direction.",,2,,AUTY(2),INFL(2),COMP(2),KNGE(2),BUSS(2)
+,,Infrastructure engineer,Awareness,Working,Awareness,Working,Working,Awareness,Working,Working,Working,Working,Awareness,Working,,,,,"Working in a team of infrastructure specialists and engineers, an infrastructure engineer supports and maintains infrastructure solutions and services as directed and according to departmental policy. At this level, you will: - make sure services are delivered and used as required - work with and support third parties to provide infrastructure services",,3,,AUTY(3),INFL(3),COMP(3),KNGE(3),BUSS(3)
+,,Senior infrastructure engineer,Awareness,Practitioner,Working,Practitioner,Working,Working,Working,Practitioner,Practitioner,Practitioner,Working,Practitioner,,,,,"Working in a team of infrastructure specialists and engineers, a senior infrastructure engineer builds, administers, supports and maintains solutions as directed and according to departmental policy. At this level, you will:
+
+• ensure services are integrated, delivered and operated as required
+• work with and support third parties in providing infrastructure services
+• work with technical architects to translate architectural designs into operations
+• provide input into overall management - workforce, budget, technology roadmaps, projects and tasks
+
+If you take a managerial path, you will also lead and direct infrastructure specialist teams in building, managing, supporting and maintaining solutions according to departmental policy.",,4,,AUTY(4),INFL(4),COMP(4),KNGE(4),BUSS(4)
+,,Lead infrastructure engineer,Working,Expert,Practitioner,Expert,Practitioner,Working,Working,Practitioner,Expert,Expert,Practitioner,Expert,,,,,"A lead infrastructure engineer manages third party provision of infrastructure services and the provision of expertise to develop architectural solutions for infrastructure services throughout the service product life cycle. In this role, you will:
+
+• oversee programmes and projects
+• work with technical architects to translate the architectural designs into operations and support technical architects in operationalising the designs
+
+If you are taking a managerial path, you will lead and direct infrastructure specialists teams in building, managing, supporting and maintaining solutions according to departmental policy.",,5,,AUTY(5),INFL(5),COMP(5),KNGE(5),BUSS(5)
+,,Principal infrastructure engineer,Working,Practitioner,Practitioner,Expert,Practitioner,Practitioner,Practitioner,Expert,Expert,Practitioner,Expert,Expert,,,,,"A principal infrastructure engineer is an accomplished technical leader. At this level, you:
+
+• will develop strategic and tactical engineering roadmaps for technologies and services in your area of responsibility, making sure that they are future-proofed and that the organisation derives maximum value from investment in technologies
+• may own the operational relationships with suppliers, making sure services and products are delivered and aligned to industry best practice and regulatory and contractual requirements
+• will work with technical architects to translate the architectural designs into operations and supports technical architects in operationalising the designs
+• will lead and direct infrastructure specialists teams in building, managing, supporting and maintaining solutions according to departmental policy - if taking a managerial path",,6,,AUTY(6),INFL(6),COMP(6),KNGE(6),BUSS(6)
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Network architect,,Governance and assurance,IT infrastructure (network architect),System integration (network architect),Systems design,Technical understanding (network architect),Troubleshooting and problem resolution,,,,,,,,,,,"A network architect is responsible for network designs and specifications, including cloud networks.",,,,,,,,
+,,Associate network architect,Awareness,Working,Awareness,Working,Awareness,Working,,,,,,,,,,,"Associate network architects work with network architects on designs and specifications, with guidance. In this role, you will:
+
+• be aware and knowledgeable of new technology solutions and produce network design policy
+• draft recommendations for network support - creating and maintaining network plans and planning infrastructure runs
+• make sure designs meet SLAs and develop an understanding of common tools
+• have an understanding of one or two of the following network technologies: LAN, WAN, wifi, data centre LAN, SD networks, telephony, mobile solutions infrastructure, unified comms, network management solutions, network specific security and remote access technologies and approaches
+• collaborate with engineers to make sure systems are practically designed",,3,,AUTY(3),INFL(3),COMP(3),KNGE(3),BUSS(3)
+,,Network architect,Practitioner,Practitioner,Practitioner,Practitioner,Practitioner,Practitioner,,,,,,,,,,,"Network architects have responsibility for network designs and specifications to support business strategies using common tools. At this level, you will:
+
+• research new technologies and solutions, and ensure appropriate levels of assurance
+• plan, direct and coordinate activities, engaging with other stakeholders to manage and implement a programme
+• agree service level agreements (SLAs) and engage with third-party vendors
+• have an understanding of most of the following network technologies: LAN, WAN, wifi, data-centre LAN, SD networks, telephony, mobile solutions infrastructure, unified comms, network management solutions, network-specific security and remote access technologies and approaches
+• coach and mentor associate network architects where appropriate
+• collaborate with engineers to make sure systems are practically designed",,4,,AUTY(4),INFL(4),COMP(4),KNGE(4),BUSS(4)
+,,Lead network architect,Expert,Expert,Practitioner,Expert,Expert,Practitioner,,,,,,,,,,,"A lead network architect is accountable for designs and networks representing their business area. At this level, you will:
+
+• be a point of escalation and actively input into governance forums that determine IT strategy
+• cascade messages, standards and best practice from other architecture teams and design authorities to the network architecture team
+• act as a subject matter expert for network architects and represent network architects internally and externally
+• have an understanding of all network technology including: LAN, WAN, Wi-Fi, data centre LAN, SD networks, telephony, mobile solutions infrastructure, unified comms, network management solutions, and network specific security and remote access technologies and approaches
+• champion new technologies and solutions
+• coach and mentor network architects and associate network architects.
+• be a strategic thinker who can communicate network concepts to technical and non-technical stakeholders",,5,,AUTY(5),INFL(5),COMP(5),KNGE(5),BUSS(5)
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Security architect,,Analysis,Communication skills (security architect),Design secure systems,Enabling and informing risk-based decisions,Research and innovation,Specific security technology and understanding,Understanding security implications of transformation,,,,,,,,,,A security architect designs and builds secure solutions.,,,,,,,,
+,,Security architect,Working,Practitioner,Working,Working,Working,Working,Working,,,,,,,,,,"A security architect creates and designs security for a system or service, maintains security documentation and develops architecture patterns and security approaches to new technologies. At this level, you will:
+
+• recommend security controls and identify solutions that support a business objective
+• provide specialist advice and recommend approaches across teams and various stakeholders
+• communicate widely with other stakeholders
+• advise on important security-related technologies and assess the risk associated with proposed changes
+• inspire and influence others to execute security principles
+• help review other people’s work",,4,,AUTY(4),INFL(4),COMP(4),KNGE(4),BUSS(4)
+,,Lead security architect,Practitioner,Practitioner,Practitioner,Practitioner,Practitioner,Expert,Practitioner,,,,,,,,,,"A lead security architect undertakes complex work of a high risk level, often working on several projects. In this role, you will:
+
+• interact with senior stakeholders across departments
+• each and influence a wide range of people across larger teams and communities
+• research and apply innovative security architecture solutions to new or existing problems and be able to justify and communicate design decisions
+• develop vision, principles and strategy for security architects for one project or technology
+• work out subtle security needs
+• understand the impact of decisions, balancing requirements and deciding between approaches
+• produce particular patterns and support quality assurance
+• be the point of escalation for architects in lower-grade roles
+• lead the technical design of systems and services",,5,,AUTY(5),INFL(5),COMP(5),KNGE(5),BUSS(5)
+,,Principal security architect,Expert,Expert,Expert,Expert,Expert,Practitioner,Expert,,,,,,,,,,"A principal security architect works on services of high complexity and risk, making decisions to enable the business to achieve its needs. At this level, you will:
+
+• work on projects with high strategic impact, setting a strategy that can be used in the long term and across the breadth of the organisation
+• communicate with a broad range of senior stakeholders and be responsible for defining the vision, principles and strategy for security architects
+• recommend security design across several projects or technologies, up to an organisational or inter-organisational level
+• have a deep and evolving level of technical expertise, so you can act as an exemplar
+• make and influence important business and architectural decisions
+• research, identify, validate and adopt new technologies and methodologies
+• be a recognised expert and demonstrate this expertise by solving unprecedented issues and problems
+• further the profession, demonstrating and sharing best practice within and outside the organisation",,6,,AUTY(6),INFL(6),COMP(6),KNGE(6),BUSS(6)
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Software developer,,Availability and capacity management,Development process optimisation,Information security,Modern standards approach,Programming and build (software engineering),Prototyping,Service support,Systems design,Systems integration,User focus,,,,,,,"A software developer designs, runs and improves software that meets user needs. In this role, you will:
+
+• be responsible for writing clean, secure code following a test-driven approach
+• create code that is open by default and easy for others to reuse",,,,,,,,
+,,Apprentice developer,Awareness,Awareness,Awareness,Working,Awareness,Awareness,Awareness,,,,,,,,,,"An apprentice developer attends certified training and develops skills on the job. In this role, you will:
+
+• spend a substantial portion of time shadowing others
+• work with other developers to write code and tests
+• build your own knowledge
+• follow a test-driven approach
+• write code that is automatically tested",,1,,AUTY(1),INFL(1),COMP(1),KNGE(1),BUSS(1)
+,,Junior developer,Awareness,Working,Working,Working,Working,Working,Awareness,Awareness,Awareness,,,,,,,,"A junior developer learns on the job by delivering software components. At this level, you will:
+
+• develop skills while working under supervision to deliver stories in a multidisciplinary team
+• understand and be proficient in different types of testing
+• be aware of but not responsible for security
+• coach and mentor more junior colleagues",,2,,AUTY(2),INFL(2),COMP(2),KNGE(2),BUSS(2)
+,,Developer,Working,Awareness,Practitioner,Practitioner,Practitioner,Practitioner,Working,Working,Working,Practitioner,,,,,,,"A developer delivers software components that form part of a product. In this role, you will:
+
+• develop software to meet user needs
+• follow best-practice guidelines and help to improve those guidelines
+• write clean, secure and well-tested code
+• coach and mentor more junior colleagues
+• operate the services they build and identify issues in production",,3,,AUTY(3),INFL(3),COMP(3),KNGE(3),BUSS(3)
+,,Senior developer,Working,Working,Practitioner,Practitioner,Practitioner,Practitioner,Practitioner,Practitioner,Practitioner,Practitioner,,,,,,,"A senior developer delivers and integrates software to form a complete service. At this level, you will:
+
+• plan and lead development on sets of related stories
+• have an understanding of the whole system and take responsibility for teaching this to others
+• work with other disciplines to understand what needs to be built
+• coach and mentor more junior colleagues
+• operate the production services you build
+• find ways to improve system robustness, resilience and stability
+
+There are 2 roles here: a technical role and a management role.",,4,,AUTY(4),INFL(4),COMP(4),KNGE(4),BUSS(4)
+,,Senior developer - management,Practitioner,Working,Practitioner,Practitioner,Practitioner,Practitioner,Practitioner,Practitioner,Practitioner,Practitioner,,,,,,,"A senior developer delivers and integrates software to form a complete service. At this level, you will:
+
+• plan and lead development on sets of related stories
+• have an understanding of the whole system and take responsibility for teaching this to others
+• work with other disciplines to understand what needs to be built
+• coach and mentor more junior colleagues
+• operate the production services you build
+• find ways to improve system robustness, resilience and stability
+
+There are 2 roles here: a technical role and a management role.",,4,,AUTY(4),INFL(4),COMP(4),KNGE(4),BUSS(4)
+,,Lead developer,Working,Working,Practitioner,Expert,Expert,Practitioner,Practitioner,Practitioner,Practitioner,Practitioner,,,,,,,"A lead developer leads development on one or a small number of related project teams. At this level, you will:
+
+• guide the ways in which the team works
+• e proficient in a wide range of technical systems
+• be involved in identifying appropriate technology and approaches, deciding when software should be written
+• contribute to the developer community
+• provide technical leadership, coach and mentor your team
+• promote knowledge sharing and adoption of good practice
+
+There are 2 roles here - a technical role and a management role.",,5,,AUTY(5),INFL(5),COMP(5),KNGE(5),BUSS(5)
+,,Lead developer - management,Practitioner,Practitioner,Practitioner,Expert,Practitioner,Practitioner,Practitioner,Practitioner,Practitioner,Practitioner,,,,,,,"A lead developer leads development on one or a small number of related project teams. At this level, you will:
+
+• guide the ways in which the team works
+• e proficient in a wide range of technical systems
+• be involved in identifying appropriate technology and approaches, deciding when software should be written
+• contribute to the developer community
+• provide technical leadership, coach and mentor your team
+• promote knowledge sharing and adoption of good practice
+
+There are 2 roles here - a technical role and a management role.",,5,,AUTY(5),INFL(5),COMP(5),KNGE(5),BUSS(5)
+,,Principal developer,Practitioner,Expert,Expert,Expert,Practitioner,Expert,Practitioner,Expert,Practitioner,Practitioner,,,,,,,"A principal developer leads and plans development across large or multiple teams. At this level, you will:
+
+• be an expert in many technical areas, or a specialist with very deep knowledge in a particular technical area
+• use this knowledge, and work with related disciplines, to keep multiple teams working effectively
+• develop capability by facilitating internal mobility, shape career paths and recruit talent, making sure they collaborate
+• identify, test and champion the adoption of emerging technologies
+
+There are 2 roles for principal developers: management roles and technical roles.",,6,,AUTY(6),INFL(6),COMP(6),KNGE(6),BUSS(6)
+,,Principal developer - management,Working,Practitioner,Expert,Expert,Expert,Expert,Practitioner,Expert,Practitioner,Practitioner,,,,,,,"A principal developer leads and plans development across large or multiple teams. At this level, you will:
+
+• be an expert in many technical areas, or a specialist with very deep knowledge in a particular technical area
+• use this knowledge, and work with related disciplines, to keep multiple teams working effectively
+• develop capability by facilitating internal mobility, shape career paths and recruit talent, making sure they collaborate
+• identify, test and champion the adoption of emerging technologies
+
+There are 2 roles for principal developers: management roles and technical roles.",,6,,AUTY(6),INFL(6),COMP(6),KNGE(6),BUSS(6)
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Specialist infrastructure engineer,,,,,,,,,,,,,,,,,,"The role fulfils a particular need where there is demand in an organisation. The individual job descriptions may be quite different depending on the demand in the organisation.
+
+Specialist roles include but are not limited to:
+
+• network engineer
+• cloud service specialist
+• data centre specialist
+• security infrastructure",,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Technical architect,,Bridging the gap between the technical and non-technical,Governance,Making and guiding decisions,Strategy,Turning business problems into technical design,Understanding the whole context,,,,,,,,,,,A technical architect provides technical leadership and architectural design.,,,,,,,,
+,,Associate technical architect,Working,Awareness,Awareness,Awareness,Working,Awareness,,,,,,,,,,,"An associate technical architect supports technical architects in putting forward designs as solutions to technology challenges, usually under supervision. At this level, you will work closely with developers when designing appropriate solutions and you must have an understanding of the overall strategy and how your work supports this.",,2,,AUTY(2),INFL(2),COMP(2),KNGE(2),BUSS(2)
+,,Technical architect,Working,Working,Working,Working,Working,Working,,,,,,,,,,,"A technical architect is responsible for the design and build of technical architecture. At this level, you will:
+
+• undertake structured analysis of technical issues, translating this analysis into technical designs that describe a solution
+• be consulted about design and provide design patterns
+• identify deeper issues that need fixing
+• look for opportunities to collaborate and reuse components, communicating with both technical and non-technical stakeholders",,3,,AUTY(3),INFL(3),COMP(3),KNGE(3),BUSS(3)
+,,Senior technical architect,Practitioner,Practitioner,Working,Working,Practitioner,Working,,,,,,,,,,,"A senior technical architect works on large or multiple pieces of work that are complex or risky. At this level, you will:
+
+• define strategy and be central to assuring services
+• regularly collaborate and find agreement with senior stakeholders, providing direction and challenge
+• be proactive in identifying problems and translating these into non-technical descriptions that can be widely understood
+• mentor and coach junior colleagues",,4,,AUTY(4),INFL(4),COMP(4),KNGE(4),BUSS(4)
+,,Lead technical architect,Expert,Practitioner,Practitioner,Practitioner,Expert,Practitioner,,,,,,,,,,,"A lead technical architect works with multiple projects or teams on problems that require broad architectural thinking. At this level, you will:
+
+• be responsible for leading the technical design of systems and services, and you will justify and communicate design decisions
+• assure other services and system quality, making sure the technical work fits into the broader strategy for government
+• explore the benefits of cross-government alignment
+• provide mentoring within teams and provide leadership to other architects.",,5,,AUTY(5),INFL(5),COMP(5),KNGE(5),BUSS(5)
+,,Principal technical architect,Expert,Expert,Expert,Expert,Expert,Expert,,,,,,,,,,,"A principal technical architect leads at the highest level and is responsible for making sure the strategy is agreed and followed. At this level, you will:
+
+• network and communicate with senior stakeholders across organisations and proactively seek out opportunities for digital transformation
+• support multiple teams, finding and using best practice and emerging technologies
+• inspire other architects and help them understand how to deliver the goals of the organisation
+• be responsible for governance, solving complex and high-risk issues or delivering architecture design",,6,,AUTY(6),INFL(6),COMP(6),KNGE(6),BUSS(6)
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Technical specialist architect,,,,,,,,,,,,,,,,,,Not Defrined,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+User-centred design,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Content designer,,Agile working,Prototyping,Stakeholder relationship management,Strategic thinking,User focus,User-centred content design,,,,,,,,,,,"A content designer works on the end-to-end journey of a service to help users complete their goal and government deliver a policy intent. In this role, your work may involve the creation of, or change to, a transaction, product or single piece of content that stretches across digital and offline channels. You will be expected to:
+
+• make sure appropriate content is shown to a user in the right place and in the best format
+• start from discovery and work closely with user researchers, service designers and interaction designers",,,,,,,,
+,,Associate content designer,Working,Awareness,Awareness,Awareness,Awareness,Awareness,,,,,,,,,,,"As a trainee in an entry-level position, working under supervision, you need aptitude, potential and an understanding of the role. You will perform basic standard checks and copy edits.",,1,,AUTY(1),INFL(1),COMP(1),KNGE(2),BUSS(2)
+,,Junior content designer,Working,Awareness,Awareness,Working,Awareness,Awareness,,,,,,,,,,,"A junior content designer is a graduate with a degree in a relevant subject or an individual with some relevant work experience, or both. At this level, you will be expected to:
+
+• explain content decisions
+• work collaboratively
+• work independently after being given direction by more senior content designers
+• independently identify user issues and needs
+• support administration, gatekeeping and publishing",,2,,AUTY(2),INFL(2),COMP(2),KNGE(2),BUSS(2)
+,,Content designer,Practitioner,Working,Working,Practitioner,Working,Working,,,,,,,,,,,"Content designers are responsible for creating, updating and reviewing content around the end-to-end user journey. At this level, you will:
+
+• be comfortable using evidence, data and research
+• build relationships across government to focus on the needs of the user and to influence stakeholders
+• contribute to and use the style guides and design patterns",,3,,AUTY(3),INFL(3),COMP(3),KNGE(3),BUSS(3)
+,,Senior content designer,Practitioner,Practitioner,Practitioner,Expert,Practitioner,Practitioner,,,,,,,,,,,"A senior content designer is an expert practitioner who develops content strategy and solutions for large-scale problems and high-profile events. At this level, you will:
+
+• take responsibility for content quality, managing small teams and mentoring content designers
+• write and map user stories, assure quality and review the work of others
+• lead on cross-government content projects
+• engage with and contribute to the cross-government content community",,4,,AUTY(4),INFL(4),COMP(4),KNGE(4),BUSS(4)
+,,Lead content designer,Expert,Working,Expert,Expert,Expert,Expert,,,,,,,,,,,"A lead content designer is an expert practitioner who directs a team of content designers and assures the quality of content design across teams and the alignment to strategy. At this level, you will:
+
+• work closely with service managers, programme directors and senior stakeholders to resource teams, resolve problems and develop future projects
+• promote the content design discipline, engage with the cross-government community and keep up to date with industry changes",,5,,AUTY(5),INFL(5),COMP(5),KNGE(5),BUSS(5)
+,,Head of content design,Expert,Awareness,Expert,Expert,Expert,Expert,,,,,,,,,,,"A head of content design is an expert practitioner with broad industry experience who can define and assure best practice while influencing, leading and mentoring others. At this level, you will be expected to:
+
+• develop a strategy for content that meets the organisation’s objectives
+• lead a team capable of executing that strategy
+• work with senior stakeholders to influence organisational strategy
+• prioritise and collaborate with counterpart colleagues across government
+• champion good content design practice within government and industry",,6,,AUTY(6),INFL(6),COMP(6),KNGE(6),BUSS(6)
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Content strategist,,Agile working,Prototyping,Stakeholder relationship management,Strategic thinking,User focus,User-centred content design,,,,,,,,,,,"A content strategist takes an overview of content and how it is produced. In this role, you:
+
+• design governance, workflows, and taxonomies in a user-centred context
+• work with senior stakeholders, user researchers and content, service and interaction designers",,,,,,,,
+,,Content strategist,Practitioner,Working,Expert,Expert,Expert,Practitioner,,,,,,,,,,,"A content strategist is an expert practitioner in content strategy and taxonomy design. In this role, you:
+
+• develop governance, processes and workflows based on delivering strategy and policy intent
+• manage relationships and interdependencies with other content roles
+• shape and structure the architecture of content based on user-centred design principles
+• work with lead content designers to organise and manage teams to deliver outcomes",,5,,AUTY(5),INFL(5),COMP(5),KNGE(5),BUSS(5)
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Graphic designer,,Agile working,Communication skills,Community collaboration,Digital perspective,Evidence- and context-based design,Experience of using tools and software,Experience of working within constraints,Leadership and guidance,Prototyping in code,Prototyping,Strategic thinking,User focus,,,,,"A graphic designer creates graphic elements that underpin interaction and service design. You will use layout, spacing, colour, type and iconography to ensure that content is legible and readable and that users see and understand interactions.",,,,,,,,
+,,Associate graphic designer,Awareness,Awareness,Awareness,Awareness,Awareness,Working,Awareness,Awareness,Awareness,Awareness,Working,,,,,,"As a trainee in an entry-level position, who will work under supervision, you will need aptitude, potential and an understanding of the role.",,1,,AUTY(1),INFL(1),COMP(1),KNGE(1),BUSS(1)
+,,Junior graphic designer,Awareness,Working,Working,Working,Working,Practitioner,Awareness,Awareness,Working,Working,Working,Working,,,,,"A junior graphic designer is a graduate with a degree in a relevant subject or an individual with some relevant work experience, or both. At this level, you can:
+
+• explain design decisions
+• work collaboratively
+• take responsibility as part of a service
+• work independently after being given direction by more senior designers
+• identify user issues and important needs",,2,,AUTY(2),INFL(2),COMP(2),KNGE(2),BUSS(2)
+,,Graphic designer,Working,Practitioner,Practitioner,Working,Practitioner,Practitioner,Working,Working,Practitioner,Practitioner,Practitioner,Practitioner,,,,,"A graphic designer is a confident and competent designer who is able to develop designs based on evidence of user needs and organisational outcomes.
+
+At this level, you:
+
+• can be trusted to make good decisions
+• can recognise when to ask for further guidance and support
+• will contribute to the development of design concepts
+• should be able to interpret evidence-based research and incorporate this into your work
+• will support the quality of design delivery across teams
+• can lead multiple or highly complex services",,3,,AUTY(3),INFL(3),COMP(3),KNGE(3),BUSS(3)
+,,Senior graphic designer,Practitioner,Practitioner,Practitioner,Practitioner,Expert,Expert,Working,Practitioner,Practitioner,Expert,Expert,Expert,,,,,"A senior graphic designer is a designer who works with minimal support and can influence and mentor others. At this level, you:
+
+• work with service managers and programme directors to develop design concepts
+• may have responsibility across complex services
+• help set direction and embed good practice within teams
+• make important decisions based on research and understand how this research impacts others",,4,,AUTY(4),INFL(4),COMP(4),KNGE(4),BUSS(4)
+,,Lead graphic designer,Expert,Expert,Practitioner,Practitioner,Expert,Practitioner,Practitioner,Expert,Practitioner,Expert,Expert,Expert,,,,,"A lead graphic designer is an expert practitioner who influences and mentors others. At this level, you will:
+
+• work with service managers and programme directors to develop design concepts
+• set direction and assure the quality of design delivery across teams
+• lead multiple or highly complex services",,5,,AUTY(5),INFL(5),COMP(5),KNGE(5),BUSS(5)
+,,Head of graphic design,Expert,Expert,Expert,Expert,Expert,Practitioner,Expert,Expert,Practitioner,Expert,Expert,Expert,,,,,"A head of graphic design is an expert practitioner with broad industry experience, who can define and assure best practice while influencing, leading and mentoring others. At this level, you will:
+
+• influence both design and organisational strategy and priorities
+• collaborate with counterpart colleagues across government
+• focus on ensuring the right conditions and environment for designers to work effectively",,6,,AUTY(6),INFL(6),COMP(6),KNGE(6),BUSS(6)
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Interaction designer,,Agile working,Communication skills,Community collaboration,Digital perspective,Evidence- and context-based design,Experience of working within constraints,Leadership and guidance,Prototyping in code,Prototyping,Strategic thinking,User focus,,,,,,"You will need the following skills for this role, although the level of expertise for each will vary, depending on the role level.",,,,,,,,
+,,Associate interaction designer,Awareness,Awareness,Awareness,Awareness,Awareness,Awareness,Awareness,Awareness,Working,,,,,,,,"As a trainee in an entry-level position, who will work under supervision, you need aptitude, potential and an understanding of the role.",,1,,AUTY(1),INFL(1),COMP(1),KNGE(1),BUSS(1)
+,,Junior interaction designer,Awareness,Working,Working,Working,Working,Awareness,Awareness,Working,Working,Awareness,Working,,,,,,"A junior interaction designer is a graduate with a degree in a relevant subject or an individual with some relevant work experience, or both. At this level, you:
+
+• can explain design decisions
+• work collaboratively
+• have a responsibility as part of a service
+• can work independently after being given direction by more senior designers
+• should be able to independently identify user issues and important needs",,2,,AUTY(2),INFL(2),COMP(2),KNGE(2),BUSS(2)
+,,Interaction designer,Working,Practitioner,Practitioner,Working,Practitioner,Working,Working,Practitioner,Practitioner,Working,Practitioner,,,,,,"An interaction designer is a confident and competent designer who is able to develop designs based on evidence of user needs and organisational outcomes. At this level, you:
+
+• can be trusted to make good decisions
+• can recognise when to ask for further guidance and support
+• contribute to the development of design concepts
+• should be able to interpret evidence-based research and incorporate this into your work",,3,,AUTY(3),INFL(3),COMP(3),KNGE(3),BUSS(3)
+,,Senior interaction designer,Practitioner,Practitioner,Practitioner,Practitioner,Expert,Working,Practitioner,Expert,Expert,Practitioner,Expert,,,,,,"A senior interaction designer is an experienced designer who works with minimal support and can influence and mentor others.
+
+At this level, you:
+
+• will work with service managers and programme directors to develop design concepts
+• may have responsibility across complex services
+• will help set direction and embed good practice within teams
+• will make important decisions based on research and understand how this research impacts others",,4,,AUTY(4),INFL(4),COMP(4),KNGE(4),BUSS(4)
+,,Lead interaction designer,Expert,Expert,Practitioner,Practitioner,Expert,Practitioner,Expert,Expert,Expert,Expert,Expert,,,,,,"A lead interaction designer is an expert practitioner who influences and mentors others. At this level, you:
+
+• will work with service managers and programme directors to develop design concepts
+• will set direction and assure the quality of design delivery across teams
+• an lead multiple or highly complex services",,5,,AUTY(5),INFL(5),COMP(5),KNGE(5),BUSS(5)
+,,Head of interaction design,Expert,Expert,Expert,Expert,Expert,Expert,Expert,Practitioner,Expert,Expert,Expert,,,,,,"A head of interaction design is an expert practitioner with broad industry experience, who can define and assure best practice while influencing, leading and mentoring others. At this level, you will:
+
+• influence both design and organisational strategy and priorities
+• collaborate with counterpart colleagues across government
+• focus on ensuring the right conditions and environment for designers to work effectively",,6,,AUTY(6),INFL(6),COMP(6),KNGE(6),BUSS(6)
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Service designer,,Agile working,Communication skills,Community collaboration,Digital perspective,Evidence- and context-based design,Experience of working within constraints,Facilitating decisions and risks,Leadership and guidance,Prototyping in code,Prototyping,Strategic thinking,User focus,,,,,"Service designers design the end-to-end journey of a service. This helps a user complete their goal and government deliver a policy intent. In this role, your work may involve the creation of, or change to, transactions, products and content across both digital and offline channels provided by different parts of government.",,,,,,,,
+,,Associate service designer,Awareness,Awareness,Awareness,Awareness,Awareness,Awareness,Awareness,Awareness,Awareness,Awareness,Working,,,,,,"As a trainee in an entry-level position, working under supervision, you will need design aptitude, potential and an understanding of the role.",,1,,AUTY(1),INFL(1),COMP(1),KNGE(1),BUSS(1)
+,,Junior service designer,Awareness,Working,Working,Working,Working,Awareness,Awareness,Awareness,Awareness,Working,Working,Working,,,,,"Junior designers are graduates with a degree in a relevant subject or relevant work experience. At this level, you will be expected to:
+
+• explain design decisions, work collaboratively and have responsibility for a service
+• work independently after being given direction by more senior designers
+• ndependently identify user issues and important needs",,2,,AUTY(2),INFL(2),COMP(2),KNGE(2),BUSS(2)
+,,Service designer,Working,Practitioner,Practitioner,Working,Practitioner,Working,Working,Working,Practitioner,Working,Practitioner,Practitioner,,,,,"A service designer is a confident and competent designer who is able to develop designs based on evidence of user needs and organisational outcomes. At this level, you:
+
+• can be trusted to make good decisions
+• can recognise when to ask for further guidance and support
+• will contribute to the development of design concepts
+• should be able to interpret evidence-based research and incorporate this into your work",,3,,AUTY(3),INFL(3),COMP(3),KNGE(3),BUSS(3)
+,,Senior service designer,Practitioner,Practitioner,Practitioner,Practitioner,Expert,Working,Practitioner,Practitioner,Practitioner,Expert,Expert,Expert,,,,,"A senior service designer is an experienced designer who works with minimal support and can influence and mentor others. At this level, you:
+
+• will work with service managers and programme directors to develop design concepts
+• may have responsibility across complex services
+• will help set direction and embed good practice within teams
+• will make important decisions based on research and understand how this research impacts others",,4,,AUTY(4),INFL(4),COMP(4),KNGE(4),BUSS(4)
+,,Lead service design,Expert,Expert,Practitioner,Practitioner,Expert,Practitioner,Expert,Expert,Working,Expert,Expert,Expert,,,,,"A lead service designer is an expert practitioner who influences and mentors others. At this level, you will be expected to:
+
+• work with service managers and programme directors to develop design concepts
+• set direction, assure the quality of design delivery across teams and lead multiple or highly complex services",,5,,AUTY(5),INFL(5),COMP(5),KNGE(5),BUSS(5)
+,,Head of service design,Expert,Expert,Expert,Expert,Expert,Expert,Expert,Expert,Working,Expert,Expert,Expert,,,,,"A head of service design is an expert practitioner with broad industry experience, who can define and assure best practice while influencing, leading and mentoring others. At this level, you will be expected to:
+
+• influence both design and organisational strategy and priorities
+• collaborate with counterpart colleagues across government
+• focus on ensuring the right conditions and environment for designers to work effectively",,6,,AUTY(6),INFL(6),COMP(6),KNGE(6),BUSS(6)
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Technical writer,,Agile working,Prototyping,Stakeholder relationship management,Strategic thinking,Technical understanding,User focus,User-centred content design,,,,,,,,,,"A technical writer takes a user-centred approach to making complicated technical concepts easier to understand for a specialist audience. In this role, you will focus on specialist content and software documentation, and write for technologists such as developers, technical architects, and technology leaders.",,,,,,,,
+,,Technical writer,Practitioner,Working,Practitioner,Expert,Practitioner,Expert,Practitioner,,,,,,,,,,"A technical writer is an expert practitioner who has a deep understanding of technology and the needs of technologists. At this level, you are expected to:
+
+• take a user-centred approach to explaining how to use government products and services to a technical audience, focusing on specialist content and software documentation
+• write blog posts for or on behalf of the technical community
+• engage with and contribute to the cross-government technical writing and content design communities",,4,,AUTY(4),INFL(4),COMP(5),KNGE(5),BUSS(4)
+,,Lead technical writer,Practitioner,Working,Expert,Expert,Practitioner,Expert,Expert,,,,,,,,,,"A lead technical writer is an expert practitioner who directs a team of technical writers, and assures the quality of technical writing across teams and the alignment to strategy. At this level, you will be expected to:
+
+• standardise tools and ways of communicating along with processes
+• work closely with service managers, technology leaders and senior stakeholders to resource teams and resolve problems
+• promote the discipline of technical writing, engage with the cross-government community and keep up to date with industry changes",,5,,AUTY(5),INFL(5),COMP(6),KNGE(6),BUSS(5)
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,User researcher,,Analysis and synthesis,Inclusive research,Research skills,Society and technology,Strategic insight,Technical understanding,User-centred and agile practices,,,,,,,,,,"User researchers plan, design and carry out research activities with users that help teams get a deep understanding of the people that use government services. This research informs policy, proposition, service, content and interaction design so that services work well for users and achieves policy intent.",,,,,,,,
+,,Associate user researcher,Awareness,Awareness,Awareness,Awareness,Awareness,Awareness,Awareness,,,,,,,,,,"As a trainee in an entry-level role, working with more experienced user researchers, you will need to have an understanding of the role and show potential, although you will need guidance and training to produce good work and develop your skills.",,1,,AUTY(1),INFL(1),COMP(1),KNGE(1),BUSS(1)
+,,Junior user researcher,Working,Awareness,Working,Awareness,Awareness,Awareness,Awareness,,,,,,,,,,"A junior user researcher is embedded in a multidisciplinary team to carry out user research activities. At this level, you will be expected to:
+
+• have some practical experience but need regular guidance and training to produce your best work and develop your skills
+• work in combination with a more senior user researcher",,2,,AUTY(2),INFL(2),COMP(2),KNGE(2),BUSS(2)
+,,User researcher,Working,Working,Working,Working,Working,Working,Working,,,,,,,,,,"A user researcher is usually embedded in a multidisciplinary team and responsible for planning and carrying out user research activities. At this level, you will be expected to work independently on a team.",,3,,AUTY(3),INFL(3),COMP(3),KNGE(3),BUSS(3)
+,,Senior user researcher,Practitioner,Practitioner,Practitioner,Working,Working,Practitioner,Practitioner,,,,,,,,,,"A senior user researcher is an experienced practitioner who is able to plan and lead user research activities in larger teams and on more complex services. At this level, you will be expected to:
+
+• build user-centred practices in new teams
+• align user research activities with wider plans to inform a service proposition
+• supervise and develop other user researchers to assure and improve research practice",,4,,AUTY(4),INFL(4),COMP(4),KNGE(4),BUSS(4)
+,,Lead user researcher,Expert,Practitioner,Expert,Practitioner,Practitioner,Practitioner,Practitioner,,,,,,,,,,"A lead user researcher is an expert practitioner, leading and aligning user research activities across several teams. At this level, you will be expected to:
+
+• ensure that teams take a user-centred, evidence-based approach to service design and delivery
+• develop and assure good user research practice",,5,,AUTY(5),INFL(5),COMP(5),KNGE(5),BUSS(5)
+,,Head of user research,Expert,Expert,Expert,Expert,Expert,Practitioner,Expert,,,,,,,,,,"A head of user research leads user researchers in an organisation and attracts and builds talent. At this level, you will be expected to be an expert practitioner who can define and assure best practice, influence organisational strategy and priorities, and collaborate with colleagues across government.",,6,,AUTY(6),INFL(6),COMP(6),KNGE(6),BUSS(6)
