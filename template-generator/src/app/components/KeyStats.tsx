@@ -14,8 +14,8 @@ export const KeyStats = ({
   dateRef,
 }: KeyStatsProps) => {
   return (
-    <div className="mt-16">
-      <div className="flex w-full mb-6 gap-6">
+    <div className="mt-6 md:mt-16">
+      <div className="flex flex-col md:flex-row w-full mb-6 gap-6">
         <div className="rounded-lg bg-white shadow p-4 py-6 flex flex-col flex-grow">
           <div className="text-sm font-medium text-gray-500">
             Role Title (Editable)

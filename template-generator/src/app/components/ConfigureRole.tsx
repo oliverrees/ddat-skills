@@ -46,7 +46,7 @@ export const ConfigureRole = ({ data }: ConfigureRoleProps) => {
           SFIA skills and competency framework
         </Link>
       </p>
-      <div className="flex gap-4 mt-6 w-full border-t pt-6">
+      <div className="flex flex-col md:flex-row gap-4 mt-6 w-full border-t pt-6">
         <RoleSelector
           roles={data}
           selectedRole={selectedRole}
