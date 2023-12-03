@@ -11,6 +11,7 @@ import "./SortableItem.css";
 
 interface Props {
   id: UniqueIdentifier;
+  index: number
 }
 
 interface Context {
@@ -25,7 +26,7 @@ const SortableItemContext = createContext<Context>({
   ref() {},
 });
 
-export function SortableItem({ children, id }: PropsWithChildren<Props>) {
+export function SortableItem({ children, id, index }: PropsWithChildren<Props>) {
   const {
     attributes,
     isDragging,
@@ -47,6 +48,7 @@ export function SortableItem({ children, id }: PropsWithChildren<Props>) {
     opacity: isDragging ? 0.4 : undefined,
     transform: CSS.Translate.toString(transform),
     transition,
+    background: index > 3 ? "rgba(100,100,100,0.05)" : "white",
   };
 
   return (

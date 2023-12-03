@@ -163,7 +163,13 @@ export const ExportButtons = ({
     sheet.mergeCells("H35:K35");
     cellH35.value = "Level";
 
-    ddatSkills.forEach((skill: Skill, index: number) => {
+    // Only take first 3 skills 
+    const ddatSliced = ddatSkills.slice(0, 4)
+    const sfiaSliced = sfiaSkills.slice(0, 4)
+
+
+    ddatSliced.forEach((skill: Skill, index: number) => {
+
       const cell = sheet.getCell(`C${index + 36}`);
       cell.value = skill.skill;
       cell.style = { ...inputStyle };
@@ -184,34 +190,35 @@ export const ExportButtons = ({
       sheet.mergeCells(`H${index + 36}:K${index + 36}`);
     });
 
-    const cellSfia = sheet.getCell(`C${ddatSkills.length + 38}`);
+    const cellSfia = sheet.getCell(`C${ddatSliced.length + 38}`);
     cellSfia.value = "Essential SFIA skills needed";
     cellSfia.style = { ...titleStyle };
 
-    const cellSfiaTitle = sheet.getCell(`C${ddatSkills.length + 40}`);
+    const cellSfiaTitle = sheet.getCell(`C${ddatSliced.length + 40}`);
     cellSfiaTitle.style = { ...inputStyle, ...boldStyle };
-    sheet.mergeCells(`C${ddatSkills.length + 40}:G${ddatSkills.length + 40}`);
+    sheet.mergeCells(`C${ddatSliced.length + 40}:G${ddatSliced.length + 40}`);
     cellSfiaTitle.value = "Skill";
 
-    const cellSfiaSubTitle = sheet.getCell(`H${ddatSkills.length + 40}`);
+    const cellSfiaSubTitle = sheet.getCell(`H${ddatSliced.length + 40}`);
     cellSfiaSubTitle.style = { ...inputStyle, ...boldStyle };
-    sheet.mergeCells(`H${ddatSkills.length + 40}:K${ddatSkills.length + 40}`);
+    sheet.mergeCells(`H${ddatSliced.length + 40}:K${ddatSliced.length + 40}`);
     cellSfiaSubTitle.value = "Level";
 
-    sfiaSkills.forEach((skill: Skill, index: number) => {
-      const cell = sheet.getCell(`C${index + 41 + ddatSkills.length}`);
+    sfiaSliced.forEach((skill: Skill, index: number) => {
+
+      const cell = sheet.getCell(`C${index + 41 + ddatSliced.length}`);
       cell.value = skill.skill;
       cell.style = { ...inputStyle };
       sheet.mergeCells(
-        `C${index + 41 + ddatSkills.length}:G${index + 41 + ddatSkills.length}`
+        `C${index + 41 + ddatSliced.length}:G${index + 41 + ddatSliced.length}`
       );
 
-      const cell2 = sheet.getCell(`H${index + 41 + ddatSkills.length}`);
+      const cell2 = sheet.getCell(`H${index + 41 + ddatSliced.length}`);
       cell2.value = skill.level;
       cell2.style = { ...inputStyle };
 
       sheet.mergeCells(
-        `H${index + 41 + ddatSkills.length}:K${index + 41 + ddatSkills.length}`
+        `H${index + 41 + ddatSliced.length}:K${index + 41 + ddatSliced.length}`
       );
     });
 
@@ -229,7 +236,7 @@ export const ExportButtons = ({
     titleCell2.style = { ...gridTitleStyle };
     titleCell2.value = "DDaT Skills";
     titleCell2.alignment = { horizontal: "center" };
-    const numberOfDdatSkills = ddatSkills.length;
+    const numberOfDdatSkills = ddatSliced.length;
     sheet2.mergeCells(`C1:${String.fromCharCode(66 + numberOfDdatSkills)}1`);
 
     const titleCell3 = sheet2.getCell(
@@ -239,7 +246,7 @@ export const ExportButtons = ({
     titleCell3.style = { ...gridTitleStyle };
     titleCell3.value = "SFIA Skills";
     titleCell3.alignment = { horizontal: "center" };
-    const numberOfSfiaSkills = sfiaSkills.length;
+    const numberOfSfiaSkills = sfiaSliced.length;
 
     sheet2.mergeCells(
       `${String.fromCharCode(67 + numberOfDdatSkills)}1:${String.fromCharCode(
@@ -247,7 +254,7 @@ export const ExportButtons = ({
       )}1`
     );
 
-    ddatSkills.forEach((skill: Skill, index: number) => {
+    ddatSliced.forEach((skill: Skill, index: number) => {
       const cell = sheet2.getCell(`${String.fromCharCode(67 + index)}2`);
       cell.value = skill.skill;
       cell.style = { ...gridTitleStyleNoBold };
@@ -259,7 +266,7 @@ export const ExportButtons = ({
       };
     });
 
-    sfiaSkills.forEach((skill: Skill, index: number) => {
+    sfiaSliced.forEach((skill: Skill, index: number) => {
       const cell = sheet2.getCell(
         `${String.fromCharCode(67 + numberOfDdatSkills + index)}2`
       );
@@ -282,7 +289,7 @@ export const ExportButtons = ({
       cell.style = { ...inputStyle };
       sheet2.mergeCells(`A${index + 3}:B${index + 3}`);
 
-      ddatSkills.forEach((skill: Skill, index: number) => {
+      ddatSliced.forEach((skill: Skill, index: number) => {
         const cell = row.getCell(`${String.fromCharCode(67 + index)}`);
         cell.value = "";
         cell.style = { ...inputStyle };
@@ -297,7 +304,7 @@ export const ExportButtons = ({
         };
       });
 
-      sfiaSkills.forEach((skill: Skill, index: number) => {
+      sfiaSliced.forEach((skill: Skill, index: number) => {
         const cell = row.getCell(
           `${String.fromCharCode(67 + numberOfDdatSkills + index)}`
         );
