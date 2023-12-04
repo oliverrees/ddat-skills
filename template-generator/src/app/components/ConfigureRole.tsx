@@ -79,6 +79,7 @@ export const ConfigureRole = ({ data }: ConfigureRoleProps) => {
               setRoleDetail(roleDetail);
               if (roleDetail) {
                 setDdatSkills(roleDetail.ddatSkills);
+                setSfiaSkills(roleDetail.sfiaSkills);
               }
             }}
           />
