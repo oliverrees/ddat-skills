@@ -27,7 +27,7 @@ export const ConfigureRole = ({ data }: ConfigureRoleProps) => {
 
   return (
     <>
-      <div className="text-2xl font-bold">DDaT/SFIA Template Generator</div>
+      <div className="text-2xl font-bold">Job Description Generator</div>
       <p className="mt-2">
         Generate job descriptions based on the{" "}
         <Link
@@ -46,7 +46,7 @@ export const ConfigureRole = ({ data }: ConfigureRoleProps) => {
           SFIA skills and competency framework
         </Link>
       </p>
-      <div className="flex flex-col md:flex-row gap-4 mt-6 w-full border-t pt-6">
+      <div className="flex flex-col md:flex-row gap-4 mt-6 w-full border-t border-b pb-8 pt-6">
         <RoleSelector
           roles={data}
           selectedRole={selectedRole}
