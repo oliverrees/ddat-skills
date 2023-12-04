@@ -1,3 +1,4 @@
+import Link from "next/link";
 import { Skill } from "../types/sfia";
 import { SortableList } from "./SortableList";
 
@@ -23,15 +24,20 @@ export const KeySkills = ({
         <SortableList
           items={ddatskills}
           onChange={setddatSkills}
-          renderItem={(skill: Skill, index: number) => (
-            <SortableList.Item id={skill.id} index={index}>
-              <div className="flex justify-between w-full mr-8 flex-col md:flex-row">
-                <div>{skill.skill}</div>
+          renderItem={(skill: Skill, index: number) => {
+            const skillLink = `https://ddat-capability-framework.service.gov.uk/skills.html#${skill.id}`;
+            return (
+              <SortableList.Item id={skill.id} index={index}>
+                <div className="flex justify-between w-full mr-8 underline">
+                  <Link href={skillLink} target="new">
+                    {skill.skill}
+                  </Link>
+                </div>
                 <div className="text-gray-400">{skill.level}</div>
-              </div>
-              <SortableList.DragHandle />
-            </SortableList.Item>
-          )}
+                <SortableList.DragHandle />
+              </SortableList.Item>
+            );
+          }}
         />
       </div>
       <div className="rounded-lg bg-white shadow p-4 py-6 flex flex-col flex-grow-0 mt-6">
@@ -41,15 +47,22 @@ export const KeySkills = ({
         <SortableList
           items={sfiaSkills}
           onChange={setSfiaSkills}
-          renderItem={(skill: Skill, index: number) => (
-            <SortableList.Item id={skill.id} index={index}>
-              <div className="flex justify-between w-full mr-8">
-                <div>{skill.skill}</div>
-                <div className="text-gray-400">{skill.level}</div>
-              </div>
-              <SortableList.DragHandle />
-            </SortableList.Item>
-          )}
+          renderItem={(skill: Skill, index: number) => {
+            const skillLink = `https://www.sfia-online.org/en/sfia-8/responsibilities/${skill.skill
+              .toLowerCase()
+              .replace(" ", "-")}`;
+            return (
+              <SortableList.Item id={skill.id} index={index}>
+                <div className="flex justify-between w-full mr-8 underline">
+                  <Link href={skillLink} target="new">
+                    {skill.skill}
+                  </Link>
+                </div>
+                <div className="text-gray-400">Level&nbsp;{skill.level}</div>
+                <SortableList.DragHandle />
+              </SortableList.Item>
+            );
+          }}
         />
       </div>
     </div>
