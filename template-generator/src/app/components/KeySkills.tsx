@@ -19,7 +19,7 @@ export const KeySkills = ({
     <div className="grid grid-cols-1 md:grid-cols-2 gap-4 mt-6 w-full items-start">
       <div className="rounded-lg bg-white shadow p-4 py-6 flex flex-col flex-grow mt-6">
         <div className="text-sm font-medium text-gray-500 mb-4">
-          DDaT Role Skills (Pick top 4)
+          DDaT Role Skills (Prioritise top 4)
         </div>
         <SortableList
           items={ddatskills}
@@ -42,7 +42,7 @@ export const KeySkills = ({
       </div>
       <div className="rounded-lg bg-white shadow p-4 py-6 flex flex-col flex-grow-0 mt-6">
         <div className="text-sm font-medium text-gray-500 mb-4">
-          SFIA Skills (Pick top 4)
+          SFIA Skills (Prioritise top 4)
         </div>
         <SortableList
           items={sfiaSkills}
