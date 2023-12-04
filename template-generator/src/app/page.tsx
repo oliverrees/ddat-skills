@@ -1,15 +1,11 @@
 import { FaGithub } from "react-icons/fa";
 import { ConfigureRole } from "./components/ConfigureRole";
 import { Container } from "./components/Container";
-import { processData } from "./lib/processData";
 import Link from "next/link";
 import SFIA_DDAT from "../data/sfia-ddat.json";
 
-
-
 export default async function Home() {
   const data = SFIA_DDAT;
-  
 
   return (
     <Container>
