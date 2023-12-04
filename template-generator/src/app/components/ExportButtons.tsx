@@ -163,13 +163,11 @@ export const ExportButtons = ({
     sheet.mergeCells("H35:K35");
     cellH35.value = "Level";
 
-    // Only take first 3 skills 
-    const ddatSliced = ddatSkills.slice(0, 4)
-    const sfiaSliced = sfiaSkills.slice(0, 4)
-
+    // Only take first 3 skills
+    const ddatSliced = ddatSkills.slice(0, 4);
+    const sfiaSliced = sfiaSkills.slice(0, 4);
 
     ddatSliced.forEach((skill: Skill, index: number) => {
-
       const cell = sheet.getCell(`C${index + 36}`);
       cell.value = skill.skill;
       cell.style = { ...inputStyle };
@@ -205,7 +203,6 @@ export const ExportButtons = ({
     cellSfiaSubTitle.value = "Level";
 
     sfiaSliced.forEach((skill: Skill, index: number) => {
-
       const cell = sheet.getCell(`C${index + 41 + ddatSliced.length}`);
       cell.value = skill.skill;
       cell.style = { ...inputStyle };

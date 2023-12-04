@@ -67,18 +67,17 @@ export function SortableList<T extends BaseItem>({
       <SortableContext items={items}>
         <ul className="SortableList" role="application">
           {items.map((item, index) => {
-
             return (
-              <>
-              {index === 4 && <div className="h-1 bg-gray-400 w-full my-3 rounded-full">
-              
-            </div>}
-            <React.Fragment key={item.id}>{renderItem(item, index)}</React.Fragment>
-            </>
+              <div key={item.id}>
+                {index === 4 && (
+                  <div className="h-1 bg-gray-400 w-full my-3 rounded-full"></div>
+                )}
+                <React.Fragment key={item.id}>
+                  {renderItem(item, index)}
+                </React.Fragment>
+              </div>
             );
-          }
-
-          )}
+          })}
         </ul>
       </SortableContext>
       <SortableOverlay>

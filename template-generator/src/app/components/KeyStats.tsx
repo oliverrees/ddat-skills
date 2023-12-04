@@ -2,16 +2,22 @@ import { Role } from "../types/sfia";
 
 interface KeyStatsProps {
   roleDetail: Role;
-  titleRef: React.RefObject<HTMLDivElement>;
-  descriptionRef: React.RefObject<HTMLDivElement>;
-  dateRef: React.RefObject<HTMLInputElement>;
+  onTitleChange: (title: string) => void;
+  onDescriptionChange: (description: string) => void;
+  onStartDateChange: (startDate: string) => void;
+  title: string;
+  description: string;
+  startDate: string;
 }
 
 export const KeyStats = ({
   roleDetail,
-  titleRef,
-  descriptionRef,
-  dateRef,
+  onTitleChange,
+  onDescriptionChange,
+  onStartDateChange,
+  title,
+  description,
+  startDate,
 }: KeyStatsProps) => {
   return (
     <div className="mt-6 md:mt-6">
@@ -23,9 +29,10 @@ export const KeyStats = ({
           <h3
             className="text-2xl font-semibold leading-6 text-gray-900 mt-4 outline-transparent"
             contentEditable
-            ref={titleRef}
+            suppressContentEditableWarning
+            onBlur={(e) => onTitleChange(e.target.textContent || "")}
           >
-            {roleDetail.title}
+            {title}
           </h3>
         </div>
         <div className="rounded-lg bg-white shadow p-4 py-6 flex flex-col">
@@ -33,7 +40,12 @@ export const KeyStats = ({
             Ideal Start Date
           </div>
           <div className="text-2xl font-semibold leading-6 text-gray-900 mt-4 outline-transparent">
-            <input type="date" ref={dateRef} className="border-0 p-0" />
+            <input
+              type="date"
+              value={startDate}
+              onChange={(e) => onStartDateChange(e.target.value)}
+              className="border-0 p-0"
+            />
           </div>
         </div>
         <div className="rounded-lg bg-white shadow p-4 py-6 flex flex-col">
@@ -52,12 +64,10 @@ export const KeyStats = ({
         <div
           className="mt-4 text-base text-gray-900 whitespace-pre-line outline-transparent"
           contentEditable
-          ref={descriptionRef}
+          suppressContentEditableWarning
+          onBlur={(e) => onDescriptionChange(e.target.textContent || "")}
         >
-          {roleDetail.ddatDescription !=
-          "No separate description for this level"
-            ? roleDetail.ddatDescription
-            : roleDetail.ddatParentDescription}
+          {description}
         </div>
       </div>
     </div>

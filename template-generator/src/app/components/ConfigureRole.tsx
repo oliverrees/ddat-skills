@@ -21,9 +21,9 @@ export const ConfigureRole = ({ data }: ConfigureRoleProps) => {
   const [ddatSkills, setDdatSkills] = useState<Skill[]>([]);
   const [sfiaSkills, setSfiaSkills] = useState<Skill[]>([]);
 
-  const titleRef = useRef<HTMLDivElement>(null);
-  const descriptionRef = useRef<HTMLDivElement>(null);
-  const dateRef = useRef<HTMLInputElement>(null);
+  const [title, setTitle] = useState("");
+  const [description, setDescription] = useState("");
+  const [startDate, setStartDate] = useState("");
 
   return (
     <>
@@ -65,6 +65,13 @@ export const ConfigureRole = ({ data }: ConfigureRoleProps) => {
             if (roleDetail) {
               setDdatSkills(roleDetail.ddatSkills);
               setSfiaSkills(roleDetail.sfiaSkills);
+              setTitle(roleDetail.title);
+              setDescription(
+                roleDetail.ddatDescription !=
+                  "No separate description for this level"
+                  ? roleDetail.ddatDescription
+                  : roleDetail.ddatParentDescription
+              );
             }
           }}
         />
@@ -80,6 +87,13 @@ export const ConfigureRole = ({ data }: ConfigureRoleProps) => {
               if (roleDetail) {
                 setDdatSkills(roleDetail.ddatSkills);
                 setSfiaSkills(roleDetail.sfiaSkills);
+                setTitle(roleDetail.title);
+                setDescription(
+                  roleDetail.ddatDescription !=
+                    "No separate description for this level"
+                    ? roleDetail.ddatDescription
+                    : roleDetail.ddatParentDescription
+                );
               }
             }}
           />
@@ -89,9 +103,14 @@ export const ConfigureRole = ({ data }: ConfigureRoleProps) => {
         <>
           <KeyStats
             roleDetail={roleDetail}
-            titleRef={titleRef}
-            descriptionRef={descriptionRef}
-            dateRef={dateRef}
+            onTitleChange={(title: string) => setTitle(title)}
+            onDescriptionChange={(description: string) =>
+              setDescription(description)
+            }
+            onStartDateChange={(startDate: string) => setStartDate(startDate)}
+            title={title}
+            description={description}
+            startDate={startDate}
           />
           <KeySkills
             ddatskills={ddatSkills}
@@ -99,11 +118,10 @@ export const ConfigureRole = ({ data }: ConfigureRoleProps) => {
             sfiaSkills={sfiaSkills}
             setSfiaSkills={setSfiaSkills}
           />
-
           <ExportButtons
-            title={titleRef.current?.innerHTML}
-            startDate={dateRef.current?.value}
-            description={descriptionRef.current?.innerHTML}
+            title={title}
+            startDate={startDate}
+            description={description}
             ddatSkills={ddatSkills}
             sfiaSkills={sfiaSkills}
             roleDetail={roleDetail}
