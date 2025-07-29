@@ -3,6 +3,9 @@ A standardised way to create job specs and interview templates from the [Digital
 
 The DDaT framework is incredible, but it's not always easy to score candidates against the criteria in a consistent way. This tool aims to make it easier to create job specs and interview templates that are consistent and easy to use.
 
+##  View the generator 
+Visit [https://generate-job-description.vercel.app/](https://generate-job-description.vercel.app/) to see the generator running and export custom job specs/scoring templates. 
+
 ## Generating the skills data
 Included in this repository is a Python script that scrapes the [DDaT website](https://www.gov.uk/government/collections/digital-data-and-technology-profession-capability-framework) and generates a JSON file containing the relevant information. 
 
